@@ -43,41 +43,49 @@ him? Of course he would have! So, although this sail is not period in terms mate
 ![jib digram](./jib.png)
 # Step 1: Tools, Materials, and Resources
 Materials needed to build the Rookie sail:
-7 yards of 3.8oz [Dacron](./fabricDacron.md)
-4 yards of 5-6" wide, 5-6oz Dacron tape
-5 yards of 2" wide, 3.8oz Dacron tape
-1/2" wide Seamstick double-sided tape
-46 thread, #14 and #16 needles
-6" of 1" wide velcro
-3"x4" headboard
-x7 #0 spur grommets
-x2 #3 spur grommets
-x8 sail slides
-x2 12"x5/8" battens
-x1 18"x5/8" batten
-Heavy polyester twine for seizings and handsewing (I make this by breaking down 1/2" polyester three-strand line)
+
+ 7 yards of 3.8oz [Dacron](./fabricDacron.md)
+ 4 yards of 5-6" wide, 5-6oz Dacron tape
+ 5 yards of 2" wide, 3.8oz Dacron tape
+ 1/2" wide Seamstick double-sided tape
+ 46 thread, #14 and #16 needles
+ 6" of 1" wide velcro
+ 3"x4" headboard
+ x7 #0 spur grommets
+ x2 #3 spur grommets
+ x8 sail slides
+ x2 12"x5/8" battens
+ x1 18"x5/8" batten
+ Heavy polyester twine for seizings and handsewing (I make this by breaking down 1/2" polyester three-strand line)
+ 
 Tools needed:
-Sewing machine
-Hotknife
-Stapler and staple remover
-Tape measure and a long metal ruler
-Mechanical Pencil
-String
-Sailmaker's needles for handsewing and seizing
-Chunk of beeswax for handsewing and seizing
-Sewing palm for handsewing and seizing
-Hole cutters for #0 and #3 spur grommets
-Setting dies for #0 and #3 spur grommets
+
+ Sewing machine
+ Hotknife
+ Stapler and staple remover
+ Tape measure and a long metal ruler
+ Mechanical Pencil
+ String
+ Sailmaker's needles for handsewing and seizing
+ Chunk of beeswax for handsewing and seizing
+ Sewing palm for handsewing and seizing
+ Hole cutters for #0 and #3 spur grommets
+ Setting dies for #0 and #3 spur grommets
+
 You will also need enough space to lay the sail out full-size...preferably on a floor that you can stick thumbtacks into.
 As we go along through the steps, I will explain what each of the tools are used for, and possible alternatives.
 All of the tools and materials listed here can be purchased from:
-Sailrite
-Duckworks
-Jamestown
-Challenge (By far the cheapest, but you need a tax id)
-For more information on sailmaking, I recommend The Sailmaker's Apprentice by Emiliano Marino and Make Your Own Mainsails by James Lowell Grant. Both of these
-books are available on Amazon and Sailrite.
+
+ Sailrite
+ Duckworks
+ Jamestown
+ Challenge (By far the cheapest, but you need a tax id)
+ 
+
+For more information on sailmaking, I recommend The Sailmaker's Apprentice by Emiliano Marino and Make Your Own Mainsails by James Lowell Grant. Both of these books are available on Amazon and Sailrite.
+
 Image Notes
+
 1. Dacron
 2. #46 thread
 3. Dacron tape for luff and batten pockets
