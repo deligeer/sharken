@@ -1,5 +1,7 @@
 Make a Dacron Sail
+
 Modified by deligeer May 18, 2022
+
 by plasticvicar on June 2, 2012
 
 # Intro: Make a Dacron Sail
@@ -545,11 +547,11 @@ Image Notes
 1. Waxing a single-yarn for sewing on the headboard
 # Step 21: Install Grommets
 
-![gromment-kit](./gromment-kit.png)
-![gromment-couple](./gromment-couple.png)
-![gromment-pair](./gromment-pair.png)
-![gromment-hole-mark](./gromment-hole-mark.png)
-![gromment-hole](./gromment-hole.png)
+![gromment-kit](./gromment-kit.jpg)
+![gromment-couple](./gromment-couple.jpg)
+![gromment-pair](./gromment-pair.jpg)
+![gromment-hole-mark](./gromment-hole-mark.jpg)
+![gromment-hole](./gromment-hole.jpg)
 
 The track slides (or laces, robands, hoops, or whatever else you're using to attach the sail to the mast) are attached to grommets set in the luff. I believe the standard spacing for these is 18", but this is a little sail, so I decided to go with 16" spacing. This looks a little more proportionate on a small sail and is convenient to measure with a tape measure.
 
@@ -564,6 +566,7 @@ Next, I used a grommet setter to install spur grommets in the holes. I used #0 s
 When you use a hole cutter and a grommet setter, it's nice to use the right type of hammer. A heavy mallet or a deadblow hammer will work much better than a regular claw hammer, which tends to bounce off the cutter or grommet setter rather than transfer the force into the tool. Also, a stump makes a really excellent surface to do this on.
 
 Image Notes
+
 1. Spur grommets have little metal teeth that bite into the cloth and interlock with
 a lip on the male part of the grommet. Much stronger than hardware store
 grommets
@@ -575,54 +578,34 @@ Image Notes
 Image Notes
 1. Grommet setter for the #0 grommets. Give these a good wipe down before
 using them, otherwise that black coating will get on your hands and the sail
+
 # Step 22: Seize the Sail Slides
-Just as it was important to ensure that the luff grommets are all uniformly spaced from the edge of the luff, it's also important to make sure that all the slides are sized
-equidistant from the luff. Otherwise, all that effort you spent creating the luff round will be compromised. Additionally, you want to isolate the metal slide from the sail, or it
-will chafe through.
-To ensure all the slides are set away from the sail evenly, I used a little stick held in place with spring clamps. In this sail, I think my stick was a little too small. I might use
-a pen or pencil next time.
-First, wax up a heavy polyester seizing twine, just like when sewing on the headboard. Run it through a big needle, and tie an overhand knot in the end. Slip this knotted
-end through the bail of the slide and cow-hitch it in place. Wrap the twine through the grommet and the slide bail several times, keeping an even tension as you go.
-Remove the spacer stick. Pass the needle once more through the bail of the slide, and then through the body of the seizing where the spacer stick formerly was. Tie a
-couple tight half-hitches around the body of the seizing. Pull these really tight, then cut the twine and melt the end with a lighter.
+
+![seize-sail-slides-1](./seize-sail-slides-1.png)
+![seize-sail-slides-2.0](./seize-sail-slides-2.0.jpg)
+![seize-sail-slides-2](./seize-sail-slides-2.jpg)
+![seize-sail-slides-3](./seize-sail-slides-3.jpg)
+![seize-sail-slides-4](./seize-sail-slides-4.jpg)
+
+Just as it was important to ensure that the luff grommets are all uniformly spaced from the edge of the luff, it's also important to make sure that all the slides are sized equidistant from the luff. Otherwise, all that effort you spent creating the luff round will be compromised. Additionally, you want to isolate the metal slide from the sail, or it will chafe through.
+
+To ensure all the slides are set away from the sail evenly, I used a little stick held in place with spring clamps. In this sail, I think my stick was a little too small. I might use a pen or pencil next time.
+
+First, wax up a heavy polyester seizing twine, just like when sewing on the headboard. Run it through a big needle, and tie an overhand knot in the end. Slip this knotted end through the bail of the slide and cow-hitch it in place. Wrap the twine through the grommet and the slide bail several times, keeping an even tension as you go.
+
+Remove the spacer stick. Pass the needle once more through the bail of the slide, and then through the body of the seizing where the spacer stick formerly was. Tie a couple tight half-hitches around the body of the seizing. Pull these really tight, then cut the twine and melt the end with a lighter.
+
 Sieze a slide at each #0 grommet, and one in the middle of the headboard.
+
 # Step 23: Round the Corners
-The grommets at the clew and tack are round. The headboard is probably rounded too. But the corners of the sail are pointy! You can use a hotknife to cut a radius on
-these pointy corners that compliments the grommets.
-I can see this being functional on the clew of a jib, where the sheets are attached directly to the sail and this corner must be smooth to avoid snagging and allow chafe
-reinforcement to be sewn on easily. But for a boomed mainsail, I am pretty sure this is purely cosmetic. Please enlighten me in the comments if I'm wrong.
+The grommets at the clew and tack are round. The headboard is probably rounded too. But the corners of the sail are pointy! You can use a hotknife to cut a radius on these pointy corners that compliments the grommets.
+
+I can see this being functional on the clew of a jib, where the sheets are attached directly to the sail and this corner must be smooth to avoid snagging and allow chafe reinforcement to be sewn on easily. But for a boomed mainsail, I am pretty sure this is purely cosmetic. Please enlighten me in the comments if I'm wrong.
+
 # Step 24: Rig it and Go Sailing Already
 Nice work! Time to rig it up and see how it sails!
-I have rigged and sailed the Rookie, but have yet to take any photos! I know right! Not a very climactic ending, and now that it's Fall, it looks like we won't have any good
-Rookie photos until next Spring. But I wanted to publish this Instructable, rather than wait around for a photo. I'll add one as soon as I have one!
-Related Instructables
-outrigger
-canoe with
-freestanding
-mast by damonv
-How
-to Build a sail
-boat that is
-much cheaper
-than retail ones.
-by When in
-doubt, duct tape!
-repairing a
-headsail by josh
-Trip Log:
-Outrigger
-Canoe Sailing
-the California
-Channel Islands
-by TimAnderson
-Canoe Sail
-by TimAnderson
-Sailing Rig for a
-Fiberglass
-Canoe by MrC
-Advertisements
-Comments
-1 comments Add Comment
-mikeasaurus says: Oct 18, 2012. 11:00 PM REPLY
+
+I have rigged and sailed the Rookie, but have yet to take any photos! I know right! Not a very climactic ending, and now that it's Fall, it looks like we won't have any good Rookie photos until next Spring. But I wanted to publish this Instructable, rather than wait around for a photo. I'll add one as soon as I have one!
+
 # Reference:
 [http://www.instructables.com/id/Make-a-Dacron-Sail/](http://www.instructables.com/id/Make-a-Dacron-Sail/)
