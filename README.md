@@ -5,6 +5,6 @@ boad manager
 for injection and rotation mold creation
 ### product manufacturing
 
-## mast
+## [mast](./mast.md)
 
-## 
+## [jib](./jib.md)
