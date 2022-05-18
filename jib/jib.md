@@ -543,22 +543,26 @@ Image Notes
 use this hole to seize on a sail slide
 Image Notes
 1. Waxing a single-yarn for sewing on the headboard
-Step 21: Install Grommets
-The track slides (or laces, robands, hoops, or whatever else you're using to attach the sail to the mast) are attached to grommets set in the luff. I believe the standard
-spacing for these is 18", but this is a little sail, so I decided to go with 16" spacing. This looks a little more proportionate on a small sail and is convenient to measure with
-a tape measure.
-It's important that the grommets be set a consistent distance from the edge of the luff, otherwise you can induce unintentional curvature. I set the grommets centered in
-the middle of the folded portion of the luff tape, and made a marking gauge similar to the one I used when folding the tape to ensure uniform placement.
+# Step 21: Install Grommets
+
+![gromment-kit](./gromment-kit.png)
+![gromment-couple](./gromment-couple.png)
+![gromment-pair](./gromment-pair.png)
+![gromment-hole-mark](./gromment-hole-mark.png)
+![gromment-hole](./gromment-hole.png)
+
+The track slides (or laces, robands, hoops, or whatever else you're using to attach the sail to the mast) are attached to grommets set in the luff. I believe the standard spacing for these is 18", but this is a little sail, so I decided to go with 16" spacing. This looks a little more proportionate on a small sail and is convenient to measure with a tape measure.
+
+It's important that the grommets be set a consistent distance from the edge of the luff, otherwise you can induce unintentional curvature. I set the grommets centered in the middle of the folded portion of the luff tape, and made a marking gauge similar to the one I used when folding the tape to ensure uniform placement.
+
 Once the centers of all the holes are marked, I used a circle cutter and a deadblow hammer to cut all the holes.
-If you don't want to buy a hole cutter, it is possible to use a utility knife instead; it's not ideal, and it's very time consuming, but it does work. Make an x-shaped cut over
-the circle center, push the male portion of the grommet through this hole, then trim the little triangular tabs of cloth against the grommet's barrel. Don't cut yourself.
-Next, I used a grommet setter to install spur grommets in the holes. I used #0 spur grommets for the slides, and #3 spur grommets at the tack and clew. Be aware that
-spur grommets are not the same as the washer grommets sold in hardware stores. Spur grommets are made from heavier metal, and feature metal spurs around the
-edges that dig into the fabric to provide extra strength. Pro-tip: if you have black grommet setters like mine, give them a wipe with a rag before using them, otherwise the
-black can rub off on you and your sail.
-When you use a hole cutter and a grommet setter, it's nice to use the right type of hammer. A heavy mallet or a deadblow hammer will work much better than a regular
-claw hammer, which tends to bounce off the cutter or grommet setter rather than transfer the force into the tool. Also, a stump makes a really excellent surface to do this
-on.
+
+If you don't want to buy a hole cutter, it is possible to use a utility knife instead; it's not ideal, and it's very time consuming, but it does work. Make an x-shaped cut over the circle center, push the male portion of the grommet through this hole, then trim the little triangular tabs of cloth against the grommet's barrel. Don't cut yourself.
+
+Next, I used a grommet setter to install spur grommets in the holes. I used #0 spur grommets for the slides, and #3 spur grommets at the tack and clew. Be aware that spur grommets are not the same as the washer grommets sold in hardware stores. Spur grommets are made from heavier metal, and feature metal spurs around the edges that dig into the fabric to provide extra strength. Pro-tip: if you have black grommet setters like mine, give them a wipe with a rag before using them, otherwise the black can rub off on you and your sail.
+
+When you use a hole cutter and a grommet setter, it's nice to use the right type of hammer. A heavy mallet or a deadblow hammer will work much better than a regular claw hammer, which tends to bounce off the cutter or grommet setter rather than transfer the force into the tool. Also, a stump makes a really excellent surface to do this on.
+
 Image Notes
 1. Spur grommets have little metal teeth that bite into the cloth and interlock with
 a lip on the male part of the grommet. Much stronger than hardware store
