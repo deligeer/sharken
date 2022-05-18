@@ -1,6 +1,6 @@
 Solution schema, notes, cost minmium, cost maximum, quantities
 tow mold solution, investment(RMB),150000, 160000,
 multiple molds solution, investment(RMB), 50000, 50000,
-stability mold(45cm long, 7cm width, 8cm height), investment(RMB), 2000,
-stability mold(45cm long, 7cm width, 8cm height), manufacture price(RMB/boat), 50, ,200
-stability mold(90cm long, 14cm width, 16cm height), investment(RMB), 4000
+stability mold(45cm long;7cm width;8cm height), investment(RMB), 2000,
+stability mold(45cm long;7cm width;8cm height), manufacture price(RMB/boat), 50, ,200
+stability mold(90cm long;14cm width;16cm height), investment(RMB), 4000
