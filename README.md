@@ -1,7 +1,7 @@
 # sharken
 boad manager
 ## boat body
-### mold creation
+### [mold creation](./body/mold.md)
 for injection and rotation mold creation
 ### product manufacturing
 
