@@ -17,8 +17,9 @@ sharken sailing rig parts
 13.	locking_pivot.stl
 14.	solid_sail.stl
 15.	folding_sail_pivot_base.stl
-16.	folding_sail_pivot.stl
-17.	sailing_clam_cleat_with_eye.stl
-18.	cleat.stl
-19.	sheet_eye.stl
+[15folding_sail_pivot_base](./15folding_sail_pivot_base.jpg)
+17.	folding_sail_pivot.stl
+18.	sailing_clam_cleat_with_eye.stl
+19.	cleat.stl
+20.	sheet_eye.stl
 
