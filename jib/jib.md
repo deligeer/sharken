@@ -182,27 +182,34 @@ Image Notes
 5. Luff round location
 6. Luff round location
 7. Luff round location
+
 # Step 4: Roll Out the Cloth
+![RollOutCloth0](./RollOutCloth0.jpg)
+![RollOutCloth1](./RollOutCloth1.jpg)
+![RollOutCloth2](./RollOutCloth2.jpg)
+![RollOutCloth3](./RollOutCloth3.jpg)
+![RollOutCloth4](./RollOutCloth4.jpg)
+
 With all the lofting done, it's time to roll out the cloth!
-Start at the tack seam, rolling the cloth from the leech to the luff. Stick a few pins in the cloth to keep it in place. Give yourself enough allowance on each edge for tablings
-and the cloth shifting around after you broadseam (next step); I left myself about 4" on each side. Now cut!
-Next, stick a piece of double-sided tape along the top edge of the fabric. I am using 1/2" seam allowances on this sail, so I bought 1/2" wide seamstick. That way, I didn't
-have to measure, I just had to make sure my cloth edges were aligned with the edges of the tape.
+
+Start at the tack seam, rolling the cloth from the leech to the luff. Stick a few pins in the cloth to keep it in place. Give yourself enough allowance on each edge for tablings and the cloth shifting around after you broadseam (next step); I left myself about 4" on each side. Now cut!
+
+Next, stick a piece of double-sided tape along the top edge of the fabric. I am using 1/2" seam allowances on this sail, so I bought 1/2" wide seamstick. That way, I didn't have to measure, I just had to make sure my cloth edges were aligned with the edges of the tape.
+
 Do not pull the backing off the tape yet!
-Now turn your cloth roll 180 degrees and roll it back towards the leech, working your way up towards the head. Make sure the edge of the fabric lines up with the edge of
-the tape, giving you your 1/2" seam allowance. Pin it out as you go along, cut it, and put another strip of double-sided tape along its top edge, but again do not pull off the
-backing tape yet.
-Rotate the roll 180 degrees, roll it towards the luff, and continue working back and forth in this manner until you have seamed all the way up from the tack seam to the
-head.
-Once you've gotten all the way up to the head, go back to the tack seam and work towards the foot. The reason this is done is to accomodate big foot tapers found mostly
-in jibs and genoas, but also occasionally in mainsails. In hindsight, I guess we didn't need to do it in two halves on this particular sail.
-Anyways, roll the cloth along the tack seam down to the foot, in much the same manner as before, but this time put the seamstick on the new fabric being rolled out, and
-slide it under the existing cloths, to keep the seam overlaps going in the same direction.
-http://www.instructables.com/id/Make-a-Dacron-Sail/
+
+Now turn your cloth roll 180 degrees and roll it back towards the leech, working your way up towards the head. Make sure the edge of the fabric lines up with the edge of the tape, giving you your 1/2" seam allowance. Pin it out as you go along, cut it, and put another strip of double-sided tape along its top edge, but again do not pull off the backing tape yet.
+
+Rotate the roll 180 degrees, roll it towards the luff, and continue working back and forth in this manner until you have seamed all the way up from the tack seam to the head.
+
+Once you've gotten all the way up to the head, go back to the tack seam and work towards the foot. The reason this is done is to accomodate big foot tapers found mostly in jibs and genoas, but also occasionally in mainsails. In hindsight, I guess we didn't need to do it in two halves on this particular sail.
+
+Anyways, roll the cloth along the tack seam down to the foot, in much the same manner as before, but this time put the seamstick on the new fabric being rolled out, and slide it under the existing cloths, to keep the seam overlaps going in the same direction.
+
 Image Notes
 1. Double-sided seamstick tape
-http://www.instructables.com/id/Make-a-Dacron-Sail/
-Step 5: Annotate Points of Interest
+
+# Step 5: Annotate Points of Interest
 With the cloth all laid and pinned out, it's time to mark the important points on our sail
 These include:
 Head
@@ -497,27 +504,30 @@ tension on my sewing machine for each seam. On the real luff, this staple is
 located much closer to the edge, out of the way of the seam.
 # Step 19: Make and Attach Batten Pockets
 The key to this step is to use copious amounts of double-sided tape. Otherwise you'll go crazy.
-My batten pockets have an opening at the top rear, which is held shut with velcro. The opening is a little longer than 1/4 the length of the batten, allowing the battens to
-be slid in with mild difficulty. The good news is, that they won't come flying out when you're sailing.
+
+My batten pockets have an opening at the top rear, which is held shut with velcro. The opening is a little longer than 1/4 the length of the batten, allowing the battens to be slid in with mild difficulty. The good news is, that they won't come flying out when you're sailing.
+
 I made the pockets out of 2" wide, 3.8oz Dacron tape, and made the pockets in such a way that there is is double-thickness on both ends.
-I wholeheartedly recommend mocking up the batten pockets with paper first, then making a quick full size mockup with Dacron tape to work out all the kinks before
-making the real thing.
+
+I wholeheartedly recommend mocking up the batten pockets with paper first, then making a quick full size mockup with Dacron tape to work out all the kinks before making the real thing.
+
 Also, use a lot of sticky tape. Everywhere that you're going to run stitches can and should be sticky taped first.
-While sewing the batten pockets on, don't think you need to run the stitches continuously around the perimeter of the pocket. I run stitches down one long-side, then
-down the other long side, then do the short end on the forward side with two rows of stitches. I hand-sew the after end to the leech. Also, while you've got the thing in the
-machine, take the opportunity to sew on a telltale below the pockets. I made my telltales out of lightweight ripstop nylon that I hotknifed 1/2" x 6".
-The leech ends of the batten pockets are handsewn with heavy twine. Start at the bottom of the pocket, and work your way up to the top using an oversew stitch. Take an
-extra turn or two at the top using the same hole. Then use the same holes and oversew back down, making a nice x-shaped pattern. Finish the ends of the thread with
-big knots, and melt the bitter ends of the thread with a lighter.
+While sewing the batten pockets on, don't think you need to run the stitches continuously around the perimeter of the pocket. I run stitches down one long-side, then down the other long side, then do the short end on the forward side with two rows of stitches. I hand-sew the after end to the leech. Also, while you've got the thing in the machine, take the opportunity to sew on a telltale below the pockets. I made my telltales out of lightweight ripstop nylon that I hotknifed 1/2" x 6".
+
+The leech ends of the batten pockets are handsewn with heavy twine. Start at the bottom of the pocket, and work your way up to the top using an oversew stitch. Take an extra turn or two at the top using the same hole. Then use the same holes and oversew back down, making a nice x-shaped pattern. Finish the ends of the thread with big knots, and melt the bitter ends of the thread with a lighter.
+
 I also made a small hand-sewn reinforcement on the forward end of the pocket opening, as that will receive a lot of strain when battens are inserted.
+
 Image Notes
 1. Paper mockup
+
 Image Notes
 1. 2" Dacron tape
 2. Reinforcement for the forward end of the pocket
 3. Folded reinforcement for the after end of the pocket
 4. Velcro closure for the top opening
 5. Velcro closure for the top opening
+
 Image Notes
 1. Unlike the sails seams, I sewed over the edge of the reinforcement patches to
 keep the batten from snagging on them.
