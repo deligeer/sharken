@@ -351,10 +351,13 @@ Once I got the webbing curved nicely, I ran a single pencil line down it, pulled
 
 ![DrawLuffCurve1](./DrawLuffCurve1.jpg)
 ![DrawLuffCurve2](./DrawLuffCurve2.jpg)
-![DrawLuffCurve3](./DrawLuffCurve3.jpg)
+![DrawLuffCurve3](./DrawLuffCurve3-nodes.jpg)
 
 Image Notes
 1. By sighting down the webbing, I can see a spot right there that needs adjustment
+
+![DrawLuffCurve4](./DrawLuffCurve4.jpg)
+
 
 # Step 11: Draw the Foot Curve
 This sail is flown loose-footed, meaning it is not attached to the boom except at the tack and clew. Therefore, the foot curve cannot be used to push shape into the sail like the luff is; the foot curve on this sail is almost entirely cosmetic.
