@@ -132,11 +132,47 @@ Finally, once you've drawn up your sail design, with edge curves and broadseams,
 ![camber-chord-ratio](./camber-chord-ratio.png)
 
 # Step 3: Loft the Perimeter
-![LoftPerimeter1](./LoftPerimeter1.jpg)
-![LoftPerimeter2](./LoftPerimeter2.jpg)
-![LoftPerimeter3](./LoftPerimeter3.jpg)
-![LoftPerimeter4](./LoftPerimeter4.jpg)
-![LoftPerimeter5](./LoftPerimeter5.jpg)
+
+![LoftPerimeter1-nodes](./LoftPerimeter1-nodes.jpg)
+Image Notes
+1. Tack
+2. Leech
+3. Luff
+4. Foot
+5. Clew
+6. Head
+
+![LoftPerimeter2](./LoftPerimeter2-nodes.jpg)
+Image Notes
+1. Headboard
+2. Straight-line head, but not the actual head of the sail
+3. Thin pink string represents the straight-line leech
+4. Luff
+5. Leech
+
+![LoftPerimeter3](./LoftPerimeter3-nodes.jpg)
+Image Notes
+1. Thin pink line represents the straight-line leech
+2. Pin at roach location 1
+3. Pin at roach location 2
+4. Pin at roach location 3
+5. White cotton cord represents actual perimeter of the sail
+
+![LoftPerimeter4](./LoftPerimeter4-nodes.jpg)
+Image Notes
+1. Framing square against thin pink straight-line leech to determine the tack seam
+2. Tack
+3. String represents the tack seam
+
+![LoftPerimeter5](./LoftPerimeter5-nodes.jpg)
+Image Notes
+1. Head
+2. Roach Point
+3. Roach Point
+4. Foot round location
+5. Luff round location
+6. Luff round location
+7. Luff round location
 
 Lofting is simply the process of drawing something full-size. The key requirements for a lofting area include:
 
@@ -159,38 +195,6 @@ Now use the cotton twine and more pins for the headboard, roach, foot curve loca
 Finally, you need to pin a string to represent the tack seam. This line goes from the tack to the leech, and strikes the straight-line leech at exactly 90 degrees. I used a framing square against the straight-line leech string to find this location. This line is important! The cloth is laid out 90 degrees to the leech because the fabric does not stretch (much) along that axis, and thus keeping the leech tight under load. (Cloth orientation, stretch and its effects are important in sailmaking. For more information on cloth stretchiness along the warp, weft and bias, refer to The Sailmaker's Apprentice by Emiliano Marino.)
 
 Because I wasn't going to be able to finish the sail in one evening, and I didn't want to stub my toe on a pin if I got up in the middle of the night, I went around the cotton twine with masking tape, being sure to annotate points of interest such as the roach and edge round locations.
-
-Image Notes
-1. Tack
-2. Leech
-3. Luff
-4. Foot
-5. Clew
-6. Head
-Image Notes
-1. Headboard
-2. Straight-line head, but not the actual head of the sail
-3. Thin pink string represents the straight-line leech
-4. Luff
-5. Leech
-Image Notes
-1. Thin pink line represents the straight-line leech
-2. Pin at roach location 1
-3. Pin at roach location 2
-4. Pin at roach location 3
-5. White cotton cord represents actual perimeter of the sail
-Image Notes
-1. Framing square against thin pink straight-line leech to determine the tack seam
-2. Tack
-3. String represents the tack seam
-Image Notes
-1. Head
-2. Roach Point
-3. Roach Point
-4. Foot round location
-5. Luff round location
-6. Luff round location
-7. Luff round location
 
 # Step 4: Roll Out the Cloth
 ![RollOutCloth0](./RollOutCloth0.jpg)
