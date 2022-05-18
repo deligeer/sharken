@@ -229,20 +229,25 @@ Anyways, roll the cloth along the tack seam down to the foot, in much the same m
 
 # Step 5: Annotate Points of Interest
 With the cloth all laid and pinned out, it's time to mark the important points on our sail
+
 These include:
-Head
-Tack
-Clew
-Roach points
-Foot round point(s)
-Luff curve points
-Where each seam strikes the perimeter of the sail
-The location on each seam where a broadseam starts
+* Head
+* Tack
+* Clew
+* Roach points
+* Foot round point(s)
+* Luff curve points
+* Where each seam strikes the perimeter of the sail
+* The location on each seam where a broadseam starts
+
 I use a mechanical pencil to make these marks. It's probably a good idea to make a little annotation along with the mark.
-http://www.instructables.com/id/Make-a-Dacron-Sail/
+![AnotatePointsOfInterest](./AnotatePointsOfInterest.jpg)
+![AnotatePointsOfInterest2](./AnotatePointsOfInterest2-nodes.jpg)
+
 Image Notes
 1. Roach Point
 2. Where seam strikes the leech
+
 # Step 6: Sticky-Tape All Straight Seams
 On the Rookie sail, all the seams are broadened to a greater or lesser extent, both at the luff and the leech. However, each seam also has a portion in the middle of the
 sail that is straight—a consistent 1/2" wide seam. At this point, stick these straight portions with the double stick tape.
