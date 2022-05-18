@@ -534,8 +534,8 @@ Image Notes
 # Step 20: Attach the Headboard
 
 ![AttachHeadboard-1](AttachHeadboard-1.jpg)
-![AttachHeadboard-2](AttachHeadboard-1.jpg)
-![AttachHeadboard-3](AttachHeadboard-1.jpg)
+![AttachHeadboard-2](AttachHeadboard-2.jpg)
+![AttachHeadboard-3](AttachHeadboard-3.jpg)
 
 Place the headboard onto the sail, and trace all the holes. Use a circle cutter and a deadblow hammer to cut the hole for the halyard. If attaching the headboard with rivets, use a small hole cutter to cut the rivet holes. If handsewing, use an awl or small nail coated in wax to pre-poke sewing holes.
 Typically, headboards are riveted in place with aluminum rivets. The problem is, I didn't have any rivets that were the right size, so I decided to handsew the headboard in place. A case can be made for handsewing, as it won't corrode like rivets will, and it really doesn't take all that long.
