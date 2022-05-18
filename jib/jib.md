@@ -134,6 +134,7 @@ Finally, once you've drawn up your sail design, with edge curves and broadseams,
 # Step 3: Loft the Perimeter
 
 ![LoftPerimeter1-nodes](./LoftPerimeter1-nodes.jpg)
+
 Image Notes
 1. Tack
 2. Leech
@@ -143,6 +144,7 @@ Image Notes
 6. Head
 
 ![LoftPerimeter2](./LoftPerimeter2-nodes.jpg)
+
 Image Notes
 1. Headboard
 2. Straight-line head, but not the actual head of the sail
@@ -151,6 +153,7 @@ Image Notes
 5. Leech
 
 ![LoftPerimeter3](./LoftPerimeter3-nodes.jpg)
+
 Image Notes
 1. Thin pink line represents the straight-line leech
 2. Pin at roach location 1
@@ -159,12 +162,14 @@ Image Notes
 5. White cotton cord represents actual perimeter of the sail
 
 ![LoftPerimeter4](./LoftPerimeter4-nodes.jpg)
+
 Image Notes
 1. Framing square against thin pink straight-line leech to determine the tack seam
 2. Tack
 3. String represents the tack seam
 
 ![LoftPerimeter5](./LoftPerimeter5-nodes.jpg)
+
 Image Notes
 1. Head
 2. Roach Point
