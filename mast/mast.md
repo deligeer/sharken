@@ -7,3 +7,4 @@
 ## mast assembly
 
 ## mast installation
+[Falcon Kayak installation](./falcon-kayak-install.md)
