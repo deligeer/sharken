@@ -43,7 +43,7 @@ him? Of course he would have! So, although this sail is not period in terms mate
 ![jib digram](./jib.png)
 # Step 1: Tools, Materials, and Resources
 Materials needed to build the Rookie sail:
-7 yards of 3.8oz Dacron
+7 yards of 3.8oz [Dacron](./fabricDacron.md)
 4 yards of 5-6" wide, 5-6oz Dacron tape
 5 yards of 2" wide, 3.8oz Dacron tape
 1/2" wide Seamstick double-sided tape
@@ -648,3 +648,5 @@ Advertisements
 Comments
 1 comments Add Comment
 mikeasaurus says: Oct 18, 2012. 11:00 PM REPLY
+# Reference:
+[http://www.instructables.com/id/Make-a-Dacron-Sail/](http://www.instructables.com/id/Make-a-Dacron-Sail/)
