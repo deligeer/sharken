@@ -40,7 +40,7 @@ Historical Museum this winter, and I made the following sail for it.
 You may be wondering why I would make a modern Dacron sail for a 100 year old boat. Good question. The builder of our boat, Oscar Perry, was famous for boasting
 that he could build a Rookie in a single day. Given this attitude, do you think Mr. Perry would have used Dacron cloth, seamstick, and luff tapes if they were available to
 him? Of course he would have! So, although this sail is not period in terms materials, it is most definitely fitting in with the spirit of the original.
-![jib digram](./jib/jib.png)
+![jib digram](./jib.png)
 # Step 1: Tools, Materials, and Resources
 Materials needed to build the Rookie sail:
 7 yards of 3.8oz Dacron
