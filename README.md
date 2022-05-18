@@ -1,5 +1,16 @@
 # sharken
-boad manager
+boat project manager
+
+## objective 
+
+### single sailing boat for race
+
+### main boat with stability for race
+
+### main boat with stability for fishing
+
+## project feasibility study 
+
 ## boat body
 ### [mold creation](./body/mold.md)
 for injection and rotation mold creation
