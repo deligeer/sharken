@@ -87,7 +87,7 @@ All of the tools and materials listed here can be purchased from:
  
 
 For more information on sailmaking, I recommend The Sailmaker's Apprentice by Emiliano Marino and Make Your Own Mainsails by James Lowell Grant. Both of these books are available on Amazon and Sailrite.
-
+![materials](./materials.jpg)
 Image Notes
 
 1. Dacron
@@ -101,6 +101,8 @@ handsewing twine
 8. Battens
 9. #0 spur grommets
 10. #3 spur grommets
+
+![tools](./tools.jpg)
 Image Notes
 1. Sewing machine
 2. Hole cutter set
