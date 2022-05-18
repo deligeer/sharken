@@ -83,7 +83,7 @@ All of the tools and materials listed here can be purchased from:
 * Duckworks
 * Jamestown
 * Challenge (By far the cheapest, but you need a tax id)
-* [Fabric Dacron](./fabricDacronSupplier.md)
+* [Fabric Dacron](./fabric-dacron-supplier.md)
  
 
 For more information on sailmaking, I recommend The Sailmaker's Apprentice by Emiliano Marino and Make Your Own Mainsails by James Lowell Grant. Both of these books are available on Amazon and Sailrite.
