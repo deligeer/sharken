@@ -13,6 +13,10 @@ You may be wondering why I would make a modern Dacron sail for a 100 year old bo
 
 ![jib digram](./jib.png)
 
+![jib svg](./jib-enlarge.svg)
+
+[svg convertor tools](https://www.visioncortex.org/vtracer/)
+
 # Step 1: Tools, Materials, and Resources
 
 Materials needed to build the Rookie sail:
