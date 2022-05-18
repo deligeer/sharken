@@ -1,5 +1,8 @@
 # mold manufacture solutions
 
+## two mold solution
+
+
 ## 5 meter below size solution
 ![united componment solution](./body-solution-unites.jpg)
 
@@ -24,3 +27,15 @@ The Kayak is comprised of 28, 3D printed sections. Each section has M5 brass thr
 [reference:](https://cults3d.com/en/3d-model/various/world-s-first-3d-printed-kayak-stls-only)
 
 ## 5 meter above size solution
+
+# stability float
+
+![stability](./stability.jpg)
+
+two stability solution
+
+
+# cost estimation
+
+[investment](./investment.csv)
+
