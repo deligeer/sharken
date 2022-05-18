@@ -367,10 +367,11 @@ The foot curve is described by only one point, a certain distance back from the 
 Unlike the luff, which will be taped, I am using a 3/4" folded tabling on the foot. To accomodate this, I drew one line right along the webbing—that's my fold-line, and the outline of the finished sail. Then I set a compass to 3/4" wide, and ran it along the edge of the webbing, being sure to keep it at right angles to the webbing.* This is the line that I will cut. Make sure you clearly annotate the cut lines vs the fold lines on the sail!
 
 * Mr. Math says, "Don't you mean the compass should be at right angles to the tangent of the curve of the webbing?"
-
+![DrawFootCurve1](./DrawFootCurve1.jpg)
+![DrawFootCurve2](./DrawFootCurve2-nodes.jpg)
 Image Notes
 1. Drawing the fold-to line
-
+![DrawFootCurve3](./DrawFootCurve3-nodes.jpg)
 Image Notes
 1. Drawing the cut-to line with a compass set to the width of the tabling
 
