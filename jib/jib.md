@@ -128,29 +128,34 @@ Finally, once you've drawn up your sail design, with edge curves and broadseams,
 ![camber-chord-ratio](./camber-chord-ratio.png)
 
 # Step 3: Loft the Perimeter
+![LoftPerimeter1](./LoftPerimeter1.jpg)
+![LoftPerimeter2](./LoftPerimeter2.jpg)
+![LoftPerimeter3](./LoftPerimeter3.jpg)
+![LoftPerimeter4](./LoftPerimeter4.jpg)
+![LoftPerimeter5](./LoftPerimeter5.jpg)
+
 Lofting is simply the process of drawing something full-size. The key requirements for a lofting area include:
-enough space for the sail, plus room to lay out the cloth, plus any lofting battens that you'll use to draw curves
-a floor that you can push pins into
-cleanliness and good lighting
-This is a small little sail, so for convenience I lofted it in my living room. I discovered too late that my living room didn't have enough room for lofting battens, but I found a
-way around that.
-Modern Dacron sails are constructed starboard-side-up for good luck, but due to my furniture layout I had to do mine port-side up at this stage. (I still sewed the corner
-patches, tablings, and batten pockets to the starboard side though).
-The first step is to draw the straight-line perimeter, by pushing pins into the floor at each of the sail's corners. If your floor has visible planks like mine does, it's helpful to
-align the leech with the seams in the floor, because you'll be rolling cloth out relative to the leech. That being said, I didn't have room to do that, so I aligned my luff to one
+
+* enough space for the sail, plus room to lay out the cloth, plus any lofting battens that you'll use to draw curves 
+* a floor that you can push pins into
+* cleanliness and good lighting
+
+This is a small little sail, so for convenience I lofted it in my living room. I discovered too late that my living room didn't have enough room for lofting battens, but I found a way around that.
+Modern Dacron sails are constructed starboard-side-up for good luck, but due to my furniture layout I had to do mine port-side up at this stage. (I still sewed the corner patches, tablings, and batten pockets to the starboard side though).
+
+The first step is to draw the straight-line perimeter, by pushing pins into the floor at each of the sail's corners. If your floor has visible planks like mine does, it's helpful to align the leech with the seams in the floor, because you'll be rolling cloth out relative to the leech. That being said, I didn't have room to do that, so I aligned my luff to one
 of the seams. Better than nothing!
-I took the measurements of the straight-line luff, leech, and foot from the drawing, and made corresponding lengths of string with loops on each end to exactly the same
-dimensions. I used some old non-stretch spectra kite line; the key is the non-stretch part. After I made the lengths, I pushed a pin into the floor representing the tack
-corner, then used the corresponding kite lines to locate the head and clew pins. In the photos, this line is pink.
-Next, I wrapped the perimeter with some stretchy cotton twine, so that there were two strings going around...non-stretch pink kite string representing the straight-line
-dimensions, and stretch cotton twine that will soon receive the edge curve dimensions.
+
+I took the measurements of the straight-line luff, leech, and foot from the drawing, and made corresponding lengths of string with loops on each end to exactly the same dimensions. I used some old non-stretch spectra kite line; the key is the non-stretch part. After I made the lengths, I pushed a pin into the floor representing the tack corner, then used the corresponding kite lines to locate the head and clew pins. In the photos, this line is pink.
+
+Next, I wrapped the perimeter with some stretchy cotton twine, so that there were two strings going around...non-stretch pink kite string representing the straight-line dimensions, and stretch cotton twine that will soon receive the edge curve dimensions.
+
 Now use the cotton twine and more pins for the headboard, roach, foot curve location, and luff curve locations according to the sail design.
-Finally, you need to pin a string to represent the tack seam. This line goes from the tack to the leech, and strikes the straight-line leech at exactly 90 degrees. I used a
-framing square against the straight-line leech string to find this location. This line is important! The cloth is laid out 90 degrees to the leech because the fabric does not
-stretch (much) along that axis, and thus keeping the leech tight under load. (Cloth orientation, stretch and its effects are important in sailmaking. For more information on
-cloth stretchiness along the warp, weft and bias, refer to The Sailmaker's Apprentice by Emiliano Marino.)
-Because I wasn't going to be able to finish the sail in one evening, and I didn't want to stub my toe on a pin if I got up in the middle of the night, I went around the cotton
-twine with masking tape, being sure to annotate points of interest such as the roach and edge round locations.
+
+Finally, you need to pin a string to represent the tack seam. This line goes from the tack to the leech, and strikes the straight-line leech at exactly 90 degrees. I used a framing square against the straight-line leech string to find this location. This line is important! The cloth is laid out 90 degrees to the leech because the fabric does not stretch (much) along that axis, and thus keeping the leech tight under load. (Cloth orientation, stretch and its effects are important in sailmaking. For more information on cloth stretchiness along the warp, weft and bias, refer to The Sailmaker's Apprentice by Emiliano Marino.)
+
+Because I wasn't going to be able to finish the sail in one evening, and I didn't want to stub my toe on a pin if I got up in the middle of the night, I went around the cotton twine with masking tape, being sure to annotate points of interest such as the roach and edge round locations.
+
 Image Notes
 1. Tack
 2. Leech
