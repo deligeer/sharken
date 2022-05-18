@@ -1,7 +1,7 @@
 # mold manufacture solutions
 
 ## two mold solution
-
+![two mold](./body-two-molds.jpg)
 
 ## 5 meter below size solution
 ![united componment solution](./body-solution-unites.jpg)
