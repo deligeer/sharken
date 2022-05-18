@@ -203,8 +203,11 @@ Because I wasn't going to be able to finish the sail in one evening, and I didn'
 
 # Step 4: Roll Out the Cloth
 ![RollOutCloth0](./RollOutCloth0.jpg)
-![RollOutCloth1](./RollOutCloth1.jpg)
-![RollOutCloth2](./RollOutCloth2.jpg)
+![RollOutCloth1](./RollOutCloth1-nodes.jpg)
+
+Image Notes
+1. Double-sided seamstick tape
+
 ![RollOutCloth3](./RollOutCloth3.jpg)
 ![RollOutCloth4](./RollOutCloth4.jpg)
 
@@ -223,9 +226,6 @@ Rotate the roll 180 degrees, roll it towards the luff, and continue working back
 Once you've gotten all the way up to the head, go back to the tack seam and work towards the foot. The reason this is done is to accomodate big foot tapers found mostly in jibs and genoas, but also occasionally in mainsails. In hindsight, I guess we didn't need to do it in two halves on this particular sail.
 
 Anyways, roll the cloth along the tack seam down to the foot, in much the same manner as before, but this time put the seamstick on the new fabric being rolled out, and slide it under the existing cloths, to keep the seam overlaps going in the same direction.
-
-Image Notes
-1. Double-sided seamstick tape
 
 # Step 5: Annotate Points of Interest
 With the cloth all laid and pinned out, it's time to mark the important points on our sail
