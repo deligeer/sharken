@@ -16,6 +16,8 @@ boat project manager
 for injection and rotation mold creation
 ### product manufacturing
 
+### [investment](./body/investment.csv)
+
 ## [mast](./mast/mast.md)
 mast cration methods and solutions
 ## [jib](./jib/jib.md)
