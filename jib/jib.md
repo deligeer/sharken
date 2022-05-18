@@ -1,36 +1,6 @@
 Make a Dacron Sail
+Modified by deligeer May 18, 2022
 by plasticvicar on June 2, 2012
-Table of Contents
-Make a Dacron Sail . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
-Intro: Make a Dacron Sail . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-Step 1: Tools, Materials, and Resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
-Step 2: Design the Sail . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
-Step 3: Loft the Perimeter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
-Step 4: Roll Out the Cloth . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
-Step 5: Annotate Points of Interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
-Step 6: Sticky-Tape All Straight Seams . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
-Step 7: Draw The Broadseams . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
-Step 8: Tape the Seams . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
-Step 9: Coerce the Sail Back Onto the Drawing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
-Step 10: Draw the Luff Curve . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
-Step 11: Draw the Foot Curve . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
-Step 12: Draw the Leech Curves . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
-Step 13: Cut it Out! . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
-Step 14: Sew the Seams . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
-Step 15: Make Corner Patches . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
-Step 16: Sew Untensioned Tablings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
-Step 17: Fold Luff Tape . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
-Step 18: Tension and Sew the Luff Tape . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
-Step 19: Make and Attach Batten Pockets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
-Step 20: Attach the Headboard . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
-Step 21: Install Grommets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
-Step 22: Seize the Sail Slides . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
-Step 23: Round the Corners . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
-Step 24: Rig it and Go Sailing Already . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
-Related Instructables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
-Advertisements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
-Comments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
-http://www.instructables.com/id/Make-a-Dacron-Sail/
 
 # Intro: Make a Dacron Sail
 There are several excellent Instructables about making sails from poly tarps and traditional cotton, but so far none for Dacron. Well, time to fix that!
@@ -122,27 +92,39 @@ The sailplan does not provide enough detail to make a good sail, however, becaus
 dimensional with straight edges, but have a 3-D shape to them. Sail design is a two-step process of process of taking the 2-dimensional sailplan, determining the 3-
 dimensional shape of the sail, and then figuring out how to make that 3-D shape a reality within the constraints of the materials at hand.
 To determine the shape, there are several related considerations described below. Please see the image for illustrations of each of these terms, which will probably make a lot more sense than text alone!
+
 Sails are airfoils, and have a cross-sectional curve to them called camber (or draft). The amount of camber in a given sail is often expressed as a ratio, unsurprisingly called the camber ratio, which is a ratio of the chord to the amount of camber. A sail with a high camber ratio results in a big, deep camber that provides lots of power in light winds but sacrifices windward performance; a sail with a small camber ratio results in a flatter sail with better performancein high winds and high speeds, but is not as good for light air. For the Rookie, I chose a fairly high camber ratio of 1/12 as I figured this little boat will mostly be sailed in light winds, and I figured it probably wouldn't go to windward very well no matter how you slice it. If I ever make a second Rookie sail, I might try shaping it with less camber.
+
 Regardless of the camber ratio, you can place the deepest part of the camber, called the draft position, anywhere you like, although different the rig types will require different draft positions. 40% back from the leading edge is a good start for a bermuda mainsail with a jib. Since the Rookie is cat-rigged with no jib, and knowing that the draft of a fuller sail tends to blow backwards, I moved the draft position farther forward to 25% behind the leading edge.
+
 Within a given camber ratio and draft position, it is also possible to have different entry and exit curves, which work as sort of mini-versions of the camber ratio. The entry fullness will affect your sheeting angle, but this is getting too technical for me, so I just went with something that looked moderate and called it a day.
-Okay, so now that we have our desired shape, how do we make it with sailcloth? There are three basic ways to impart the 3-D shape into the cloth, which are often used
-in conjunction:
+
+Okay, so now that we have our desired shape, how do we make it with sailcloth? There are three basic ways to impart the 3-D shape into the cloth, which are often used in conjunction:
+
 Method 1, Edge curves. This is primarily a means of inducing the desired camber ratio into the cloth. If a cloth edge is attached to a straight spar (like a mast or boom), then by curving the edge of the sail, draft can be pushed into or pulled out of the cloth in a desired location. This works great with soft cloths like cotton, and can be done in moderation with firm cloths like Dacron. This technique is almost almost always used on luffs and foots. To determine the edge curve of a luff, first divide it into quarters. At each quarter-point, measure the chord of the sail, then enter this measurement and desired camber ratio into formulae found in sailmaking books (see References section) to determine the amount of edge curve at that point. Chances are, these quarter points will not connect together in a fair curve; you'll want to play around with them until they do.
+
 Method 2, Broadseaming. This is primarily a means of setting the draft position and entry/exit fullness in the sail. It is the process of gradually increasing the seam width to impart a curved shape into the cloth in a specific place, not unlike putting darts into a shirt or dress. On a crosscut triangular sail like the Rookie's, these can be used to great effect, particularly on the tack seam which can be used to tailor a lot of draft into this powerful part of the sail. The first step is to mark the draft position at each of the luff quarter points found in the previous step. Then, as before, tweak them until you can connect them with a nice fair line, and mark their intersection with the seams.
 Measure the length of the seam from the luff to the draft position, and enter that distance into a magical formula found in sailmaking books (see References) to find the amount of broadening that seam will require.
+
 Method 3, cloth orientation. This is a method of sail shaping that we will not be using in this sail, but you still need to be aware of it. Go and get a woven (not knit) piece of fabric, such as a handkerchief. Note how the fibers run 90 degrees to each other. If you pull on the cloth along these axes, you will find that it stretches a bit, but not much. However, if you pull on the bias, 45 degrees to the weave, the cloth will stretch like crazy! This is something that must be considered, especially when working with soft cloth like cotton, and even when working with stabilized cloth like Dacron. In some rigs, such as spritsails, this stretchiness is utilized to produce camber. In the Rookie's triangular sail, we will purposefully mitigate this tendency to not induce curve in our sail. We will do this by aligning the cloth perpendicular the leech of the sail.
+
 This makes the leech very resistant to stretching, which is good, but puts the bias of the cloth along the luff! Not good! To prevent the luff from stretching, we will sew four thicknesses of Dacron tape to it, which will give us the stretch resistance that we need.
-Other things that should be on your sailplan:
-Headboard, drawn to scale if possible
-Number and size of corner patches
-Size of grommets
-Number, size, and location of battens
-Cloth and thread specifications
-Size of seams and tablings
+
+Other things that should be on your sail plan:
+
+* Headboard, drawn to scale if possible
+* Number and size of corner patches
+* Size of grommets
+* Number, size, and location of battens
+* Cloth and thread specifications
+* Size of seams and tablings
+
 One more tip: Dacron sail designs are always drawing starboard side up for good luck. Nothing will mark as a noob faster than drawing a sail port-side up!
-Finally, once you've drawn up your sail design, with edge curves and broadseams, take it to a real sailmaker for review if possible. Chances are, after learning about
-edge curving and broadseaming, you will go nuts and overdo it. A professional sailmaker will be able to offer you direction and suggestions just by glancing at your
-drawing, utilizing their many years of experience. This is definitely worth doing if the option is available to you.
+
+Finally, once you've drawn up your sail design, with edge curves and broadseams, take it to a real sailmaker for review if possible. Chances are, after learning about edge curving and broadseaming, you will go nuts and overdo it. A professional sailmaker will be able to offer you direction and suggestions just by glancing at your drawing, utilizing their many years of experience. This is definitely worth doing if the option is available to you.
+
+![camber-chord-ratio](./camber-chord-ratio.png)
+
 # Step 3: Loft the Perimeter
 Lofting is simply the process of drawing something full-size. The key requirements for a lofting area include:
 enough space for the sail, plus room to lay out the cloth, plus any lofting battens that you'll use to draw curves
