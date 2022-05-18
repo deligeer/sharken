@@ -530,21 +530,26 @@ Image Notes
 1. Oversew back down to the bottom using the same holes.
 Image Notes
 1. Handsewn reinforcement for the forward edge of the batten opening.
+
 # Step 20: Attach the Headboard
-Place the headboard onto the sail, and trace all the holes. Use a circle cutter and a deadblow hammer to cut the hole for the halyard. If attaching the headboard with
-rivets, use a small hole cutter to cut the rivet holes. If handsewing, use an awl or small nail coated in wax to pre-poke sewing holes.
-Typically, headboards are riveted in place with aluminum rivets. The problem is, I didn't have any rivets that were the right size, so I decided to handsew the headboard in
-place. A case can be made for handsewing, as it won't corrode like rivets will, and it really doesn't take all that long.
+
+![AttachHeadboard-1](AttachHeadboard-1.jpg)
+![AttachHeadboard-2](AttachHeadboard-1.jpg)
+![AttachHeadboard-3](AttachHeadboard-1.jpg)
+
+Place the headboard onto the sail, and trace all the holes. Use a circle cutter and a deadblow hammer to cut the hole for the halyard. If attaching the headboard with rivets, use a small hole cutter to cut the rivet holes. If handsewing, use an awl or small nail coated in wax to pre-poke sewing holes.
+Typically, headboards are riveted in place with aluminum rivets. The problem is, I didn't have any rivets that were the right size, so I decided to handsew the headboard in place. A case can be made for handsewing, as it won't corrode like rivets will, and it really doesn't take all that long.
+
 As I mentioned, I pre-poked all the holes with an awl.
-Next, I made a piece of super-heavy sewing twine. You can buy heavy seizing twine, but it's easy and cheap to make your own. Take a piece of 1/2" three strand filament
-polyester line, and break it down into its three strands. Each strand can be broken down into its piled yarns. Each of those plied yarns can be broken down into a single
-yarn, and that's what we use to sew the headboard on with! Wax it very well with beeswax (my local Ace hardware sells beeswax chunks for very reasonably), put it in a
-big needle, and use your sewing palm. Go around the headboard as many times as you can with the length of twine you've got. 2-4 times seems like a good amount.
+
+Next, I made a piece of super-heavy sewing twine. You can buy heavy seizing twine, but it's easy and cheap to make your own. Take a piece of 1/2" three strand filament polyester line, and break it down into its three strands. Each strand can be broken down into its piled yarns. Each of those plied yarns can be broken down into a single yarn, and that's what we use to sew the headboard on with! Wax it very well with beeswax (my local Ace hardware sells beeswax chunks for very reasonably), put it in a big needle, and use your sewing palm. Go around the headboard as many times as you can with the length of twine you've got. 2-4 times seems like a good amount.
+
 Image Notes
-1. If you are attaching the headboard with rivets, do not place a rivet here. You will
-use this hole to seize on a sail slide
+1. If you are attaching the headboard with rivets, do not place a rivet here. You will use this hole to seize on a sail slide
+
 Image Notes
 1. Waxing a single-yarn for sewing on the headboard
+
 # Step 21: Install Grommets
 
 ![gromment-kit](./gromment-kit.jpg)
@@ -581,7 +586,7 @@ using them, otherwise that black coating will get on your hands and the sail
 
 # Step 22: Seize the Sail Slides
 
-![seize-sail-slides-1](./seize-sail-slides-1.png)
+![seize-sail-slides-1](./seize-sail-slides-1.jpg)
 ![seize-sail-slides-2.0](./seize-sail-slides-2.0.jpg)
 ![seize-sail-slides-2](./seize-sail-slides-2.jpg)
 ![seize-sail-slides-3](./seize-sail-slides-3.jpg)
