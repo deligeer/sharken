@@ -23,3 +23,4 @@ sharken sailing rig parts
 19.	cleat.stl
 20.	sheet_eye.stl
 
+![components-size](./components-size.jpg)
