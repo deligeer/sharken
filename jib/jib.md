@@ -249,282 +249,310 @@ Image Notes
 2. Where seam strikes the leech
 
 # Step 6: Sticky-Tape All Straight Seams
-On the Rookie sail, all the seams are broadened to a greater or lesser extent, both at the luff and the leech. However, each seam also has a portion in the middle of the
-sail that is straight—a consistent 1/2" wide seam. At this point, stick these straight portions with the double stick tape.
-Because you annotated the location of the broadseams in the previous step, you know where each straight portion is. Stick a pin in the seam outside either end of the
-straight portion, to keep things from shifting around as you work. Lift up the cloth in the middle, peel the backing off the sticky tape under the straight section only, and
-smooth the cloth down onto it.
-Give the seam a good rub-down to make sure it's stuck. I have a little seam-rubbing tool that I made, but you can also use a socket-which is heavy, smooth and round—or
-the back of a wooden spoon.
+On the Rookie sail, all the seams are broadened to a greater or lesser extent, both at the luff and the leech. However, each seam also has a portion in the middle of the sail that is straight—a consistent 1/2" wide seam. At this point, stick these straight portions with the double stick tape.
+
+Because you annotated the location of the broadseams in the previous step, you know where each straight portion is. Stick a pin in the seam outside either end of the straight portion, to keep things from shifting around as you work. Lift up the cloth in the middle, peel the backing off the sticky tape under the straight section only, and smooth the cloth down onto it.
+
+Give the seam a good rub-down to make sure it's stuck. I have a little seam-rubbing tool that I made, but you can also use a socket-which is heavy, smooth and round—or the back of a wooden spoon.
+![StickyTapeAllStraightSeams0-nodes](./StickyTapeAllStraightSeams0-nodes.jpg)
+
 Image Notes
 1. End of the leech broadseam
 2. End of the luff broadseam
+![StickyTapeAllStraightSeams1](./StickyTapeAllStraightSeams1.jpg)
+![StickyTapeAllStraightSeams3](./StickyTapeAllStraightSeams3.jpg)
+![StickyTapeAllStraightSeams4](./StickyTapeAllStraightSeams4.jpg)
+
+
 # Step 7: Draw The Broadseams
 The seam widths on a sail are broadened to impart a curved shape to the sail. Refer to your sail design to determine the locations and amount of the broadseaming.
-Leech broadseams are usually minuscule and straight, giving just a tiny bit of tension on the leech to prevent it from fluttering. You might as well get those out of the way
-first, since they're so easy. On the Rookie sail, I broadened the leech seams by like 1/16". At the seam-leech intersection, measure out 1/16" from the existing seam, take
-a straight edge, and draw a straight line to the broadseam-start location that you annotated earlier.
-Luff broadseams, particularly the tack seam, are neither minuscule nor straight, imparting much shape into the sail. For these, you don't want to use a straight edge to
-draw the line, you need to bend a flexible batten to create a nice fair curve. I couldn't be fussed to go down to the shop and get a proper batten, so I used a little wooden
-dowel that I had lying around. Traditionally battens are wood, but anything that's straight, springy, and easily bends into nice, even curves will work.
+
+Leech broadseams are usually minuscule and straight, giving just a tiny bit of tension on the leech to prevent it from fluttering. You might as well get those out of the way first, since they're so easy. On the Rookie sail, I broadened the leech seams by like 1/16". At the seam-leech intersection, measure out 1/16" from the existing seam, take a straight edge, and draw a straight line to the broadseam-start location that you annotated earlier.
+
+Luff broadseams, particularly the tack seam, are neither minuscule nor straight, imparting much shape into the sail. For these, you don't want to use a straight edge to draw the line, you need to bend a flexible batten to create a nice fair curve. I couldn't be fussed to go down to the shop and get a proper batten, so I used a little wooden dowel that I had lying around. Traditionally battens are wood, but anything that's straight, springy, and easily bends into nice, even curves will work.
+
 First, we'll do the tack seam. That's the biggest one, the most important to get right, and the one that sets the tone for the other seams heading up the luff.
-Refer to your sail design, and mark the location of the broadseam at the seam-luff intersection. Stick a pin at the beginning of the broadseam, and another pin where it
-will intersect with the luff. Place the batten on the outside of these pins, and slowly bend it towards the existing seam, until you end up with a nice curve that smoothly
-transitions into the existing seam in the middle of the sail. Pin it!
-There is an art to making these bends. A more radically-bent batten will produce a sail with a "fuller entry." A straighter batten will produce a "flatter entry." Sails with fuller
-entries can produce more power in lighter winds, while a flatter entry is more appropriate in higher winds. But remember, this is a tiny sail on a tiny boat with tiny seams.
-http://www.instructables.com/id/Make-a-Dacron-Sail/
+
+Refer to your sail design, and mark the location of the broadseam at the seam-luff intersection. Stick a pin at the beginning of the broadseam, and another pin where it will intersect with the luff. Place the batten on the outside of these pins, and slowly bend it towards the existing seam, until you end up with a nice curve that smoothly transitions into the existing seam in the middle of the sail. Pin it!
+
+There is an art to making these bends. A more radically-bent batten will produce a sail with a "fuller entry." A straighter batten will produce a "flatter entry." Sails with fuller entries can produce more power in lighter winds, while a flatter entry is more appropriate in higher winds. But remember, this is a tiny sail on a tiny boat with tiny seams.
+
 It's probably not worth stressing out over. I made mine kinda fullish, since I don't anticipate anyone sailing an 8' Rookie in Force 5 winds.
-Run your mechanical pencil along the batten, then remove the batten and pins. Go to the next seam up the luff, measure, mark, and pin. Although this broadseam will be
-smaller than the tack broadseam, you will want the batten's curve to be compatible with the tack's. In other words, you don't want a radically-bent batten in the tack seam,
-and a straight one on the next. Although the broadseam is smaller, feel the bendiness of the batten, and try to make a similar curve to the previous one.
+
+Run your mechanical pencil along the batten, then remove the batten and pins. Go to the next seam up the luff, measure, mark, and pin. Although this broadseam will be smaller than the tack broadseam, you will want the batten's curve to be compatible with the tack's. In other words, you don't want a radically-bent batten in the tack seam, and a straight one on the next. Although the broadseam is smaller, feel the bendiness of the batten, and try to make a similar curve to the previous one.
+
 And so on up the luff.
-For the Rookie sail, we only have three seams, and only two of them have broadseams of any consequence, so this is a pretty easy job! It would be a tricky thing to get
-consistent on a big sail with lots of seams, however.
+
+For the Rookie sail, we only have three seams, and only two of them have broadseams of any consequence, so this is a pretty easy job! It would be a tricky thing to get consistent on a big sail with lots of seams, however.
+
 Image Notes
 1. Little smidge of a broadseam on the leech
 2. Leech broadseams are straight. No need to bend battens here
+
 Image Notes
 1. Tack broadseam, with a wooden dowel for a batten.
+
 # Step 8: Tape the Seams
 Remove all pins from the sail!
+
 Let's start with the leech broadseams again. They're easy, so you can get the hang of it before moving on to the bigger ones on the luff.
+
 You removed all the pins, right? Good.
-Lift the cloth, remove the backing from the tape, and working from the starting point of the broadseam, slowly make your way towards the leech, gently curving and
-sticking the cloth together along the drawn line. The cloth will not particularly want to do this while laying flat on the floor, so you may have to shake or fan the cloth a bit
-first. The key is to make sure your seam is stuck evenly along the drawn line, and there are no bubbles between the tape and the cloth indicating a misalignment. When
-you're finished, go ahead and put a safety staple just outside the leech, to ensure that the seam doesn't start to peel apart.
+
+Lift the cloth, remove the backing from the tape, and working from the starting point of the broadseam, slowly make your way towards the leech, gently curving and sticking the cloth together along the drawn line. The cloth will not particularly want to do this while laying flat on the floor, so you may have to shake or fan the cloth a bit first. The key is to make sure your seam is stuck evenly along the drawn line, and there are no bubbles between the tape and the cloth indicating a misalignment. When you're finished, go ahead and put a safety staple just outside the leech, to ensure that the seam doesn't start to peel apart.
+
 Once you've done the leech, go for the tack seam, then work your way up the luff.
+
 Now look at that! your sail doesn't lay flat on the floor anymore!
-Take this opportunity to rustle up two helpers and do a "hang check." With each of you at a corner, lift the sail off the floor and put a little tension on it. This will allow you
-to see the shape, and in particular any bubbles, wrinkles, or unevenness in the (broad)seams. Because you haven't sewn anything yet, you can unstick the offending
-portion and change it!
-http://www.instructables.com/id/Make-a-Dacron-Sail/
+
+Take this opportunity to rustle up two helpers and do a "hang check." With each of you at a corner, lift the sail off the floor and put a little tension on it. This will allow you to see the shape, and in particular any bubbles, wrinkles, or unevenness in the (broad)seams. Because you haven't sewn anything yet, you can unstick the offending portion and change it!
+![TapeSeams1](./TapeSeams1.jpg)
+![TapeSeams1](./TapeSeams2.jpg)
+![TapeSeams1](./TapeSeams3.jpg)
+![TapeSeams1](./TapeSeams4.jpg)
 # Step 9: Coerce the Sail Back Onto the Drawing
 The following step is one that I find frustrating. There must be a better way. Perhaps one of you in the comments can enlighten me.
-We need to take our sail back to the drawing. The problem is, it will no longer line up because the sail no longer lies flat, and because its dimensions have changed due
-to broadseaming (particularly along the luff). It is most important for the cloths to be running perpendicular to the straight-line leech, so let's get that right and then worry
-about everything else.
-The first step is to pin the head. Next, pin the clew, keeping in mind that the mark on the cloth will not line up with the one on the floor. Do not force it, and do not stretch
-or distort the cloth. Get it as close as you can, while keeping the seams running perpendicular to the leech. You can use the roach annotations that you made previously
-to help you get it close; they won't line up with the ones on the floor anymore, but it gives you more points to help you approximate.
-Finally, go to the tack, and fan it up and down to get some air under the sail. Let the tack fall naturally, and pin it as close as you can get it without stretching or distorting
-the cloth. Use the foot-round marking and the luff curve markings to help you get it as close as you can.
-Once you've got it pinned down, erase the clew, tack, roach, and edge curve annotations that you had made previously. They were just to help you line things up during
-this step. Mark the new clew and tack positions.
-Next, use a clean broom to sweep as much of the excess cloth into the middle of the sail, away from the edges. You won't be able to make it perfect, but you will be able
-to make some improvement.
+
+We need to take our sail back to the drawing. The problem is, it will no longer line up because the sail no longer lies flat, and because its dimensions have changed due to broadseaming (particularly along the luff). It is most important for the cloths to be running perpendicular to the straight-line leech, so let's get that right and then worry about everything else.
+
+The first step is to pin the head. Next, pin the clew, keeping in mind that the mark on the cloth will not line up with the one on the floor. Do not force it, and do not stretch or distort the cloth. Get it as close as you can, while keeping the seams running perpendicular to the leech. You can use the roach annotations that you made previously to help you get it close; they won't line up with the ones on the floor anymore, but it gives you more points to help you approximate.
+
+Finally, go to the tack, and fan it up and down to get some air under the sail. Let the tack fall naturally, and pin it as close as you can get it without stretching or distorting the cloth. Use the foot-round marking and the luff curve markings to help you get it as close as you can.
+
+Once you've got it pinned down, erase the clew, tack, roach, and edge curve annotations that you had made previously. They were just to help you line things up during this step. Mark the new clew and tack positions.
+
+Next, use a clean broom to sweep as much of the excess cloth into the middle of the sail, away from the edges. You won't be able to make it perfect, but you will be able to make some improvement.
+
 Make sure you scowl and furrow your brow a lot during this process.
 # Step 10: Draw the Luff Curve
 This is a fun one!
-The curve of the luff is an important part of sail design. By making the edge of the luff round, then attaching it to a straight mast, shape can be pushed into the sail. The
-amount of round at each point in the sail is determined by Salty Old Sailmaker Magic, or for the rest of us, formulae that take into account the amount of desired shape
-and the chord of the sail at that location. These can be found in sailmaking books, such as The Sailmaker's Apprentice.
-First, try to get the luff to lay as flat as possible. You can do that by sweeping with a broom towards the middle of the sail while pinning the cloth near the luff once it starts
-to flatten out. Another, perhaps better way is to unpin the clew and with the aid of a helper, make an accordion-like fold about 1 foot behind the luff. (Skip ahead to the
-section on attaching the luff tape to see what this looks like.) I did not do the accordion-fold method this day, but I probably will if I build another Rookie sail.
+
+The curve of the luff is an important part of sail design. By making the edge of the luff round, then attaching it to a straight mast, shape can be pushed into the sail. The amount of round at each point in the sail is determined by Salty Old Sailmaker Magic, or for the rest of us, formulae that take into account the amount of desired shape and the chord of the sail at that location. These can be found in sailmaking books, such as The Sailmaker's Apprentice.
+
+First, try to get the luff to lay as flat as possible. You can do that by sweeping with a broom towards the middle of the sail while pinning the cloth near the luff once it starts to flatten out. Another, perhaps better way is to unpin the clew and with the aid of a helper, make an accordion-like fold about 1 foot behind the luff. (Skip ahead to the section on attaching the luff tape to see what this looks like.) I did not do the accordion-fold method this day, but I probably will if I build another Rookie sail.
+
 If you haven't erased the old luff-round points off the sail, go ahead and do that now (those were just to help you align things in the previous step).
-At this point, you would normally take the luff round measurements from the sail design, and mark them on the sail. Then you would use a long batten to bend a great,
-majestic, heartbreakingly beautiful curve through those points. That's what I had planned on doing for the Rookie.
+
+At this point, you would normally take the luff round measurements from the sail design, and mark them on the sail. Then you would use a long batten to bend a great, majestic, heartbreakingly beautiful curve through those points. That's what I had planned on doing for the Rookie.
+
 Then I discovered that my batten was larger than my living room. Oh no!
-So, I came up with Plan B, which you are going to see! Although I can't say it worked better than the wooden batten method, it did work! If don't happen to have any long
-battens, you might give this method a whirl.
-I had already drawn the sail design to scale in Adobe Illustrator, and had already taken the time in the software to bend a nice, fair bezier curve through the luff round
-points. In other words, I had already virtually done the work that would otherwise be done with a batten. So within Illustrator, I measured the distance between the luff
-curve and the straight-line luff, every foot along the entire length of the luff.
-Good thing I saved my pink straight-line luff string! I pinned that out on to the sail, and placed a tape measure alongside. Every foot, I plotted the leech curve offset that I
-had measured in my Illustrator document and marked it with a pencil.
-Then I took a length of 2" webbing, and pinned it at the points I plotted. So began a long, arduous process of checking the webbing curve for fairness and tweaking it little
-by little. Crouch down. Squint. Take off your glasses. Put on your glasses. Stand on a chair. Nudge the webbing in one spot. Stick in about 70 pins. Repeat.
+
+So, I came up with Plan B, which you are going to see! Although I can't say it worked better than the wooden batten method, it did work! If don't happen to have any long battens, you might give this method a whirl.
+
+I had already drawn the sail design to scale in Adobe Illustrator, and had already taken the time in the software to bend a nice, fair bezier curve through the luff round points. In other words, I had already virtually done the work that would otherwise be done with a batten. So within Illustrator, I measured the distance between the luff curve and the straight-line luff, every foot along the entire length of the luff.
+
+Good thing I saved my pink straight-line luff string! I pinned that out on to the sail, and placed a tape measure alongside. Every foot, I plotted the leech curve offset that I had measured in my Illustrator document and marked it with a pencil.
+
+Then I took a length of 2" webbing, and pinned it at the points I plotted. So began a long, arduous process of checking the webbing curve for fairness and tweaking it little by little. Crouch down. Squint. Take off your glasses. Put on your glasses. Stand on a chair. Nudge the webbing in one spot. Stick in about 70 pins. Repeat.
+
 The entire process easily took 45 minutes, perhaps an hour, but it did work!
+
 Once I got the webbing curved nicely, I ran a single pencil line down it, pulled up the webbing, and moved on to the foot curve.
+
+![DrawLuffCurve1](./DrawLuffCurve1.jpg)
+![DrawLuffCurve2](./DrawLuffCurve2.jpg)
+![DrawLuffCurve3](./DrawLuffCurve3.jpg)
+
 Image Notes
-1. By sighting down the webbing, I can see a spot right there that needs
-adjustment
+1. By sighting down the webbing, I can see a spot right there that needs adjustment
+
 # Step 11: Draw the Foot Curve
-This sail is flown loose-footed, meaning it is not attached to the boom except at the tack and clew. Therefore, the foot curve cannot be used to push shape into the sail
-like the luff is; the foot curve on this sail is almost entirely cosmetic.
-The foot curve is described by only one point, a certain distance back from the tack, and a certain offset from the straight-line foot. Again, I used a broom to sweep as the
-foot as straight as I could get it, with limited success. Again, I did not have a batten that would fit inside my living room, so I used webbing. Because the curve was shorter
-and purely cosmetic this time, I eyeballed it. I still spent some quality time making it look good, but it was nowhere as intense as the luff.
-Unlike the luff, which will be taped, I am using a 3/4" folded tabling on the foot. To accomodate this, I drew one line right along the webbing—that's my fold-line, and the
-outline of the finished sail. Then I set a compass to 3/4" wide, and ran it along the edge of the webbing, being sure to keep it at right angles to the webbing.* This is the
-line that I will cut. Make sure you clearly annotate the cut lines vs the fold lines on the sail!
+This sail is flown loose-footed, meaning it is not attached to the boom except at the tack and clew. Therefore, the foot curve cannot be used to push shape into the sail like the luff is; the foot curve on this sail is almost entirely cosmetic.
+
+The foot curve is described by only one point, a certain distance back from the tack, and a certain offset from the straight-line foot. Again, I used a broom to sweep as the foot as straight as I could get it, with limited success. Again, I did not have a batten that would fit inside my living room, so I used webbing. Because the curve was shorter and purely cosmetic this time, I eyeballed it. I still spent some quality time making it look good, but it was nowhere as intense as the luff.
+
+Unlike the luff, which will be taped, I am using a 3/4" folded tabling on the foot. To accomodate this, I drew one line right along the webbing—that's my fold-line, and the outline of the finished sail. Then I set a compass to 3/4" wide, and ran it along the edge of the webbing, being sure to keep it at right angles to the webbing.* This is the line that I will cut. Make sure you clearly annotate the cut lines vs the fold lines on the sail!
+
 * Mr. Math says, "Don't you mean the compass should be at right angles to the tangent of the curve of the webbing?"
+
 Image Notes
 1. Drawing the fold-to line
+
 Image Notes
 1. Drawing the cut-to line with a compass set to the width of the tabling
-http://www.instructables.com/id/Make-a-Dacron-Sail/
+
 # Step 12: Draw the Leech Curves
 So, you already knew that the leech of this sail was roached, and supported by battens. But did you know that between those battens, the leech is actually hollowed
 slightly? It's true! It keeps the leech nice and tight, preventing flutters.
+
 First, mark the correct locations of the roach points from the drawing on the floor (and erase any leftovers from the first round of marking).
+
 Next, stick a pin at each roach point.
-Now we need to decide on an amount of hollow. I had a piece of 1/8" diameter steel rod lying around, so I chose 1/8" for reasons of laziness that you'll see in the
-following steps.
+
+Now we need to decide on an amount of hollow. I had a piece of 1/8" diameter steel rod lying around, so I chose 1/8" for reasons of laziness that you'll see in the following steps.
+
 For each roach segment, line up a yard stick against the pins you've already placed, find the midpoint between them, and push another pin in at the midpoint.
-Now with the 1/8" rod, lay it outside the two end pins, but inside the pin at the midpoint. Voila! You've created a 1/8" hollow without having to measure it, by using the
-diameter of the rod to your advantage.
+Now with the 1/8" rod, lay it outside the two end pins, but inside the pin at the midpoint. Voila! You've created a 1/8" hollow without having to measure it, by using the diameter of the rod to your advantage.
+
 The leech will also get a 3/4" folded tabling, so mark a fold-line along the batten, and use a compass to mark a cut-to line 3/4" outside this.
+
 Image Notes
 1. A pin at one roach point
 2. a pin at the other roach point
+
 Image Notes
 1. A pin at the midpoint
-http://www.instructables.com/id/Make-a-Dacron-Sail/
+
 Image Notes
 1. Bend the rod outside
 2. Bend the rod inside
 3. Bend the rod outside
+
 # Step 13: Cut it Out!
 You are finally done crawling around on the floor! Thank goodness.
 Next you'll need to cut out the perimeter of the sail. Dacron is quite stable, and it might be possible to cut it out with scissors and have it be fine. At least for a while.
+
 However, you're much better off using a hotknife. This is a device that uses at hot metal blade to cut and seal the edges of synthetic materials in one fell swoop,
 preventing any tendency for the fabric to unravel.
+
 You can buy fancy temperature-regulated hotknives, which are advantageous but expensive. You can also get cheap blade attachments for soldering irons that will work
 too, but are more dangerous as they are always on.
-As you are literally burning plastic, hotknifing releases some nasty fumes. Please do this outside. Work on your yogic breathing techniques so that you do not inhale the
-fumes. Namaste.
-I do this on my deck, covering everything with an old sail to protect the new sail from dirt and grime. I cut on a piece of glass from a cheap picture frame, and I unroll the
-sail like a scroll as I work.
-Take a few moments to warm up (no pun intended) on some scraps. Be sure to practice not just freestyle cutting, but also cutting along a line. Hotknifing requires a swift,
-confident hand. Too slow and you will leave ugly burn marks on the material; too fast and you won't quite cut through.
+
+As you are literally burning plastic, hotknifing releases some nasty fumes. Please do this outside. Work on your yogic breathing techniques so that you do not inhale the fumes. Namaste.
+
+I do this on my deck, covering everything with an old sail to protect the new sail from dirt and grime. I cut on a piece of glass from a cheap picture frame, and I unroll the sail like a scroll as I work.
+
+Take a few moments to warm up (no pun intended) on some scraps. Be sure to practice not just freestyle cutting, but also cutting along a line. Hotknifing requires a swift, confident hand. Too slow and you will leave ugly burn marks on the material; too fast and you won't quite cut through.
+
 You made sure to annotate your cut lines vs your fold lines to avoid any mishaps, right? Good.
-http://www.instructables.com/id/Make-a-Dacron-Sail/
+
 # Step 14: Sew the Seams
 Can you believe that you now have something that looks remarkably like a sail, without sewing a single stitch? Someday perhaps adhesives will be so good that we won't
 have to sew anything at all. (Truth be told, some light air sails are currently built with adhesive-only seams.)
-Lay the sail back out onto the floor, decide which seam you're going to sew first (why not the small one at the top for starters?), and roll the sail up like a scroll on either
-side of that seam. I use small spring-clamps to hold everything in place.
-You have a few options on how to position your sewing machine. Professional sail lofts have the machine built into the floor, with the operator sitting in a recess under the
-floor. This is by far the best way to go, but obviously unrealistic for the rest of us. For us, we can either put the sewing machine on the floor, or get a few tables.
-Backaches aside, setting up on the floor has a lot of advantages that do make the process of sewing a small sail easier. For big sails, tables can be better, because you
-can jack their ends up like ramps and have the big sail slide itself through the machine.
+
+Lay the sail back out onto the floor, decide which seam you're going to sew first (why not the small one at the top for starters?), and roll the sail up like a scroll on either side of that seam. I use small spring-clamps to hold everything in place.
+
+You have a few options on how to position your sewing machine. Professional sail lofts have the machine built into the floor, with the operator sitting in a recess under the floor. This is by far the best way to go, but obviously unrealistic for the rest of us. For us, we can either put the sewing machine on the floor, or get a few tables.
+
+Backaches aside, setting up on the floor has a lot of advantages that do make the process of sewing a small sail easier. For big sails, tables can be better, because you can jack their ends up like ramps and have the big sail slide itself through the machine.
+
 For this sail, I decided to go with tables, but had to constantly contend with the sail sliding off. I just find sewing on the floor slightly degrading.
+
 You want to use a zig-zag stitch, with the stitch width and length set so that the angles formed by the thread are 90 degrees or slightly under.
-We will be running two rows of stitching along these seams, right along the fabric edges. On natural-fiber sails, the seams are sewn so that the zig-zag goes across the
-edge of the cloth. With Dacron sails, this is not necessary, and the seam will be stronger if you keep the stitch entirely inside the seam.
-For these seams I used #46 thread with a #14 needle. I set the machine up with slightly higher top tension than is necessary. In my opinion, better to have it slightly too
-high top tension than to risk a giant mess underneath.
+
+We will be running two rows of stitching along these seams, right along the fabric edges. On natural-fiber sails, the seams are sewn so that the zig-zag goes across the edge of the cloth. With Dacron sails, this is not necessary, and the seam will be stronger if you keep the stitch entirely inside the seam.
+
+For these seams I used #46 thread with a #14 needle. I set the machine up with slightly higher top tension than is necessary. In my opinion, better to have it slightly too high top tension than to risk a giant mess underneath.
+
 Counterintuitively, I find it easiest to sew straight if you run the machine at full blast. Pedal to the metal!
+
 Sometimes sewing machines seem to be in a bad mood. If one isn't cooperating, I find it best to take a break and come back to it.
+
 Image Notes
-1. Here I'm taking a break to remove a staple from the end of the seam before
-sewing over it
+1. Here I'm taking a break to remove a staple from the end of the seam before sewing over it
 # Step 15: Make Corner Patches
+
 Finished with seaming? Great!
+
 Corner patches are consecutively smaller layers of cloth that distribute the strain from the corner ring into the rest of the sail.
-A good rule of thumb for small boat sails is the edge of the patch should be 1in to every 1ft of the edge that it's applied to. The Rookie's luff is 10' 9", so I made the edges
-of the corner patches on the luff 11" long. The leach edge of the patches is 12" long, and the foot edges are 7".
-The patches in the head and clew are four layers thick, and the tack is three layers thick. In small boat sails, each consecutive layer can be an inch smaller than the one
-before it. I have a ruler that's about 1 1/8" wide, so that's how far apart I space my layer patches, to make it easy.
+A good rule of thumb for small boat sails is the edge of the patch should be 1in to every 1ft of the edge that it's applied to. The Rookie's luff is 10' 9", so I made the edges of the corner patches on the luff 11" long. The leach edge of the patches is 12" long, and the foot edges are 7".
+
+The patches in the head and clew are four layers thick, and the tack is three layers thick. In small boat sails, each consecutive layer can be an inch smaller than the one before it. I have a ruler that's about 1 1/8" wide, so that's how far apart I space my layer patches, to make it easy.
 I draw the corner patches onto the sail itself in light pencil.
-Then I place a piece of cloth on top , and outline each of the patch layers for a particular corner. It is important to align the direction of the weave of the patch with the sail,
-so that they stretch together at equal rates.
+
+Then I place a piece of cloth on top , and outline each of the patch layers for a particular corner. It is important to align the direction of the weave of the patch with the sail, so that they stretch together at equal rates.
+
 Once all the patch components are drawn, I cut them out with a hotknife. Some people leave room for a hem on the outer patch, but on this sail I didn't bother.
-Next, it's time to assemble the corner patches. The easiest way is to use plenty of double-sided tape, and assemble the entire patch as one cohesive unit that will be
-sewn to the sail in one whack. Make sure you assemble the patches starboard-side up, as we will be sewing them onto the starboard side of the sail.
-First place down the second-to-largest patch layer, the affix consecutively smaller layers on top with sticky tape. Finally, tape the largest layer over top of the whole thing,
-creating a sandwich with the smallest layers trapped inside. To make sewing easier, draw the edges of each of the layers onto the top layer with pencil.
-Then stick the whole thing down onto the starboard side of the sail with tape, slightly inside the fold-to lines. Sew across each of the edges, even the inner layers, with a
-single row of zigzags. On the Rookie sail, I used #46 thread, but upgraded to a heavier #16 needle.
+
+Next, it's time to assemble the corner patches. The easiest way is to use plenty of double-sided tape, and assemble the entire patch as one cohesive unit that will be sewn to the sail in one whack. Make sure you assemble the patches starboard-side up, as we will be sewing them onto the starboard side of the sail.
+
+First place down the second-to-largest patch layer, the affix consecutively smaller layers on top with sticky tape. Finally, tape the largest layer over top of the whole thing, creating a sandwich with the smallest layers trapped inside. To make sewing easier, draw the edges of each of the layers onto the top layer with pencil.
+Then stick the whole thing down onto the starboard side of the sail with tape, slightly inside the fold-to lines. Sew across each of the edges, even the inner layers, with a single row of zigzags. On the Rookie sail, I used #46 thread, but upgraded to a heavier #16 needle.
+
 Image Notes
 1. The luff edge of this head patch will be 11" long
+
 Image Notes
 1. Take care to align the weave of the patch cloth with the weave of the sail
+
 Image Notes
 1. Four head patches, each one smaller than the other, laid out on the cloth
+
 Image Notes
 1. Head patches hotknifed and sticky tape applied
+
 Image Notes
 1. consecutively smaller patches are applied onto the second-to-largest patch
+
 Image Notes
-1. The largest layer is placed over the whole thing, making a sort of corner
-patch sandwich
+1. The largest layer is placed over the whole thing, making a sort of corner patch sandwich
+
 Image Notes
-1. corner patch sandwich taped to the sail. I left about a 1/16" gap between the
-edge of the patch and the tabling fold-to line to account for the extra thickness I'd
+1. corner patch sandwich taped to the sail. I left about a 1/16" gap between the edge of the patch and the tabling fold-to line to account for the extra thickness I'd
 have to fold over.
 2. Run a single row of zigzag stitches down each one of these edges
+
 # Step 16: Sew Untensioned Tablings
 On this sail, the foot and the leech tablings are simply folded over and sewn with two rows of zigzag stitches.
-The problem with folded tablings is they tend to be too loose on rounded edges (like the foot), and too tight on hollow edges (like between the leech battens). Not much
-you can do about that beyond trying to smooth things out as much as possible when folding with sticky tape. On a little sail like this, it's not a major concern.
-I ran a piece of tape across the edge, but did not pull the backing off yet. Then I creased the fold-line. I used a little seam-rubbing tool that I made, but a socket or the
-back of wooden spoon work well too. I creased about a foot at a time, then removed the backing from the tape and stuck it down, continuing to smooth it with my seam
-rubber.
-At the roach points the angle of the leech changes, and it can be difficult to get the fabric to cooperate. I made a tiny incision with the hotknife to relieve the tension in that
-spot. It'll be covered by a batten pocket, so nobody will see it.
-I stuck the entire foot and leech tablings with sticky tape first, and then I sewed them in one single shot. Make sure you check your bobbin before you start sewing, to
-ensure you have enough thread on there. First sew a row of stitches right along the edge of the sail. Then sew a second row along the inner edge of the tabling.
-There's no reason to get cute with folds at the clew or across the head. You're going to be hotknifing these edges off later, so just get the tabling stuck down however is
-easiest.
+The problem with folded tablings is they tend to be too loose on rounded edges (like the foot), and too tight on hollow edges (like between the leech battens). Not much you can do about that beyond trying to smooth things out as much as possible when folding with sticky tape. On a little sail like this, it's not a major concern.
+
+I ran a piece of tape across the edge, but did not pull the backing off yet. Then I creased the fold-line. I used a little seam-rubbing tool that I made, but a socket or the back of wooden spoon work well too. I creased about a foot at a time, then removed the backing from the tape and stuck it down, continuing to smooth it with my seam rubber.
+
+At the roach points the angle of the leech changes, and it can be difficult to get the fabric to cooperate. I made a tiny incision with the hotknife to relieve the tension in that spot. It'll be covered by a batten pocket, so nobody will see it.
+
+I stuck the entire foot and leech tablings with sticky tape first, and then I sewed them in one single shot. Make sure you check your bobbin before you start sewing, to ensure you have enough thread on there. First sew a row of stitches right along the edge of the sail. Then sew a second row along the inner edge of the tabling.
+
+There's no reason to get cute with folds at the clew or across the head. You're going to be hotknifing these edges off later, so just get the tabling stuck down however is easiest.
+
 Image Notes
-1. Rubbing the crease with the seam rubber. A socket or the back of a wooden
-spoon both work well too
+1. Rubbing the crease with the seam rubber. A socket or the back of a wooden spoon both work well too
+
 Image Notes
 1. Sticky tape on the foot
+
 Image Notes
-1. The angle changes pretty dramatically at the roach points so I make a little
-incision with the hotknife to make it fold flat
+1. The angle changes pretty dramatically at the roach points so I make a little incision with the hotknife to make it fold flat
+
 Image Notes
-1. Sew all the folded tablings in one shot if possible. A helper makes this
-process much easier.
+1. Sew all the folded tablings in one shot if possible. A helper makes this process much easier.
+
 Image Notes
 1. All finished!
+
 # Step 17: Fold Luff Tape
-Sailmakers love to recount how many hundreds of miles of luff tape they've folded in their day. If you're ever looking for an ice-breaker to get a conversation started,
-that's a good one to try. "Why, one time I folded seventeen continuous miles of 10.4oz, with nothing to crease it but the back of my thumbnail..."
+Sailmakers love to recount how many hundreds of miles of luff tape they've folded in their day. If you're ever looking for an ice-breaker to get a conversation started, that's a good one to try. "Why, one time I folded seventeen continuous miles of 10.4oz, with nothing to crease it but the back of my thumbnail..."
+
 Lucky for us, we only have to fold about twelve feet!
+
 I used with 5" wide, 5oz Dacron tape, but anything in the 5-6" width, and approximately similar weight to the sailcloth will do.
-The first step is to fold it in half, but do not perfectly line up the edges. Let the top layer fall about 1/16" - 1/8" behind the edge of the bottom layer, because it will creep
-during the next step. Crease this fold with a seam rubber, socket, wooden spoon, the back of your scissors, etc.
-Next, we are going to fold the tape again, roughly in thirds. You will be installing your grommets into the double-folded portion, so a key consideration here is making it
-wide enough to set the grommets. This second fold needs to be a consistent width, so I made a little seam marking gauge from a folded piece of cardboard with a hole
-poked at the correct location. By running this along the edge of the fabric with a pencil in the hole, you can draw a perfect fold-to line.
+
+The first step is to fold it in half, but do not perfectly line up the edges. Let the top layer fall about 1/16" - 1/8" behind the edge of the bottom layer, because it will creep during the next step. Crease this fold with a seam rubber, socket, wooden spoon, the back of your scissors, etc.
+
+Next, we are going to fold the tape again, roughly in thirds. You will be installing your grommets into the double-folded portion, so a key consideration here is making it wide enough to set the grommets. This second fold needs to be a consistent width, so I made a little seam marking gauge from a folded piece of cardboard with a hole poked at the correct location. By running this along the edge of the fabric with a pencil in the hole, you can draw a perfect fold-to line.
+
 When you go to install this tape onto the luff of your sail, the sailcloth will be inserted between the two widest pieces.
+
 Fold enough to cover the length of your luff plus another foot or so; approximately seventeen miles.
-http://www.instructables.com/id/Make-a-Dacron-Sail/
+
 Image Notes
 1. Leave a little space here to account for it creeping once folded again
-http://www.instructables.com/id/Make-a-Dacron-Sail/
+
 # Step 18: Tension and Sew the Luff Tape
-The purpose of the luff tape is to limit the stretch of the sail along the luff, and push the luff round into the belly of the sail. To do these things properly, we need to tension
-the luff tape before we attach it to the sail.
-How much tension do you put on it? You are trying to simulate the same tension as would be applied by the halyard during sailing. This is a small boat, with a single-part
-halyard, designed to be sailed by children. So let's be realistic, there's not going to be a whole lot of tension on that halyard.
-Normally the way this is done is to drive a big spike into the floor at each end of the sail, and tension it from there. While I'm okay with driving a few push-pins into my
-living room floor, I didn't want to drive in big spikes. Instead, I found two door frames across the room from each other, and put some bar clamps around the frames to
-provide me with something to attach the luff. I clamped one end of the luff tape directly to the door frame, and on the other end I used a hook on the end of a piece of
-rope. I tensioned the luff by hand, pulling on the tape itself, then lashed the hook to hold it in place.
-With the tape tensioned, we need to bring the sail up to it. Lay the sail out starboard side up, with the luff running next to the tensioned luff. We need to get the luff to lie
-flat on the floor, so with the aid of a helper, make an accordion-like fold a few inches behind the luff, and it will lie flat on the floor.
-Now slip the luff into the tape, making sure to fully seat the edge of the sail all the way into the tape. Work your way from the head to the tack, seating the luff into the tape
-and securing it with staples about 6" apart. Place these staples in the double-folded portion of the tape, about half an inch back from the outer (folded) edge of the tape.
-Remember that the luff is curved, particularly once you get down towards the tack, and make extra effort to ensure that it's fully seated in the tape. Near the head and
-tack, put the staples even closer together. Now put a staples in the single-folded portion of the luff tape, about one every 18" or so.
-Look on the underside of the luff tape (perhaps with the aid of a flashlight if necessary) to ensure that you've fully seated the sail into the tape all the way along the length
-of the luff.
-With the luff fully stapled, release the tension and bring the sail to the sewing machine. Check your bobbin to make sure you have enough thread for this seam. Run a
-single row of zigzag stitches along the inner fold, and then another row along the raw edges of the tape (see photo). If you stapled correctly, you shouldn't need to
-remove any staples while sewing the first row of stitches, but you will need to remove them as you go during the second row. Some people sew over the staples, but I like
-to pull them out as I go. If you leave the staples in, they can wear the sewing machine's feed dogs, and they can be annoying to remove underneath a piece of thread.
-http://www.instructables.com/id/Make-a-Dacron-Sail/
+The purpose of the luff tape is to limit the stretch of the sail along the luff, and push the luff round into the belly of the sail. To do these things properly, we need to tension the luff tape before we attach it to the sail.
+How much tension do you put on it? You are trying to simulate the same tension as would be applied by the halyard during sailing. This is a small boat, with a single-part halyard, designed to be sailed by children. So let's be realistic, there's not going to be a whole lot of tension on that halyard.
+
+Normally the way this is done is to drive a big spike into the floor at each end of the sail, and tension it from there. While I'm okay with driving a few push-pins into my living room floor, I didn't want to drive in big spikes. Instead, I found two door frames across the room from each other, and put some bar clamps around the frames to provide me with something to attach the luff. I clamped one end of the luff tape directly to the door frame, and on the other end I used a hook on the end of a piece of rope. I tensioned the luff by hand, pulling on the tape itself, then lashed the hook to hold it in place.
+
+With the tape tensioned, we need to bring the sail up to it. Lay the sail out starboard side up, with the luff running next to the tensioned luff. We need to get the luff to lie flat on the floor, so with the aid of a helper, make an accordion-like fold a few inches behind the luff, and it will lie flat on the floor.
+Now slip the luff into the tape, making sure to fully seat the edge of the sail all the way into the tape. Work your way from the head to the tack, seating the luff into the tape and securing it with staples about 6" apart. Place these staples in the double-folded portion of the tape, about half an inch back from the outer (folded) edge of the tape.
+
+Remember that the luff is curved, particularly once you get down towards the tack, and make extra effort to ensure that it's fully seated in the tape. Near the head and tack, put the staples even closer together. Now put a staples in the single-folded portion of the luff tape, about one every 18" or so.
+Look on the underside of the luff tape (perhaps with the aid of a flashlight if necessary) to ensure that you've fully seated the sail into the tape all the way along the length of the luff.
+
+With the luff fully stapled, release the tension and bring the sail to the sewing machine. Check your bobbin to make sure you have enough thread for this seam. Run a single row of zigzag stitches along the inner fold, and then another row along the raw edges of the tape (see photo). If you stapled correctly, you shouldn't need to remove any staples while sewing the first row of stitches, but you will need to remove them as you go during the second row. Some people sew over the staples, but I like to pull them out as I go. If you leave the staples in, they can wear the sewing machine's feed dogs, and they can be annoying to remove underneath a piece of thread.
+
 Image Notes
 1. Accordion-fold makes the luff lie flat along the floor
-http://www.instructables.com/id/Make-a-Dacron-Sail/
+
 Image Notes
 1. Removing a staple before sewing over it
-2. This staple was located away from the seam, so that I didn't need to
-remove it.
-http://www.instructables.com/id/Make-a-Dacron-Sail/
+2. This staple was located away from the seam, so that I didn't need to remove it.
+
 Image Notes
 1. Sew this seam first
 2. Sew this seam second
-3. Don't put your staples here! This was just a scrap that I was using to adjust the
-tension on my sewing machine for each seam. On the real luff, this staple is
-located much closer to the edge, out of the way of the seam.
+3. Don't put your staples here! This was just a scrap that I was using to adjust the tension on my sewing machine for each seam. On the real luff, this staple is located much closer to the edge, out of the way of the seam.
+
 # Step 19: Make and Attach Batten Pockets
 The key to this step is to use copious amounts of double-sided tape. Otherwise you'll go crazy.
 
@@ -535,6 +563,7 @@ I made the pockets out of 2" wide, 3.8oz Dacron tape, and made the pockets in su
 I wholeheartedly recommend mocking up the batten pockets with paper first, then making a quick full size mockup with Dacron tape to work out all the kinks before making the real thing.
 
 Also, use a lot of sticky tape. Everywhere that you're going to run stitches can and should be sticky taped first.
+
 While sewing the batten pockets on, don't think you need to run the stitches continuously around the perimeter of the pocket. I run stitches down one long-side, then down the other long side, then do the short end on the forward side with two rows of stitches. I hand-sew the after end to the leech. Also, while you've got the thing in the machine, take the opportunity to sew on a telltale below the pockets. I made my telltales out of lightweight ripstop nylon that I hotknifed 1/2" x 6".
 
 The leech ends of the batten pockets are handsewn with heavy twine. Start at the bottom of the pocket, and work your way up to the top using an oversew stitch. Take an extra turn or two at the top using the same hole. Then use the same holes and oversew back down, making a nice x-shaped pattern. Finish the ends of the thread with big knots, and melt the bitter ends of the thread with a lighter.
@@ -552,15 +581,17 @@ Image Notes
 5. Velcro closure for the top opening
 
 Image Notes
-1. Unlike the sails seams, I sewed over the edge of the reinforcement patches to
-keep the batten from snagging on them.
+1. Unlike the sails seams, I sewed over the edge of the reinforcement patches to keep the batten from snagging on them.
+
 Image Notes
-1. All three pockets assembled, applied with sticky tape, and ready to be put on
-to the sail
+1. All three pockets assembled, applied with sticky tape, and ready to be put on to the sail
+
 Image Notes
 1. Oversew by hand from the bottom of the pocket to the top
+
 Image Notes
 1. Oversew back down to the bottom using the same holes.
+
 Image Notes
 1. Handsewn reinforcement for the forward edge of the batten opening.
 
@@ -571,6 +602,7 @@ Image Notes
 ![AttachHeadboard-3](AttachHeadboard-3.jpg)
 
 Place the headboard onto the sail, and trace all the holes. Use a circle cutter and a deadblow hammer to cut the hole for the halyard. If attaching the headboard with rivets, use a small hole cutter to cut the rivet holes. If handsewing, use an awl or small nail coated in wax to pre-poke sewing holes.
+
 Typically, headboards are riveted in place with aluminum rivets. The problem is, I didn't have any rivets that were the right size, so I decided to handsew the headboard in place. A case can be made for handsewing, as it won't corrode like rivets will, and it really doesn't take all that long.
 
 As I mentioned, I pre-poked all the holes with an awl.
@@ -605,17 +637,15 @@ When you use a hole cutter and a grommet setter, it's nice to use the right type
 
 Image Notes
 
-1. Spur grommets have little metal teeth that bite into the cloth and interlock with
-a lip on the male part of the grommet. Much stronger than hardware store
-grommets
+1. Spur grommets have little metal teeth that bite into the cloth and interlock with a lip on the male part of the grommet. Much stronger than hardware store grommets
 Image Notes
-1. This hole cutter has interchangeable cutting heads, so you don't have to buy
-an entire new tool for each diameter hole you want to cut
+1. This hole cutter has interchangeable cutting heads, so you don't have to buy an entire new tool for each diameter hole you want to cut
+
 Image Notes
 1. Marking on the luff for the center of the hole
+
 Image Notes
-1. Grommet setter for the #0 grommets. Give these a good wipe down before
-using them, otherwise that black coating will get on your hands and the sail
+1. Grommet setter for the #0 grommets. Give these a good wipe down before using them, otherwise that black coating will get on your hands and the sail
 
 # Step 22: Seize the Sail Slides
 
