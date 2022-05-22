@@ -89,7 +89,7 @@ guide is not intended to provide the only available options. We will discuss som
 First, the general sequence of events that comprises vacuum infusion is illustrated in the following 
 diagram.
 
-![processing.jpg](./procssing.jpg)
+![processing.jpg](./processing.jpg)
 
 For the purpose of this brochure, we will be focusing on one general set-up idea with the notion 
 that resin will be infused into a center point in the laminate. From there, resin will be pulled 
