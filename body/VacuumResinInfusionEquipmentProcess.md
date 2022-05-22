@@ -232,60 +232,52 @@ When using spiral tubing, it may have a tendency to straighten out or not stay w
 The simplest way to counteract this is to use small pieces of sealant tape. Just ball it up, stick it 
 to the tubing, and then stick it on the mold. 
  
-Step 3 Vacuum Bag and Attach Your Resin Line 
-Build your vacuum bag 
+## Step 3 Vacuum Bag and Attach Your Resin Line 
+### Build your vacuum bag 
 Once the dry materials are in place, it is time to build the vacuum bag. The bag should be tight, 
 but still allow plenty of room for all the materials including networks of tubing. Too much or too 
 little bag can result in resin pooling or improper infusion. 
+
 Once the bag itself is built, attach tubing for the resin and vacuum lines. Be very careful when 
 making cuts through the bag for these tubes. It is frequently these connections that spring leaks. 
 Before the pump is switched on, it is important to clamp off the resin line. Because the 
-vacuum is drawn before the introduction of resin, the resin tube will act as a temporary “leak” that 
-Pg. 9 of 14 
-must be sealed off. Simply clamp off this line by creasing the tube and attaching a #1605-A Flow 
-Regulator to hold it in place. 
-Allow for prohibiting resin from entering the vacuum 
-Resin Trap 
+vacuum is drawn before the introduction of resin, the resin tube will act as a temporary “leak” that must be sealed off. Simply clamp off this line by creasing the tube and attaching a #1605-A Flow Regulator to hold it in place. 
+### Allow for prohibiting resin from entering the vacuum Resin Trap 
 One key piece of equipment that is important to understand is the #1500-A Resin Trap. A resin 
 trap is an airtight container placed within the vacuum tubing circuit between the laminate and the 
 pump to catch any excess resin before it can enter and destroy the vacuum pump. When set up 
 properly, the vacuum tubing will flow out of the laminate and connect directly to the resin trap. A 
-separate tube will then leave the resin trap and connect to the vacuum pump. 
+separate tube will then leave the resin trap and connect to the vacuum pump.
+
 During VIP, vacuum pressure is being used to draw resin into the laminate. In many cases, resin 
 will flow completely through portions of the laminate while still filling dry spots in another. This is 
 normal and is no cause for alarm except that resin will frequently enter the vacuum line while 
 continuing to infuse resin. 
+
 With a resin trap, all excess resin will be collected in the trap, while air is still allowed to flow back 
 to the pump. If the part is large and significant resin flow into the vacuum line is expected, any 
 number of resin traps may be placed in sequence. As soon as one is filled, the resin will overflow 
 into the next one. 
+
 Note: Before using a resin trap, wax the inside of the tank with mold release wax to ensure easy 
 removal of the hardened resin. 
-Step 4 Vacuum Pump 
-Attach the pump 
-Once all the components are in place, it is time to attach the vacuum pump itself. Because resin 
-is infused through vacuum pressure, it is quite beneficial to have a stronger pump. In general, a 
-stronger pump will help expedite infusion. 
-Ensure proper vacuum 
-Once attached, switch the vacuum on. As in any vacuum bagging application, leaks pose the 
-biggest problem. Even the smallest leak can greatly hinder performance or even completely ruin 
-a part. Because VIP offers unlimited time to seek out these leaks, considerable effort should be 
-made to find them all. Even so, there are frequently small leaks that are seemingly impossible to 
+
+## Step 4 Vacuum Pump 
+### Attach the pump 
+Once all the components are in place, it is time to attach the vacuum pump itself. Because resin is infused through vacuum pressure, it is quite beneficial to have a stronger pump. In general, a stronger pump will help expedite infusion. 
+### Ensure proper vacuum 
+Once attached, switch the vacuum on. As in any vacuum bagging application, leaks pose the biggest problem. Even the smallest leak can greatly hinder performance or even completely ruin a part. Because VIP offers unlimited time to seek out these leaks, considerable effort should be made to find them all. Even so, there are frequently small leaks that are seemingly impossible to 
 discover. There are some tools that can greatly aid this process. One handy tool is a #1503-A 
 Ultrasonic Leak Detector. This small handheld tool is designed to detect ultrasonic frequencies, 
 while simultaneously screening out audible noise. Wearing the supplied headphones, leaks are 
 easily heard, while an LED display indicates leak strength. Because audible noise is screened 
-out, this detector can even be used in a noisy shop environment. 
-For those on a tighter budget, a simple stethoscope can also be used to detect leaks. Though it 
-won’t provide the precision that an ultrasonic detector uses, a #1504-A Stethoscope will amplify 
-leaks and provide a helpful aid at a minimal cost. 
-Pg. 10 of 14 
-Step 5 Prepare for Infusion 
-Select your resin 
-Resin choice is another key aspect of VIP. There is a common misconception that a special 
-“infusion resin” is required. This is simply not the case. Any resin can actually be used for 
-infusion, though there are some general guidelines that should be considered when making a 
-decision. One important piece of information that should be examined is the resin viscosity. 
+out, this detector can even be used in a noisy shop environment.
+
+For those on a tighter budget, a simple stethoscope can also be used to detect leaks. Though it  won’t provide the precision that an ultrasonic detector uses, a #1504-A Stethoscope will amplify leaks and provide a helpful aid at a minimal cost. 
+
+## Step 5 Prepare for Infusion 
+### Select your resin 
+Resin choice is another key aspect of VIP. There is a common misconception that a special “infusion resin” is required. This is simply not the case. Any resin can actually be used for infusion, though there are some general guidelines that should be considered when making a decision. One important piece of information that should be examined is the resin viscosity. 
 Typically, lower viscosity will aid infusion, as it allows easier permeation of the reinforcement. 
 This is not to say that higher viscosity resins will not work, but they may require more careful 
 planning, more resin lines, and more flow media.
@@ -299,49 +291,33 @@ and therefore will tend to infuse a bit slower. However, don’t let that be a d
 VIP parts were successfully created using Systems 2000 Epoxy and a variety of reinforcements. 
 Because this resin can have a longer pot life, slower infusion times are not always a problem. 
 Set-up considerations may include more feed lines or additional flow media. 
-Resin Bucket Set-up 
-Because no brushes or rollers are used in the transfer of resin, 
-some steps must be completed to ensure that the resin line 
-stays in the bucket, as any air entering the line could be fatal 
-to a project. These tools include the bucket itself, a resin line 
-holder, zip-strips, and a spring clamp. The resin line holder 
-is basically a length of rigid material that is attached to the 
-resin tubing via the zip-strips. Once attached, this ensures 
-that the resin tubing stays fixed in a straight line. This 
-eliminates the tube’s natural tendency to twist and curl. It is 
-also helpful to cut the end of the tubing at an angle. 
+### Resin Bucket Set-up 
+Because no brushes or rollers are used in the transfer of resin, some steps must be completed to ensure that the resin line 
+stays in the bucket, as any air entering the line could be fatal to a project. These tools include the bucket itself, a resin line 
+holder, zip-strips, and a spring clamp. The resin line holder is basically a length of rigid material that is attached to the 
+resin tubing via the zip-strips. Once attached, this ensures that the resin tubing stays fixed in a straight line. This 
+eliminates the tube’s natural tendency to twist and curl. It is also helpful to cut the end of the tubing at an angle. 
 Otherwise, the tube could potentially vacuum seal itself to the 
 base of the bucket, preventing the flow of resin. Once 
 attached to the holder, the line is clamped in place to the 
 bucket. The resulting assembly should ensure that the resin 
 line will stay exactly where it should be. 
-Step 6 Resin Infusion 
-Catalyze resin and allow it to infuse 
-Once everything is in place and ready to go, mix up the resin. Double check that the resin bucket 
-assembly is firmly in place so the tube will not leave the bucket. Once this is satisfactory, remove 
-the flow regulator to unclamp the resin inlet. Resin should quickly be sucked through the tube 
-and into the laminate. 
-Pg. 11 of 14 
-Once resin reaches the laminate, the resin feed line will quickly fill up. Once full, the resin will 
-begin to expand outward into the reinforcement. The rate of infusion depends upon many 
-variables, but the resin should be visibly moving. Allow this to continue until the entire laminate is 
-saturated. 
-Clamp off resin line 
-Once the laminate is completely wet out, there is no need for further resin to enter. If the bucket 
-were to be sucked dry, then destructive air bubbles would enter. To prevent this, the resin line 
-should be clamped off once it’s no longer needed. This is accomplished the same way it was 
-before resin was introduced; crease the tube and attach a Flow Regulator. While performing this 
-task, it is crucial that it be done carefully and without significant force that could potentially spring 
-a new leak. 
-Once the resin line is clamped off, the infusion is complete. However, it is still not time to turn off 
-the vacuum pump. Keep the pump running to maintain constant vacuum pressure until the resin 
-has sufficiently gelled. Otherwise, air could be introduced prematurely. 
-Step 7 Experiment and Test for Improvement 
-Helpful Supplies for Vacuum Infusion 
+## Step 6 Resin Infusion 
+### Catalyze resin and allow it to infuse 
+Once everything is in place and ready to go, mix up the resin. Double check that the resin bucket assembly is firmly in place so the tube will not leave the bucket. Once this is satisfactory, remove the flow regulator to unclamp the resin inlet. Resin should quickly be sucked through the tube and into the laminate. 
+
+Once resin reaches the laminate, the resin feed line will quickly fill up. Once full, the resin will begin to expand outward into the reinforcement. The rate of infusion depends upon many variables, but the resin should be visibly moving. Allow this to continue until the entire laminate is saturated. 
+### Clamp off resin line 
+Once the laminate is completely wet out, there is no need for further resin to enter. If the bucket were to be sucked dry, then destructive air bubbles would enter. To prevent this, the resin line should be clamped off once it’s no longer needed. This is accomplished the same way it was before resin was introduced; crease the tube and attach a Flow Regulator. While performing this 
+task, it is crucial that it be done carefully and without significant force that could potentially spring a new leak.
+
+Once the resin line is clamped off, the infusion is complete. However, it is still not time to turn off the vacuum pump. Keep the pump running to maintain constant vacuum pressure until the resin has sufficiently gelled. Otherwise, air could be introduced prematurely. 
+## Step 7 Experiment and Test for Improvement 
+### Helpful Supplies for Vacuum Infusion 
 Like any lamination method, there are certain supplies for VIP that are not required but offer 
 significant advantages. These items can save time and help gather useful data for further 
 experimentation. 
-Thermal Gun 
+### Thermal Gun 
 A useful piece of information during infusion is the resin temperature. The temperature tells you 
 when the resin is beginning to cure, when the laminate has achieved peak exotherm, and when 
 the laminate has returned to room temperature. 
@@ -349,103 +325,70 @@ To determine the temperature, #1502-A Thermal Gun can be used. This simple devic
 pointed at an area and will instantly give a temperature reading. It is often useful to regularly 
 check a number of areas including the resin bucket, the resin inlet, and the outer portions of the 
 resin flow in order to keep tabs on its progress. 
-Stop Watch and Marker 
+### Stop Watch and Marker 
 While infusing, and especially when practicing with VIP, it is a good idea to monitor resin flow 
 rates and resin flow paths over time. This can easily be done with a simple stop watch and a 
 marker. Start the timer when resin is first introduced into the laminate. At regular intervals, mark 
 the bag with the resin’s current position. This piece of information can be especially helpful upon 
 further infusion attempts, determining if small changes in set-up have any noticeable effect. 
-Typical Variations in Set-up 
-With an understanding of basic theory and supplies, it is time to discuss variations of materials 
-within the mold. Keep in mind there is no one correct way to do this; however, the general idea is 
-the same regardless of arrangement choices. 
-Pg. 12 of 14 
-When choosing material arrangements, it is helpful to understand why resin travels the way it 
-does. When a vacuum is pulled, all air is removed from the laminate, creating open spaces of 
-complete vacuum. This causes pressure to be placed on the laminate. Naturally, this pressure 
-will want to be relieved by refilling the open spaces. In VIP, resin will provide this relief. There is 
-a common misconception that the vacuum pump is actually sucking resin into the part. In 
-actuality, it is the vacuum pressure that is doing the work. Once a vacuum is achieved, the pump 
-itself can theoretically be clamped off and removed from the equation (though this is not 
+### Typical Variations in Set-up 
+With an understanding of basic theory and supplies, it is time to discuss variations of materials within the mold. Keep in mind there is no one correct way to do this; however, the general idea is the same regardless of arrangement choices. 
+
+When choosing material arrangements, it is helpful to understand why resin travels the way it does. When a vacuum is pulled, all air is removed from the laminate, creating open spaces of complete vacuum. This causes pressure to be placed on the laminate. Naturally, this pressure will want to be relieved by refilling the open spaces. In VIP, resin will provide this relief. There is a common misconception that the vacuum pump is actually sucking resin into the part. In actuality, it is the vacuum pressure that is doing the work. Once a vacuum is achieved, the pump itself can theoretically be clamped off and removed from the equation (though this is not 
 recommended). Infusion will still occur. 
-In order to create an even resin front that will wet-out the entire laminate, keep these two resin 
-flow characteristics in mind. 
+
+In order to create an even resin front that will wet-out the entire laminate, keep these two resin flow characteristics in mind. 
+
 • Resin wants to fill open spaces created by the vacuum. 
 • Resin wants to take the path of least resistance. 
-Utilizing these two concepts, it is possible to manipulate resin across an entire laminate with as 
-little as one resin inlet and one vacuum outlet. The trick is placing in-bag extensions of these 
-lines in order to create a uniform resin front. The following figures show how this is done. 
-In figure 1, resin and vacuum lines are placed without the addition of any in-bag extensions. As a 
-result, resin will basically travel from one point to the other. However, the majority of the laminate 
-will remain untouched, and therefore ruined. 
-In figure 2, resin and vacuum lines are extended. Vacuum line extensions can be made with 
-spiral tubing, while resin feed line extensions can use either spiral tubing or EnkaFusion Filter 
-Jacket. In this example, resin will move very quickly through the gray areas. When resin is first 
-infused, the feed line extension will fill very quickly. Once this line is full, resin will attempt to 
-reach the nearest possible vacuum line. Because the vacuum line has been extended as well, 
-the nearest vacuum point will be directly across the laminate. As noted by the resin path arrows, 
-the entire lay-up will be infused. 
-General Reminders 
-Regardless of any particular arrangement of materials, there are a few items that are important to 
-note. 
+
+Utilizing these two concepts, it is possible to manipulate resin across an entire laminate with as little as one resin inlet and one vacuum outlet. The trick is placing in-bag extensions of these lines in order to create a uniform resin front. The following figures show how this is done. 
+In figure 1, resin and vacuum lines are placed without the addition of any in-bag extensions. As a result, resin will basically travel from one point to the other. However, the majority of the laminate will remain untouched, and therefore ruined. 
+
+In figure 2, resin and vacuum lines are extended. Vacuum line extensions can be made with spiral tubing, while resin feed line extensions can use either spiral tubing or EnkaFusion Filter Jacket. In this example, resin will move very quickly through the gray areas. When resin is first infused, the feed line extension will fill very quickly. Once this line is full, resin will attempt to 
+reach the nearest possible vacuum line. Because the vacuum line has been extended as well, the nearest vacuum point will be directly across the laminate. As noted by the resin path arrows, the entire lay-up will be infused. 
+### General Reminders 
+Regardless of any particular arrangement of materials, there are a few items that are important to note. 
 • Be sure to include a Resin trap in the vacuum line between the mold and the vacuum 
 pump if there is any possibility that resin can enter the vacuum line while still infusing. 
-Pg. 13 of 14 
 • Any material that will be later removed (such as surface flow media or spiral tubing) 
 should be placed on peel ply. Otherwise, it will be infused into the part. 
-A Common Variation 
-In the following example, spiral tubing is used for both the resin feed and the vacuum line. Resin 
-will enter on one side and fill the length of the tubing very quickly. At that point, resin will begin to 
-flow across the laminate. While this approach is simpler to set up, the resin will need to travel 
-across a longer distance. Depending on what materials and equipment are used, this distance 
+### A Common Variation 
+In the following example, spiral tubing is used for both the resin feed and the vacuum line. Resin will enter on one side and fill the length of the tubing very quickly. At that point, resin will begin to flow across the laminate. While this approach is simpler to set up, the resin will need to travel across a longer distance. Depending on what materials and equipment are used, this distance 
 becomes a significant factor. However, on the up-side, the inside surface texture of the finished 
 part will be consistent. 
-Larger Projects 
-Now that the theory of infusion is understood, it is very easy to expand on these concepts in order 
-to apply them to larger projects. As resin travels away from the feed line, it will encounter more 
-resistance, ultimately slowing down. To combat this, large projects will require multiple resin and 
-vacuum lines. In general, resin lines should not be more than 30-36” apart under ideal 
-conditions. However, when using less permeable materials or higher viscosity resins, this 
-number may need to be reduced. It is important to experiment with the specific material set 
-before attempting to create a large project. 
-Conclusion 
-Vacuum infusion can appear to be a daunting endeavor, but it doesn’t have to be. Experiment 
-with different materials and arrangements, as small changes can create significantly different 
-Pg. 14 of 14 
-outcomes. Though the first few attempts may be unsuccessful, once the basics are learned, 
-infusion will quickly become second nature. 
-A Place to Start 
-We created our #590-A Vacuum Infusion Trial Kit as a means of familiarizing someone with the 
-materials that are unique to vacuum infusion. We strongly suggest significant experience with 
-both vacuum bagging and room temperature molding before tackling resin infusion. 
-This kit contains enough material to build 3 infusion trial projects up to 24” x 13” each. After 
-completing these 3 “practice” laminates you will be familiar with EnkaFusion Nylon Matting, 
-Lantor Soric, EnkaFusion Filter Jacket and Divinymat Sandwich Core. You will be able to judge 
-the differences in resin travel and conformability as suits your future infusion applications. 
-Additionally, you will be able to install your vacuum and resin lines and get some experience 
-controlling your resin bucket and resin flow. 
+## Larger Projects 
+Now that the theory of infusion is understood, it is very easy to expand on these concepts in order to apply them to larger projects. As resin travels away from the feed line, it will encounter more resistance, ultimately slowing down. To combat this, large projects will require multiple resin and vacuum lines. In general, resin lines should not be more than 30-36” apart under ideal conditions. However, when using less permeable materials or higher viscosity resins, this number may need to be reduced. It is important to experiment with the specific material set before attempting to create a large project. 
+## Conclusion 
+Vacuum infusion can appear to be a daunting endeavor, but it doesn’t have to be. Experiment with different materials and arrangements, as small changes can create significantly different outcomes. Though the first few attempts may be unsuccessful, once the basics are learned, infusion will quickly become second nature. 
+## A Place to Start 
+We created our #590-A Vacuum Infusion Trial Kit as a means of familiarizing someone with the materials that are unique to vacuum infusion. We strongly suggest significant experience with both vacuum bagging and room temperature molding before tackling resin infusion. 
+This kit contains enough material to build 3 infusion trial projects up to 24” x 13” each. After completing these 3 “practice” laminates you will be familiar with EnkaFusion Nylon Matting, Lantor Soric, EnkaFusion Filter Jacket and Divinymat Sandwich Core. You will be able to judge the differences in resin travel and conformability as suits your future infusion applications. 
+Additionally, you will be able to install your vacuum and resin lines and get some experience controlling your resin bucket and resin flow. 
 This kit contains: 
-#505-A Resin Bucket 1 Gallon (x3) #1605-A Flow Regulator (x2) 
-#512-B Resin Line Holder (x3) #1606-A Spring Clamp 
-#893 Vacuum Tubing 5’pieces (x3) #906-A T-Fittings (x6) 
-#1601 Zip Strips (x6) #1400 Filter Jacket 18” (x3) 
-#1400 Filter Jacket 5” (x3) #1403 Spiral Tubing 5’ pieces (x3) 
-#582 Peel Ply 5’x5” pieces (x3) #582 Peel Ply 20”x5” pieces (x3) 
-#1024 DIVINYMAT® 24”x16” #1409 Lantor Soric® 24”x16.37” 
-#1401 Nylon Matting 24”x13” Instruction Sheet 
-In order to use the kit, you will need your own vacuum pump, bagging materials and vacuum 
-tubing to attach to the bag. Also, you will need to supply your own resin and reinforcement. 
-Last, you will need a mold that will require a laminate no larger than 24” x 13” that also has a 
-relatively large flange. 
+
+* #505-A Resin Bucket 1 Gallon (x3)
+* #1605-A Flow Regulator (x2) 
+* #512-B Resin Line Holder (x3) 
+* #1606-A Spring Clamp 
+* #893 Vacuum Tubing 5’pieces (x3)
+* #906-A T-Fittings (x6) 
+* #1601 Zip Strips (x6) 
+* #1400 Filter Jacket 18” (x3) 
+* #1400 Filter Jacket 5” (x3) 
+* #1403 Spiral Tubing 5’ pieces (x3) 
+* #582 Peel Ply 5’x5” pieces (x3)
+* #582 Peel Ply 20”x5” pieces (x3) 
+* #1024 DIVINYMAT® 24”x16” 
+* #1409 Lantor Soric® 24”x16.37” 
+* #1401 Nylon Matting 24”x13” Instruction Sheet 
+
+In order to use the kit, you will need your own vacuum pump, bagging materials and vacuum tubing to attach to the bag. Also, you will need to supply your own resin and reinforcement. Last, you will need a mold that will require a laminate no larger than 24” x 13” that also has a relatively large flange. 
 This kit will supply everything you need for: 
- One laminate using EnkaFusion Nylon Matting as a Flow Media 
- One laminate using Lantor Soric® as a Flow Media 
- One laminate using Divinymat® Sandwich Core as a Flow Media 
-It includes all of the supplies for resin bucket setup and resin lines, EnkaFusion Filter Jacket, 
-spiral tubing vacuum extensions, and enough peel ply to handle 3 jobs this size. 
-If you can vacuum bag, you can infuse resin. The objective of this kit is to help you make 
-informed decisions about choosing your flow media, placing and using spiral tubing and designing 
-successful experiments for your own projects in the future. After completing these trial projects, 
-you will be confident in planning your future flow media and resin line set up. You will be familiar 
-with all of the terms used in this brochure and hopefully, will be able to reduce the learning curve 
-and costs associated with the trial and error of successful vacuum infusion! 
+* One laminate using EnkaFusion Nylon Matting as a Flow Media 
+* One laminate using Lantor Soric® as a Flow Media 
+* One laminate using Divinymat® Sandwich Core as a Flow Media 
+
+It includes all of the supplies for resin bucket setup and resin lines, EnkaFusion Filter Jacket, spiral tubing vacuum extensions, and enough peel ply to handle 3 jobs this size. 
+
+If you can vacuum bag, you can infuse resin. The objective of this kit is to help you make informed decisions about choosing your flow media, placing and using spiral tubing and designing successful experiments for your own projects in the future. After completing these trial projects, you will be confident in planning your future flow media and resin line set up. You will be familiar with all of the terms used in this brochure and hopefully, will be able to reduce the learning curve and costs associated with the trial and error of successful vacuum infusion! 
