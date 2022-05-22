@@ -99,6 +99,7 @@ Note: For the purposes of this diagram, the vacuum bag itself is not shown
 
 With this final goal in mind, let’s take a closer, step-by-step look at what materials are used and 
 how to go about using them.
+
 ### Step 1 The Mold 
 Prepare your mold 
 Select your reinforcement 
@@ -126,50 +127,29 @@ Select your flow media and/or core material
  Typical variations in set-up 
 ## Step 1 The Mold 
  
-Prepare your mold 
-Like any lamination process, a good quality mold is required for vacuum infusion. The mold 
-should be rigid and have a high-gloss finish. Ideally, this mold will have flange of at least 6 inches 
-to be used for the placement of sealant tape and spiral tubing. After the mold is properly cleaned, 
-apply your ordinary, preferred mold release agent. Unique mold releases are not required for 
-resin infusion. 
+### Prepare your mold 
+Like any lamination process, a good quality mold is required for vacuum infusion. The mold should be rigid and have a high-gloss finish. Ideally, this mold will have flange of at least 6 inches to be used for the placement of sealant tape and spiral tubing. After the mold is properly cleaned, apply your ordinary, preferred mold release agent. Unique mold releases are not required for resin infusion. 
 
 ### Select your reinforcement 
-Choosing reinforcement is an important decision for any laminate, but there are additional 
-considerations when choosing one for infusion. While all fabrics will potentially infuse, different 
-materials and weave styles can severely alter resin flow rates. The following offers some general 
-guidelines for choosing materials, though individual experiences may vary. 
-Fiberglass is the most frequently used reinforcement in vacuum infusion. Most fiberglass fabrics 
-offer high permeability, allowing resin to easily flow through. In general, looser weaves tend to 
-infuse better, as there is less crimping of strands. 
-When using a non-woven mat, continuous strand mat will offer superior infusion over a choppedstrand. While both offer high permeability, the binder in chopped strand mat somewhat hinders 
-resin flow. Continuous strand mat (#251) will avoid this problem. 
-Knit fabrics are frequently used for infusion due to their construction. These fabrics are not 
-woven, but rather are knit together to avoid crimping caused by weaves. The #293 Knit Fabric is 
-18 oz. fiberglass roving knit to a 1.5 oz. chopped strand mat. This material not only boosts resin 
-flow, but also adds strength and bulk very quickly. 
-Carbon Fiber (Graphite) and Kevlar® reinforcements can also be used in vacuum infusion, 
-though they tend to infuse more slowly. To counteract this, the addition of flow media was found 
-to greatly increase infusion rates and create successful parts using both #1110 Vinyl Ester and 
-#2000 Epoxy resins. It is a good idea to experiment with these materials beforehand in order to 
-properly gauge flows rates. 
-When working with molds of a more complex shape, dry reinforcement may not readily sit flat. 
-Super 77™ Spray Adhesive (#1404) is the recommended remedy for this problem. Spray a light 
-layer of adhesive on the mold surface and lay down the reinforcement. This should provide 
-enough adhesion to hold the materials in place. When used moderately, Super 77™ will not 
-interfere with the resin infusion or curing process. 
-Pg. 6 of 14 
-Select your flow media and/or core material 
-Flow Media 
-A concept unique to vacuum infusion is the idea of flow media. In VIP, resin enters the laminate 
-at a fixed point (or points) and must be directed. Resin will always travel in the path of least 
-resistance. Unfortunately, many reinforcements can provide a great deal of resistance that can 
-prevent resin flow. Aiding the flow of resin is the job of flow media. 
-Although it is possible to infuse resin into a reinforcement without the addition of flow media, it is 
-rarely successful. The flow media is typically laid as a single layer between layers of 
-reinforcement to provide an easy flow conduit for resin. This material ultimately becomes part of 
-the laminate. 
+Choosing reinforcement is an important decision for any laminate, but there are additional considerations when choosing one for infusion. While all fabrics will potentially infuse, different materials and weave styles can severely alter resin flow rates. The following offers some general guidelines for choosing materials, though individual experiences may vary. 
+
+Fiberglass is the most frequently used reinforcement in vacuum infusion. Most fiberglass fabrics offer high permeability, allowing resin to easily flow through. In general, looser weaves tend to infuse better, as there is less crimping of strands.
+
+When using a non-woven mat, continuous strand mat will offer superior infusion over a choppedstrand. While both offer high permeability, the binder in chopped strand mat somewhat hinders resin flow. Continuous strand mat (#251) will avoid this problem. 
+
+Knit fabrics are frequently used for infusion due to their construction. These fabrics are not woven, but rather are knit together to avoid crimping caused by weaves. The #293 Knit Fabric is 18 oz. fiberglass roving knit to a 1.5 oz. chopped strand mat. This material not only boosts resin flow, but also adds strength and bulk very quickly.
+
+Carbon Fiber (Graphite) and Kevlar® reinforcements can also be used in vacuum infusion, though they tend to infuse more slowly. To counteract this, the addition of flow media was found to greatly increase infusion rates and create successful parts using both #1110 Vinyl Ester and #2000 Epoxy resins. It is a good idea to experiment with these materials beforehand in order to properly gauge flows rates.
+
+When working with molds of a more complex shape, dry reinforcement may not readily sit flat. Super 77™ Spray Adhesive (#1404) is the recommended remedy for this problem. Spray a light layer of adhesive on the mold surface and lay down the reinforcement. This should provide enough adhesion to hold the materials in place. When used moderately, Super 77™ will not interfere with the resin infusion or curing process. 
+
+### Select your flow media and/or core material 
+#### Flow Media 
+A concept unique to vacuum infusion is the idea of flow media. In VIP, resin enters the laminate at a fixed point (or points) and must be directed. Resin will always travel in the path of least resistance. Unfortunately, many reinforcements can provide a great deal of resistance that can prevent resin flow. Aiding the flow of resin is the job of flow media. 
+Although it is possible to infuse resin into a reinforcement without the addition of flow media, it is rarely successful. The flow media is typically laid as a single layer between layers of reinforcement to provide an easy flow conduit for resin. This material ultimately becomes part of the laminate. 
+
 Flow media comes in several styles. 
-• EnkaFusion Nylon Matting (#1401) provides the fastest infusion times. Constructed of 
+* • EnkaFusion Nylon Matting (#1401) provides the fastest infusion times. Constructed of 
 randomly oriented, entangled nylon filaments, this matting can typically move resin as 
 fast it can be fed. 
 • Lantor Soric® XF (#1409) provides maximum conformability. This material is used as 
