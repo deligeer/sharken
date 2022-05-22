@@ -135,7 +135,7 @@ Choosing reinforcement is an important decision for any laminate, but there are 
 
 Fiberglass is the most frequently used reinforcement in vacuum infusion. Most fiberglass fabrics offer high permeability, allowing resin to easily flow through. In general, looser weaves tend to infuse better, as there is less crimping of strands.
 
-When using a non-woven mat, continuous strand mat will offer superior infusion over a choppedstrand. While both offer high permeability, the binder in chopped strand mat somewhat hinders resin flow. Continuous strand mat (#251) will avoid this problem. 
+When using a non-woven mat, continuous strand mat will offer superior infusion over a chopped-strand. While both offer high permeability, the binder in chopped strand mat somewhat hinders resin flow. Continuous strand mat (#251) will avoid this problem. 
 
 Knit fabrics are frequently used for infusion due to their construction. These fabrics are not woven, but rather are knit together to avoid crimping caused by weaves. The #293 Knit Fabric is 18 oz. fiberglass roving knit to a 1.5 oz. chopped strand mat. This material not only boosts resin flow, but also adds strength and bulk very quickly.
 
@@ -344,7 +344,7 @@ Vacuum infusion can appear to be a daunting endeavor, but it doesn’t have to b
 ## A Place to Start 
 We created our #590-A Vacuum Infusion Trial Kit as a means of familiarizing someone with the materials that are unique to vacuum infusion. We strongly suggest significant experience with both vacuum bagging and room temperature molding before tackling resin infusion. 
 This kit contains enough material to build 3 infusion trial projects up to 24” x 13” each. After completing these 3 “practice” laminates you will be familiar with EnkaFusion Nylon Matting, Lantor Soric, EnkaFusion Filter Jacket and Divinymat Sandwich Core. You will be able to judge the differences in resin travel and conformability as suits your future infusion applications. 
-Additionally, you will be able to install your vacuum and resin lines and get some experience controlling your resin bucket and resin flow. 
+Additionally, you will be able to install your vacuum and resin lines and get some experience controlling your #resin bucket and resin flow. 
 This kit contains: 
 
 * #505-A Resin Bucket 1 Gallon (x3)
@@ -370,8 +370,12 @@ This kit contains:
 * #891-A Vacuum Connector ![](./VacuumConnector.jpg)
 
 * vacuum pump 
-* vacuum bag 
 
+material lists:
+
+* vacuum bag 
+* #251-A Continuous Strand Mat ![ContinuousStrandMatSmall](./ContinuousStrandMatSmall.jpg)
+* 
 In order to use the kit, you will need your own vacuum pump, bagging materials and vacuum tubing to attach to the bag. Also, you will need to supply your own resin and reinforcement. Last, you will need a mold that will require a laminate no larger than 24” x 13” that also has a relatively large flange. 
 
 
