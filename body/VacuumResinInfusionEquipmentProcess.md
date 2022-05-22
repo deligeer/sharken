@@ -371,7 +371,7 @@ This kit contains:
 * #1605-A Flow Regulator (x2) 
 * #512-B Resin Line Holder (x3) 
 * #1606-A Spring Clamp 
-* #893 Vacuum Tubing 5’pieces (x3)
+* #893 Vacuum Tubing 5’pieces (x3),![VacuumTubing.jpg](./VacuumTubing.jpg)
 * #906-A T-Fittings (x6) 
 * #1601 Zip Strips (x6) 
 * #1400 Filter Jacket 18” (x3) 
@@ -381,10 +381,12 @@ This kit contains:
 * #582 Peel Ply 20”x5” pieces (x3) 
 * #1024 DIVINYMAT® 24”x16” 
 * #1409 Lantor Soric® 24”x16.37” 
-* #1401 Nylon Matting 24”x13” Instruction Sheet 
+* #1401 Nylon Matting 24”x13” Instruction Sheet, ![](./EnkaFusionNylonFlowMediaSmall.jpg)
 
 In order to use the kit, you will need your own vacuum pump, bagging materials and vacuum tubing to attach to the bag. Also, you will need to supply your own resin and reinforcement. Last, you will need a mold that will require a laminate no larger than 24” x 13” that also has a relatively large flange. 
-This kit will supply everything you need for: 
+
+This kit will supply everything you need for:
+
 * One laminate using EnkaFusion Nylon Matting as a Flow Media 
 * One laminate using Lantor Soric® as a Flow Media 
 * One laminate using Divinymat® Sandwich Core as a Flow Media 
