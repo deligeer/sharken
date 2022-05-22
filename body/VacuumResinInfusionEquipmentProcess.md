@@ -372,7 +372,7 @@ This kit contains:
 * #512-B Resin Line Holder (x3) 
 * #1606-A Spring Clamp 
 * #893 Vacuum Tubing 5’pieces (x3),![VacuumTubing.jpg](./VacuumTubing.jpg)
-* #906-A T-Fittings (x6)  ![T-Fitting.jpg]./(T-Fitting.jpg)
+* #906-A T-Fittings (x6)  ![T-Fitting.jpg](./T-Fitting.jpg)
 * #1601 Zip Strips (x6) 
 * #1400 Filter Jacket 18” (x3) ![EnkaFusionFilterJacketSmall.jpg](./EnkaFusionFilterJacketSmall.jpg)
 * #1400 Filter Jacket 5” (x3) 
@@ -383,10 +383,14 @@ This kit contains:
 * #1409 Lantor Soric® 24”x16.37” 
 * #1401 Nylon Matting 24”x13” Instruction Sheet, ![](./EnkaFusionNylonFlowMediaSmall.jpg)
 
+* #1503-A Ultrasonic Leak Detector, ![](./UltrasonicLeakDetector.jpg)
 * #126-A Spray Gun, ![](./0.6LiterGelCoatTouch-UpSprayGun.jpg)
 * #891-A Vacuum Connector ![](./VacuumConnector.jpg)
 
 In order to use the kit, you will need your own vacuum pump, bagging materials and vacuum tubing to attach to the bag. Also, you will need to supply your own resin and reinforcement. Last, you will need a mold that will require a laminate no larger than 24” x 13” that also has a relatively large flange. 
+
+# vacuum pump
+# vacuum bag 
 
 This kit will supply everything you need for:
 
