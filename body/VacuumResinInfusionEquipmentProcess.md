@@ -377,7 +377,7 @@ This kit contains:
 * #1400 Filter Jacket 18” (x3) ![EnkaFusionFilterJacketSmall.jpg](./EnkaFusionFilterJacketSmall.jpg)
 * #1400 Filter Jacket 5” (x3) 
 * #1403 Spiral Tubing 5’ pieces (x3), ![](./SpiralTubingSmall.jpg)
-* #582 Peel Ply 5’x5” pieces (x3)
+* #582 Peel Ply 5’x5” pieces (x3) ![](./NylonReleasePeelPly.jpg)
 * #582 Peel Ply 20”x5” pieces (x3) 
 * #1024 DIVINYMAT® 24”x16” 
 * #1409 Lantor Soric® 24”x16.37” 
