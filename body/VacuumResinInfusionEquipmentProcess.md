@@ -368,7 +368,7 @@ Additionally, you will be able to install your vacuum and resin lines and get so
 This kit contains: 
 
 * #505-A Resin Bucket 1 Gallon (x3)
-* #1605-A Flow Regulator (x2) 
+* #1605-A Flow Regulator (x2) , ![FlowRegulator.jpg](./FlowRegulator.jpg)
 * #512-B Resin Line Holder (x3) 
 * #1606-A Spring Clamp 
 * #893 Vacuum Tubing 5’pieces (x3),![VacuumTubing.jpg](./VacuumTubing.jpg)
