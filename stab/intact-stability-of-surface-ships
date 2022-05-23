@@ -1,0 +1,249 @@
+THE MARITIME INDUSTRY GUIDE
+
+# Ship Stability – Understanding Intact Stability of Ships
+
+
+By Soumya Chakraborty | In: Naval Architecture | Last Updated on August 31, 2021
+
+The understanding of a surface ship’s stability can be divided into two parts. First, Intact Stability. This field of study deals with the stability of a surface ship when the intactness of its hull is maintained, and no compartment or watertight tank is damaged or freely flooded by seawater.
+
+Secondly, Damaged Stability. The study of damaged stability of a surface ship includes the identification of compartments or tanks that are subjected to damage and flooded by seawater, followed by a prediction of resulting trim and draft conditions.
+
+Damaged stability, however, cannot be understood without a clear understanding of intact stability, and the interesting scenarios related to it. Hence, we will first focus on intact stability from this article onward, leading to a discussion of cases where the application of concepts of intact stability come of use and then move on to damaged stability.
+
+## Intact Stability of Surface Ships:
+The fundamental concept behind the understanding of the intact stability of a floating body is that of Equilibrium. There are three types of equilibrium conditions that can occur, for a floating ship, depending on the relation between the positions of the centre of gravity and centre of buoyancy.
+
+1. Stable Equilibrium:
+Study the figure below. A stable equilibrium is achieved when the vertical position of G is lower than the position of the transverse metacentre (M). So, when the ship heels to an angle (say theta- Ɵ), the centre of buoyancy (B) now shifts to B1. The lateral distance or lever between the weight and buoyancy in this condition results in a moment that brings the ship back to its original upright position.
+
+The moment resulting in the uprighting of the ship to its original orientation is called Righting Moment. The lever that causes the righting of a ship is the separation between the vertical lines passing through G and B1. This is called the Righting Lever, and abbreviated as GZ (refer to the figure above).
+
+An important relation between metacentric height (GM) and righting lever (GZ) can also be obtained from the figure above.
+
+2. Neutral Equilibrium:
+
+This is the most dangerous situation possible, for any surface ship, and all precautions must be taken to avoid it. It occurs when the vertical position of CG coincides with the transverse metacentre (M). As shown in the figure below, in such a condition, no righting lever is generated at any angle of the heel.
+
+As a result, any heeling moment would not give rise to a righting moment, and the ship would remain in the heeled position as long as neutral stability prevails. The risk here is, at a larger angle of heel in a neutrally stable shift, an unwanted weight shift due to cargo shifting might give rise to a condition of unstable equilibrium.
+
+Neutral Equilibrium
+
+Figure 2: Neutral Equilibrium
+
+3. Unstable Equilibrium:
+
+An unstable equilibrium is caused when the vertical position of G is higher than the position of the transverse metacenter (M). So, when the ship heels to an angle (say theta- Ɵ), the centre of buoyancy (B) now shifts to B1. But the righting lever is now negative, or in other words, the moment created would result in creating further heel until a condition of stable equilibrium is reached. If the condition of stable equilibrium is not reached by the time the deck is not immersed, the ship is said to capsize.
+
+Unstable Equilibrium
+
+Figure 3: Unstable equilibrium.
+
+Remember discussing, in the previous article, that metacentric height is one of the most vital parameters in the study of ship stability? We are now, in a position to appreciate the same. A ship’s stability, as seen above, can be directly commented on, by the value of its metacentric height (GM).
+
+GM > 0 means the ship is stable.
+GM = 0 means the ship is neutrally stable.
+GM < 0 means the ship is unstable.
+
+Further Reading:
+
+What Makes a Ship Unstable?
+
+Effects Of Ice Accretion On Ship Stability
+
+## Upsetting Forces On A Ship:
+Analysis of static transverse stability arises from the effect of upsetting forces or heeling moments, which can be categorised into two types depending on their sources with respect to the ship:
+
+Type 1: External Heeling Moments:
+1. Beam winds:
+Beam winds act on the portion of the ship above the waterline. The resistance acts as an opposing force on the underwater part of the hull. Now, there are two sets of force couples and corresponding moments generated, in this case. Note the forces acting on the ship in the following figure.
+
+Heel due to beam winds
+Figure 4: Heel due to beam winds.
+
+The moment (clockwise) created by the wind force and water pressure is the heeling moment, and the moment (anti-clockwise) created by the weight and buoyancy couple acts as the righting moment. So, when a ship experiences beam winds, it will till up to the angle at which the righting moment generated will cancel out the heeling moment.
+
+2. Lifting of Weight by the Sides:
+Weights are usually loaded or unloaded by the sides of the ship when such operations are carried out by the deck top crane. In this case, a heeling moment is caused by a shift in the centre of gravity. How?
+
+To know further, the fundamental concept that needs to be understood is that when a weight is lifted by a crane, its weight acts on the fulcrum – that is, the end of the derrick of the crane, irrespective of the height of the weight above the ground. This also means that once a weight (suppose, a container) is lifted from the berth, the weight of the container acts through the end of the derrick (which is a fixed point with respect to the ship), irrespective of the swinging motion of the container. Now, follow the diagram below.
+
+Shift of CG of ship during weight life by sides
+Figure 5: Shift of CG of ship during weight life by sides.
+
+A container of weight (w) is lifted by the port side, but the centre of gravity of the weight (g) will not lie on the centre of mass of the container, rather at the end of the derrick. The ship and the container can now be treated as a two-point mass system. The final centre of gravity of the system (G1) will lie on the line (shown in blue) joining the initial CG of the ship (G) and the centre of gravity of the weight (g). Now, since the final CG of the ship has shifted from the centreline, it will create a heeling moment towards the port side. The ship will heel till it reaches an equilibrium position (where buoyancy and weight finally act along the same line).
+
+3. High Speed Turning Manoeuvres:
+When a ship executes a turn, a centrifugal force acts horizontally on the centre of gravity of the ship, in a direction opposite to that of the turn. This force is balanced off by the hydrodynamic pressure acting on the underwater part of the hull in the opposite direction. If you follow the figure below, it is evident that the ship heels in the direction opposite to that of the turn till the righting moment generated due to weight and buoyancy couple, equalise the heeling moment generated by a couple of centrifugal force and hydrodynamic pressure. The sharper the turn, the more the centrifugal force generated, resulting in more angle of heel.
+
+Ship heeling to port while executing a sharp turn to starboard
+Figure 6: Ship heeling to port while executing a sharp turn to starboard.
+
+ 
+
+4. Grounding of ship:
+When a ship grounds in such a way that only one side of the underwater hull is hit, the upward reaction force at the point of contact between the hull and the seabed results in heeling. Part of the energy of the forward motion of the ship is absorbed by the upward reaction force (R) also causes the ship to initially lift up to a certain extent. When the tide ebbs, the ship sits further down onto the rock, and the magnitude of the reaction force increases. In such a condition, the buoyancy reduces, because now the weight of the ship (w) is being supported by a combination of the reaction force (R) and remaining buoyancy force (w-R), as shown in the figure below.
+
+grounding of a ship
+Figure 7: Heel due to grounding of a ship.
+
+ 
+
+The ship will heel up to the point where the moments of the weight of the ship (w) and buoyancy (b) about the point of contact with the seabed are balanced. This is exactly what happened on MV Costa Concordia, which was grounded, and as the tide ebbed, it resulted in capsizing the ship. However, the capsizing was not a result of grounding alone. The damage in the hull caused by grounding adds to the effect, which is something we will study in damaged stability.
+
+Do note, that someone with a thorough knowledge of these basics would be able to predict which side of the ship is grounded by just looking at the direction of the heel. It can be concluded from the above figure that if the port side of a ship’s hull hits the seabed, it would heel to starboard, which can be proved by real images of MV Concordia. Notice the direction of the heel (Starboard side) in Figure 8. When the ship was raised from the wreck area, the damage on the hull was clearly visible on the port side
+
+costa concordia
+5. Tension on mooring lines:
+Ships are moored to bollards when berthed at a port, or moored to guyed buoys while loading oil from offshore loading sites. If the mooring lines are too tensed, or in case the ship drifts away from the moored point, the increased tension on mooring lines causes the ship to heel. However, this can be easily prevented by adapting proper mooring techniques.
+
+Further Reading
+
+Understanding Ship Stability During Dry Dock
+
+Understanding Heavy Lifting Operations And Vessel Stability
+
+Type 2: Internal Heeling Moments:
+The previous cases studied were external phenomena resulting in heeling of a ship. There are also numerous internal causes that result in the same. Most of these can be prevented by taking proper operational measures, which we will discuss in later articles. We will now focus only on how heeling moments are caused due to internal phenomena.
+
+1. Movement of Weight Athwartship:
+Movement of any weight athwartship (in a transverse direction) will alter the position of the centre of gravity of the ship (from G to G1), as shown in the figure below. The initial lever created between weight acting through G1 and buoyancy acting through ‘B’ will create the heeling moment. The ship will heel to a point at which the new centre of buoyancy (B1) is at such a position such that weight and buoyancy act through the same line.
+
+This also happens when ballast water is transferred from one side to another, or when ballast water is taken into only one side of a tank. In the case of passenger ships, the crowding of a majority of passengers on one side of the ship can also be analysed as a case of weight shift.
+
+It is important to understand that though this is an equilibrium condition, a heeled condition is not desirable for the operation of a ship. Hence, corrective measures must be taken to bring the ship back to an upright position. We will study corrective measures in later articles.
+
+Effect of transverse weight shift
+Figure 10: Effect of transverse weight shift.
+
+ 
+
+2. Water Trapped on Deck:
+Seawater often finds access to decks (mainly the weather deck), and if trapped on deck, the motions of the ship will result in periodic weight shifts in both directions, creating cyclic heeling moments due to continuous change in CG of the ship.
+
+In order to prevent this, access is provided from every deck leading to the bilges, where green water (term used for seawater on deck) is stored.
+
+Longitudinal Stability:
+In all that we have discussed till now, we have dealt with only heeling of a ship. In other words, we have been discussing only the transverse stability of a ship. But a ship’s stability analysis is not just restricted to the transverse direction. Longitudinal shifts in weights on-board, or any longitudinal trimming moment (a moment that would cause the ship to trim), are aspects that are discussed under the longitudinal stability of a ship.
+
+The figure below shows the effect of the shift of weight towards the aft of the ship, resulting in trim by the stern. The centre of gravity of the ship (G) now shifts aft to a new position (G1), which causes the trimming moment. The ship now trims by aft, which means more volume of the hull is submerged at the aft, and part of the submerged volume towards the forward now emerges. This causes a shift in the centre of buoyancy of the ship towards the aft (from ‘B’ to ‘B1’). The equilibrium trim angle is reached when the final centre of gravity (G1) lies in line with the final centre of buoyancy (B1).
+
+Trim of a ship due to longitudinal shift in center of gravity
+Figure 11: Trim of a ship due to longitudinal shift in centre of gravity.
+
+The metacentre of the ship in its longitudinal direction is called the longitudinal metacentre (ML), and the vertical distance between the centre of gravity and longitudinal metacentre is called the longitudinal metacentric height of the ship (GML). In a way similar to that of transverse stability, a positive longitudinal GM means the ship is longitudinally stable, and will not plunge.
+
+The important thing to note here is that the values of longitudinal GM usually range from 100 to 110 times the value of the transverse GM. And since the values of transverse GM of all ship types vary from 0.2 to 0.5, it implies that GM in the longitudinal direction is usually as high as 100 metres or above. It is due to this, ships are inherently highly stable in the longitudinal direction, and hence, most studies of ship stability are focused on the transverse stability of the ship.
+
+Now that we have acquainted ourselves with equilibrium conditions of ships, and are able to analyse the effect of upsetting forces on ships, we will look into analysing the stability of a ship by stability curves, which provide us more window into understanding and predicting the behaviour of a ship in diverse conditions at sea.
+
+Further Reading:
+
+Understanding Curves of Static Stability
+
+Intact Stability Criteria and Inclining Experiment
+
+Disclaimer: The authors’ views expressed in this article do not necessarily reflect the views of Marine Insight. Data and charts, if used, in the article have been sourced from available information and have not been authenticated by any statutory authority. The author and Marine Insight do not claim it to be accurate nor accept any responsibility for the same. The views constitute only the opinions and do not constitute any guidelines or recommendation on any course of action to be followed by the reader.
+
+The article or images cannot be reproduced, copied, shared or used in any form without the permission of the author and Marine Insight. 
+
+Report an Error
+Related Posts
+wind effect on ship
+How Ships Sail Against The Wind – Impacts Of Wind Action On A Vessel
+The Dangers of Ro-Ro Ship Design A Naval Architect’s Perspective
+The Dangers of Ro-Ro Ship Design: A Naval Architect’s Perspective
+Dry Docking of Ships – Understanding Stability And Docking Plan
+Dry Docking of Ships – Understanding Stability And Docking Plan
+Ship Stability – Introduction to Hydrostatics and Stability of Surface Ships
+Ship Stability – Introduction to Hydrostatics and Stability of Surface Ships
+Tags: Ship Stability
+
+Want to share your tips and advice? Got questions? Visit the community forum to ask questions, get answers, meet people, and share your tips!
+
+
+About Soumya Chakraborty
+Soumya is pursuing Naval Architecture and Ocean Engineering at IMU, Visakhapatnam, India. Passionate about marine design, he believes in the importance of sharing maritime technical knowhow among industry personnel and students. He is also the Co-Founder and Editor-in-Chief of Learn Ship Design- A Student Initiative.
+
+Comments
+Klaus says
+
+DECEMBER 20, 2016 AT 1:03 PM
+
+Every ship is in general instable… Exept sailing boats who have a keel and mostly 1/3 of their weight in there for stability and the ability to upright themselves even when capsized by huge waves…
+Why is that principle not applyable for the biger ships?
+
+Ps: if this article only is shareable with the permission of the author why than are there all the links to ‘socialmedia’ usable?
+
+Arin Chowdhury says
+
+FEBRUARY 20, 2018 AT 10:08 PM
+
+the concept of tender and stiff ship comes into question here. of course one can build a ship with self up-righting capability, just like the sailing boat you mentioned but that would mean the ship to be extremely stiff. this would cause extreme stresses due to the huge up-righting moment and also who knows how many people will actually survive if a ship self rights itself. although modern day lifeboats are designed in this manner and its safe because lifeboats have safety straps. but i doubt this technology would ever come into picture for ship design. but world is fast advancing and maybe future ships will never sink. 🙂 🙂
+
+Mike Desculity says
+
+JUNE 14, 2018 AT 12:11 PM
+
+How to calculate BB1 longitudinal distance? If moving of the load shifts B as well how come that in tables for same displacement we have same LCB? Even if I shift cargo and do not change displacement I have same LCB. And if the image is correct, distance from AP to G1 is larger then AP to B1, that makes trim lever positive and ship should have forward trim not aft. If I load cargo aft G goes aft but B goes aft as well, or forward? Every picture on internet for trim has ship trimmed aft but AP to G is larger then AP to B and then the intersection of BG and B1G1 line is ML, but it makes no sense. Please respond to this, and how do you calculate BB1??
+
+Leave a Reply
+Your email address will not be published. Required fields are marked *
+
+Comment *
+
+Name *
+
+Email *
+
+
+
+POPULAR NOW
+autonomous vessel AI identification
+Watch: Autonomous Vessel Avoids Collisions, Completes 800Km Voyage Without Human Assistance
+SeaHarbor
+World’s First “Under Water Entertainment Platform” Submarine Revealed (Photos)
+Seafarers win commitment to mandatory internet access in international law
+Seafarers Win Commitment To Mandatory Internet Access In International Law
+navy vessel
+Pirate Attack On Cargo Vessel Prevented By Iranian Navy In Gulf Of Aden
+container ship
+Chartering vs Owning Vessels: Carrier strategies, Rationale, and Advantages & Disadvantages
+Marine Engineering
+Marine engine
+Air compressor
+Marine boiler
+Oily water separator
+Marine Electrical
+Ship Generator
+Oily water separator
+Nautical Science
+Mooring
+Bridge Watchkeeping
+Ship Manoeuvring
+Nautical Charts
+Anchoring
+Nautical Equipment
+Shipboard Guidelines
+Explore
+Free Maritime eBooks
+Premium Maritime eBooks
+Marine Safety
+Financial Planning
+Marine Careers
+Maritime Law
+Ship Dry Dock
+More
+Shipping News
+Maritime Reports
+Videos
+Maritime Piracy
+Offshore
+Safety Of Life At Sea (SOLAS)
+MARPOL
+  Privacy Policy   |   Refund Policy   |   Contact Us  |   Disclaimer   |   About Us   |   Team   |   Advertise  |   Send Us News
+
+Copyright © 2010 - 2022 Marine Insight — All Rights Reserved | Made with ♥ in India DMCA.com Protection Status
+
+ 
+AN ELITE CAFEMEDIA PUBLISHER
