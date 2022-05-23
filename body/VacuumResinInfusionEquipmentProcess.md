@@ -105,7 +105,7 @@ When using a non-woven mat, continuous strand mat will offer superior infusion o
 
 Knit fabrics are frequently used for infusion due to their construction. These fabrics are not woven, but rather are knit together to avoid crimping caused by weaves. The #293 Knit Fabric is 18 oz. fiberglass roving knit to a 1.5 oz. chopped strand mat. This material not only boosts resin flow, but also adds strength and bulk very quickly.
 
-or use [10 oz Fiberglass Fabric Style 750](#10 oz Fiberglass Fabric Style 750)
+or use [10 oz Fiberglass Fabric Style 750](#10-oz-fiberglass-fabric-style-750)
 
 Carbon Fiber (Graphite) and Kevlar® reinforcements can also be used in vacuum infusion, though they tend to infuse more slowly. To counteract this, the addition of flow media was found to greatly increase infusion rates and create successful parts using both #1110 Vinyl Ester and #2000 Epoxy resins. It is a good idea to experiment with these materials beforehand in order to properly gauge flows rates.
 
@@ -117,37 +117,19 @@ A concept unique to vacuum infusion is the idea of flow media. In VIP, resin ent
 Although it is possible to infuse resin into a reinforcement without the addition of flow media, it is rarely successful. The flow media is typically laid as a single layer between layers of reinforcement to provide an easy flow conduit for resin. This material ultimately becomes part of the laminate. 
 
 Flow media comes in several styles. 
-* • EnkaFusion Nylon Matting (#1401) provides the fastest infusion times. Constructed of 
-randomly oriented, entangled nylon filaments, this matting can typically move resin as 
-fast it can be fed. 
-• Lantor Soric® XF (#1409) provides maximum conformability. This material is used as 
-both a bulker and flow media. It has hexagonal flow channels that quickly move resin 
-throughout the laminate, while simultaneously adding thickness. Laminates incorporating 
-Soric® can typically experience 35% less resin retention than all glass laminates. 
-Though used as a core, Lantor Soric® does not provide any significant structural 
-properties. 
+* EnkaFusion Nylon Matting (#1401) provides the fastest infusion times. Constructed of randomly oriented, entangled nylon filaments, this matting can typically move resin as fast it can be fed. 
+* Lantor Soric® XF (#1409) provides maximum conformability. This material is used as both a bulker and flow media. It has hexagonal flow channels that quickly move resin throughout the laminate, while simultaneously adding thickness. Laminates incorporating Soric® can typically experience 35% less resin retention than all glass laminates. Though used as a core, Lantor Soric® does not provide any significant structural properties. 
 • DIVINYMAT Sandwich Core (#1024) serves as both a flow media and structural core. 
 This material is similar to traditional vinyl foam cores, but includes grooves, perforations, 
 and scores in the core material to help resin traverse the laminate while simultaneously 
 adding strength and rigidity. Additionally, this material is on a scrim backing to aid 
 conformability. (Traditional, closed-cell cores are not recommended as they tend to pool 
 resin rather than aid its flow.) 
-Step 2 Resin and Vacuum Lines 
-Before the vacuum bag is closed, careful consideration must be taken in order to set up resin and 
-vacuum lines 
-Select and install your resin feed lines 
-Resin will be fed from a standing source (usually a bucket.) The line for getting the resin into the 
-laminate will have to be installed before closing the bag. Although the same tubing that is used 
-for applying vacuum is fine for getting the resin to the bag, after the resin is being directed 
-through the laminate there are some materials unique to VIP which can help direct the resin flow. 
-• EnkaFusion Filter Jacket (#1400) is used in nearly all VIP projects. This material will be 
-used on top of the laminate and removed from the laminate when pulling the part from 
-the mold. It will also provide the removable material which can be used for anchoring 
-your T-fittings which will connect your resin and vacuum lines. 
-Pg. 7 of 14 
-EnkaFusion Filter Jacket is a 4” wide resin flow channel which is typically laid out over 
-the length of the laminate. It is similar to the nylon matting except that it’s narrower and 
-is contained within a fabric “sock.” The design of this “sock” holds resin until the entire 
+
+## Step 2 Resin and Vacuum Lines 
+Before the vacuum bag is closed, careful consideration must be taken in order to set up resin and vacuum lines Select and install your resin feed lines Resin will be fed from a standing source (usually a bucket.) The line for getting the resin into the laminate will have to be installed before closing the bag. Although the same tubing that is used for applying vacuum is fine for getting the resin to the bag, after the resin is being directed through the laminate there are some materials unique to VIP which can help direct the resin flow. 
+
+• EnkaFusion Filter Jacket (#1400) is used in nearly all VIP projects. This material will be used on top of the laminate and removed from the laminate when pulling the part from the mold. It will also provide the removable material which can be used for anchoring your T-fittings which will connect your resin and vacuum lines. EnkaFusion Filter Jacket is a 4” wide resin flow channel which is typically laid out over the length of the laminate. It is similar to the nylon matting except that it’s narrower and is contained within a fabric “sock.” The design of this “sock” holds resin until the entire 
 length is filled. At that point, resin begins to flow outward through the sock and into the 
 laminate, providing consistent flow rates across a long span. This style of EnkaFusion is 
 particularly useful for resin feed lines. When used as a surface media, be sure to place
