@@ -10,11 +10,11 @@ Vacuum infusion provides a number of improvements over traditionally vacuum bagg
 
 These benefits include: 
 
-• Better fiber-to-resin ratio 
-• Less wasted resin 
-• Very consistent resin usage 
-• Unlimited set-up time 
-• Cleaner 
+* • Better fiber-to-resin ratio 
+* • Less wasted resin 
+* • Very consistent resin usage 
+* • Unlimited set-up time 
+* • Cleaner 
 
 VIP offers a better fiber-to-resin ratio than vacuum bagging. A typical hand lay-up usually results in excess of 100% fabric weight by resin. Resin alone is very brittle, so any excess will actually weaken the part. Vacuum bagging can reduce this number significantly; however, it is still not ideal and can lead to additional problems. 
 
