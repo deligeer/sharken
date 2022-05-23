@@ -332,3 +332,5 @@ This kit will supply everything you need for:
 It includes all of the supplies for resin bucket setup and resin lines, EnkaFusion Filter Jacket, spiral tubing vacuum extensions, and enough peel ply to handle 3 jobs this size. 
 
 If you can vacuum bag, you can infuse resin. The objective of this kit is to help you make informed decisions about choosing your flow media, placing and using spiral tubing and designing successful experiments for your own projects in the future. After completing these trial projects, you will be confident in planning your future flow media and resin line set up. You will be familiar with all of the terms used in this brochure and hopefully, will be able to reduce the learning curve and costs associated with the trial and error of successful vacuum infusion! 
+
+![tools-material-list.jpg](./tools-material-list.jpg)
