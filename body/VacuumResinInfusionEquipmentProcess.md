@@ -107,7 +107,7 @@ Knit fabrics are frequently used for infusion due to their construction. These f
 
 or use [10 oz Fiberglass Fabric Style 750](#10-oz-fiberglass-fabric-style-750)
 
-Carbon Fiber (Graphite) and Kevlar® reinforcements can also be used in vacuum infusion, though they tend to infuse more slowly. To counteract this, the addition of flow media was found to greatly increase infusion rates and create successful parts using both #1110 Vinyl Ester and #2000 Epoxy resins. It is a good idea to experiment with these materials beforehand in order to properly gauge flows rates.
+**Carbon Fiber (Graphite)** and **Kevlar®** reinforcements can also be used in vacuum infusion, though they tend to infuse more slowly. To counteract this, the addition of flow media was found to greatly increase infusion rates and create successful parts using both #1110 Vinyl Ester and #2000 Epoxy resins. It is a good idea to experiment with these materials beforehand in order to properly gauge flows rates.
 
 When working with molds of a more complex shape, dry reinforcement may not readily sit flat. Super 77™ Spray Adhesive (#1404) is the recommended remedy for this problem. Spray a light layer of adhesive on the mold surface and lay down the reinforcement. This should provide enough adhesion to hold the materials in place. When used moderately, Super 77™ will not interfere with the resin infusion or curing process. 
 
