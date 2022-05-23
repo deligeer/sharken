@@ -252,9 +252,6 @@ This kit contains:
 * #893 Vacuum Tubing 5’pieces (x3),![VacuumTubing.jpg](./VacuumTubing.jpg)
 * #906-A T-Fittings (x6)  ![T-Fitting.jpg](./T-Fitting.jpg)
 
-### 1110 Vinyl Ester
-
-* #1110 Vinyl Ester ![](./VinylEsterResin.jpg)
 
 ### 1400 Filter Jacket
 * #1400 Filter Jacket 18” (x3) ![EnkaFusionFilterJacketSmall.jpg](./EnkaFusionFilterJacketSmall.jpg)
@@ -312,6 +309,10 @@ material lists:
 ### 90 Isophthalic Resin
 
 #77 Molding Resin and #90 Isophthalic
+
+### 1110 Vinyl Ester
+
+* #1110 Vinyl Ester ![](./VinylEsterResin.jpg)
 
 ### 251-A Continuous Strand Mat
 * #251-A Continuous Strand Mat ![ContinuousStrandMatSmall](./ContinuousStrandMatSmall.jpg)
