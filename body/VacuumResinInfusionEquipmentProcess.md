@@ -114,17 +114,14 @@ When working with molds of a more complex shape, dry reinforcement may not readi
 ### Select your flow media and/or core material 
 #### Flow Media 
 A concept unique to vacuum infusion is the idea of flow media. In VIP, resin enters the laminate at a fixed point (or points) and must be directed. Resin will always travel in the path of least resistance. Unfortunately, many reinforcements can provide a great deal of resistance that can prevent resin flow. Aiding the flow of resin is the job of flow media. 
+
 Although it is possible to infuse resin into a reinforcement without the addition of flow media, it is rarely successful. The flow media is typically laid as a single layer between layers of reinforcement to provide an easy flow conduit for resin. This material ultimately becomes part of the laminate. 
 
 Flow media comes in several styles. 
-* EnkaFusion Nylon Matting (#1401) provides the fastest infusion times. Constructed of randomly oriented, entangled nylon filaments, this matting can typically move resin as fast it can be fed. 
-* Lantor Soric® XF (#1409) provides maximum conformability. This material is used as both a bulker and flow media. It has hexagonal flow channels that quickly move resin throughout the laminate, while simultaneously adding thickness. Laminates incorporating Soric® can typically experience 35% less resin retention than all glass laminates. Though used as a core, Lantor Soric® does not provide any significant structural properties. 
-• DIVINYMAT Sandwich Core (#1024) serves as both a flow media and structural core. 
-This material is similar to traditional vinyl foam cores, but includes grooves, perforations, 
-and scores in the core material to help resin traverse the laminate while simultaneously 
-adding strength and rigidity. Additionally, this material is on a scrim backing to aid 
-conformability. (Traditional, closed-cell cores are not recommended as they tend to pool 
-resin rather than aid its flow.) 
+
+* [EnkaFusion Nylon Matting](#1401) provides the fastest infusion times. Constructed of randomly oriented, entangled nylon filaments, this matting can typically move resin as fast it can be fed. 
+* [Lantor Soric® XF](#1409-nylon-matting) provides maximum conformability. This material is used as both a bulker and flow media. It has hexagonal flow channels that quickly move resin throughout the laminate, while simultaneously adding thickness. Laminates incorporating Soric® can typically experience 35% less resin retention than all glass laminates. Though used as a core, Lantor Soric® does not provide any significant structural properties. 
+* [DIVINYMAT Sandwich Core](#1024-divinymat) serves as both a flow media and structural core. This material is similar to traditional vinyl foam cores, but includes grooves, perforations, and scores in the core material to help resin traverse the laminate while simultaneously adding strength and rigidity. Additionally, this material is on a scrim backing to aid conformability. (Traditional, closed-cell cores are not recommended as they tend to pool resin rather than aid its flow.) 
 
 ## Step 2 Resin and Vacuum Lines 
 Before the vacuum bag is closed, careful consideration must be taken in order to set up resin and vacuum lines Select and install your resin feed lines Resin will be fed from a standing source (usually a bucket.) The line for getting the resin into the laminate will have to be installed before closing the bag. Although the same tubing that is used for applying vacuum is fine for getting the resin to the bag, after the resin is being directed through the laminate there are some materials unique to VIP which can help direct the resin flow. 
@@ -281,13 +278,20 @@ This kit contains:
 * #1601 Zip Strips (x6) ![](./1601A.jpg)
 * 
 * #1400 Filter Jacket 18” (x3) ![EnkaFusionFilterJacketSmall.jpg](./EnkaFusionFilterJacketSmall.jpg)
-* #1400 Filter Jacket 5” (x3) 
+* #1400 Filter Jacket 5” (x3)
+
+### 1024 DIVINYMAT
+1024 DIVINYMAT® 24”x16”  ![](./DivinycellDIVINYMAT.jpg)
+
+### 1401 Nylon Matting
+1401 Nylon Matting 24”x13” Instruction Sheet, ![](./EnkaFusionNylonFlowMediaSmall.jpg)
+
 * #1403 Spiral Tubing 5’ pieces (x3), ![](./SpiralTubingSmall.jpg)
 * #582 Peel Ply 5’x5” pieces (x3) ![](./NylonReleasePeelPly.jpg)
 * #582 Peel Ply 20”x5” pieces (x3) 
-* #1024 DIVINYMAT® 24”x16”  ![](./DivinycellDIVINYMAT.jpg)
+
 * #1409 Lantor Soric® 24”x16.37” 
-* #1401 Nylon Matting 24”x13” Instruction Sheet, ![](./EnkaFusionNylonFlowMediaSmall.jpg)
+
 
 ### 1503-A Ultrasonic Leak Detector
 
