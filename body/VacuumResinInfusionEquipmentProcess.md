@@ -215,14 +215,15 @@ recommended). Infusion will still occur.
 
 In order to create an even resin front that will wet-out the entire laminate, keep these two resin flow characteristics in mind. 
 
-• Resin wants to fill open spaces created by the vacuum. 
-• Resin wants to take the path of least resistance. 
+* Resin wants to fill open spaces created by the vacuum. 
+* Resin wants to take the path of least resistance. 
 
 Utilizing these two concepts, it is possible to manipulate resin across an entire laminate with as little as one resin inlet and one vacuum outlet. The trick is placing in-bag extensions of these lines in order to create a uniform resin front. The following figures show how this is done. 
+
 In figure 1, resin and vacuum lines are placed without the addition of any in-bag extensions. As a result, resin will basically travel from one point to the other. However, the majority of the laminate will remain untouched, and therefore ruined. 
 
-In figure 2, resin and vacuum lines are extended. Vacuum line extensions can be made with spiral tubing, while resin feed line extensions can use either spiral tubing or EnkaFusion Filter Jacket. In this example, resin will move very quickly through the gray areas. When resin is first infused, the feed line extension will fill very quickly. Once this line is full, resin will attempt to 
-reach the nearest possible vacuum line. Because the vacuum line has been extended as well, the nearest vacuum point will be directly across the laminate. As noted by the resin path arrows, the entire lay-up will be infused. 
+In figure 2, resin and vacuum lines are extended. Vacuum line extensions can be made with spiral tubing, while resin feed line extensions can use either spiral tubing or EnkaFusion Filter Jacket. In this example, resin will move very quickly through the gray areas. When resin is first infused, the feed line extension will fill very quickly. Once this line is full, resin will attempt to reach the nearest possible vacuum line. Because the vacuum line has been extended as well, the nearest vacuum point will be directly across the laminate. As noted by the resin path arrows, the entire lay-up will be infused. 
+
 ## General Reminders 
 Regardless of any particular arrangement of materials, there are a few items that are important to note. 
 
@@ -239,6 +240,7 @@ Vacuum infusion can appear to be a daunting endeavor, but it doesn’t have to b
 We created our #590-A Vacuum Infusion Trial Kit as a means of familiarizing someone with the materials that are unique to vacuum infusion. We strongly suggest significant experience with both vacuum bagging and room temperature molding before tackling resin infusion. 
 
 This kit contains enough material to build 3 infusion trial projects up to 24” x 13” each. After completing these 3 “practice” laminates you will be familiar with EnkaFusion Nylon Matting, Lantor Soric, EnkaFusion Filter Jacket and Divinymat Sandwich Core. You will be able to judge the differences in resin travel and conformability as suits your future infusion applications. 
+
 Additionally, you will be able to install your vacuum and resin lines and get some experience controlling your #resin bucket and resin flow. 
 
 This kit contains: 
@@ -309,6 +311,7 @@ material lists:
 #77 Molding Resin and #90 Isophthalic
 ### 90 Isophthalic Resin
 
+#77 Molding Resin and #90 Isophthalic
 
 ### 251-A Continuous Strand Mat
 * #251-A Continuous Strand Mat ![ContinuousStrandMatSmall](./ContinuousStrandMatSmall.jpg)
@@ -318,8 +321,6 @@ material lists:
 10 oz Fiberglass Fabric ![](./10ozFiberglassFabricSmall.jpg)
 
 In order to use the kit, you will need your own vacuum pump, bagging materials and vacuum tubing to attach to the bag. Also, you will need to supply your own resin and reinforcement. Last, you will need a mold that will require a laminate no larger than 24” x 13” that also has a relatively large flange. 
-
-
 
 This kit will supply everything you need for:
 
