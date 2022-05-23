@@ -10,11 +10,11 @@ Vacuum infusion provides a number of improvements over traditionally vacuum bagg
 
 These benefits include: 
 
-* • Better fiber-to-resin ratio 
-* • Less wasted resin 
-* • Very consistent resin usage 
-* • Unlimited set-up time 
-* • Cleaner 
+* Better fiber-to-resin ratio 
+* Less wasted resin 
+* Very consistent resin usage 
+* Unlimited set-up time 
+* Cleaner 
 
 VIP offers a better fiber-to-resin ratio than vacuum bagging. A typical hand lay-up usually results in excess of 100% fabric weight by resin. Resin alone is very brittle, so any excess will actually weaken the part. Vacuum bagging can reduce this number significantly; however, it is still not ideal and can lead to additional problems. 
 
@@ -232,14 +232,11 @@ Typically, lower viscosity will aid infusion, as it allows easier permeation of 
 
 This is not to say that higher viscosity resins will not work, but they may require more careful planning, more resin lines, and more flow media.
 
-Vinyl Ester is the most frequently used resin for vacuum infusion. At a viscosity of 275 centepoise, our #1110 Vinyl Ester is very well suited for this process. In fact, this is the same resin that is often called “infusion resin” by other vendors. 
+*Vinyl Ester* is the most frequently used resin for vacuum infusion. At a viscosity of 275 centepoise, our #1110 Vinyl Ester# is very well suited for this process. In fact, this is the same resin that is often called “infusion resin” by other vendors. 
 
-Polyester resins such as #77 Molding Resin and #90 Isophthalic provide a viscosity of about 475 centepoise and will also infuse quite readily. 
+*Polyester* resins such as #77 Molding Resin and #90 Isophthalic provide a viscosity of about 475 centepoise and will also infuse quite readily. 
 
-System 2000 Epoxy offers a viscosity of 900-975 centepoise (depending on hardener choices), and therefore will tend to infuse a bit slower. However, don’t let that be a deterrent. High quality VIP parts were successfully created using Systems 2000 Epoxy and a variety of reinforcements. 
-Because this resin can have a longer pot life, slower infusion times are not always a problem.
-
-Set-up considerations may include more feed lines or additional flow media. 
+*System 2000 Epoxy* offers a viscosity of 900-975 centepoise (depending on hardener choices), and therefore will tend to infuse a bit slower. However, don’t let that be a deterrent. High quality VIP parts were successfully created using Systems 2000 Epoxy and a variety of reinforcements. Because this resin can have a longer pot life, slower infusion times are not always a problem. Set-up considerations may include more feed lines or additional flow media. 
 
 ### Resin Bucket Set-up 
 Because no brushes or rollers are used in the transfer of resin, some steps must be completed to ensure that the resin line stays in the bucket, as any air entering the line could be fatal to a project. These tools include the bucket itself, a resin line holder, zip-strips, and a spring clamp. The resin line holder is basically a length of rigid material that is attached to the resin tubing via the zip-strips. Once attached, this ensures that the resin tubing stays fixed in a straight line. This eliminates the tube’s natural tendency to twist and curl. It is also helpful to cut the end of the tubing at an angle.
