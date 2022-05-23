@@ -321,7 +321,7 @@ material lists:
 
 * vacuum bag 
 
-### 251(#251)
+### 251-A Continuous Strand Mat
 * #251-A Continuous Strand Mat ![ContinuousStrandMatSmall](./ContinuousStrandMatSmall.jpg)
 
 ### 10 oz Fiberglass Fabric Style 750
