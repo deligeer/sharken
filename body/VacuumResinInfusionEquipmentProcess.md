@@ -375,7 +375,11 @@ material lists:
 
 * vacuum bag 
 * #251-A Continuous Strand Mat ![ContinuousStrandMatSmall](./ContinuousStrandMatSmall.jpg)
-* 
+
+### 10 oz Fiberglass Fabric- Style 750
+
+10 oz Fiberglass Fabric ![](./10ozFiberglassFabricSmall.jpg)
+
 In order to use the kit, you will need your own vacuum pump, bagging materials and vacuum tubing to attach to the bag. Also, you will need to supply your own resin and reinforcement. Last, you will need a mold that will require a laminate no larger than 24” x 13” that also has a relatively large flange. 
 
 
