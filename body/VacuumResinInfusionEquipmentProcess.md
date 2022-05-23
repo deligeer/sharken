@@ -168,7 +168,7 @@ Once all the components are in place, it is time to attach the vacuum pump itsel
 ### Ensure proper vacuum 
 Once attached, switch the vacuum on. As in any vacuum bagging application, leaks pose the biggest problem. Even the smallest leak can greatly hinder performance or even completely ruin a part. Because VIP offers unlimited time to seek out these leaks, considerable effort should be made to find them all. Even so, there are frequently small leaks that are seemingly impossible to discover. There are some tools that can greatly aid this process. One handy tool is a [1503-A Ultrasonic Leak Detector](#1503-A Ultrasonic Leak Detector). This small handheld tool is designed to detect ultrasonic frequencies, while simultaneously screening out audible noise. Wearing the supplied headphones, leaks are easily heard, while an LED display indicates leak strength. Because audible noise is screened out, this detector can even be used in a noisy shop environment.
 
-For those on a tighter budget, a simple stethoscope can also be used to detect leaks. Though it  won’t provide the precision that an ultrasonic detector uses, a #1504-A Stethoscope will amplify leaks and provide a helpful aid at a minimal cost. 
+For those on a tighter budget, a simple stethoscope can also be used to detect leaks. Though it  won’t provide the precision that an ultrasonic detector uses, a [#1504-A Stethoscope](#1504-a-stethoscope) will amplify leaks and provide a helpful aid at a minimal cost. 
 
 ## Step 5 Prepare for Infusion 
 ### Select your resin 
@@ -178,7 +178,7 @@ Typically, lower viscosity will aid infusion, as it allows easier permeation of 
 
 This is not to say that higher viscosity resins will not work, but they may require more careful planning, more resin lines, and more flow media.
 
-*Vinyl Ester* is the most frequently used resin for vacuum infusion. At a viscosity of 275 centepoise, our #1110 Vinyl Ester# is very well suited for this process. In fact, this is the same resin that is often called “infusion resin” by other vendors. 
+**Vinyl Ester** is the most frequently used resin for vacuum infusion. At a viscosity of 275 centepoise, our [#1110 Vinyl Ester](#1110-vinyl-ester) is very well suited for this process. In fact, this is the same resin that is often called “infusion resin” by other vendors. 
 
 *Polyester* resins such as #77 Molding Resin and #90 Isophthalic provide a viscosity of about 475 centepoise and will also infuse quite readily. 
 
@@ -260,7 +260,9 @@ This kit contains:
 * #893 Vacuum Tubing 5’pieces (x3),![VacuumTubing.jpg](./VacuumTubing.jpg)
 * #906-A T-Fittings (x6)  ![T-Fitting.jpg](./T-Fitting.jpg)
 
+### 1110 Vinyl Ester
 
+* #1110 Vinyl Ester ![](./VinylEsterResin.jpg)
 
 ### 1400 Filter Jacket
 * #1400 Filter Jacket 18” (x3) ![EnkaFusionFilterJacketSmall.jpg](./EnkaFusionFilterJacketSmall.jpg)
@@ -286,6 +288,7 @@ This kit contains:
 
 #1503-A Ultrasonic Leak Detector, ![](./UltrasonicLeakDetector.jpg)
 
+### 1504-A Stethoscope
 * #1504-A Stethoscope, ![](./Stethoscope.jpg)
 
 * #1601 Zip Strips (x6) ![](./1601A.jpg)
