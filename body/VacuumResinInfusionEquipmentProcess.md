@@ -119,27 +119,18 @@ Although it is possible to infuse resin into a reinforcement without the additio
 
 Flow media comes in several styles. 
 
-* [EnkaFusion Nylon Matting](#1401) provides the fastest infusion times. Constructed of randomly oriented, entangled nylon filaments, this matting can typically move resin as fast it can be fed. 
+* [EnkaFusion Nylon Matting](#1401-nylon-matting) provides the fastest infusion times. Constructed of randomly oriented, entangled nylon filaments, this matting can typically move resin as fast it can be fed. 
 * [Lantor Soric® XF](#1409-nylon-matting) provides maximum conformability. This material is used as both a bulker and flow media. It has hexagonal flow channels that quickly move resin throughout the laminate, while simultaneously adding thickness. Laminates incorporating Soric® can typically experience 35% less resin retention than all glass laminates. Though used as a core, Lantor Soric® does not provide any significant structural properties. 
 * [DIVINYMAT Sandwich Core](#1024-divinymat) serves as both a flow media and structural core. This material is similar to traditional vinyl foam cores, but includes grooves, perforations, and scores in the core material to help resin traverse the laminate while simultaneously adding strength and rigidity. Additionally, this material is on a scrim backing to aid conformability. (Traditional, closed-cell cores are not recommended as they tend to pool resin rather than aid its flow.) 
 
 ## Step 2 Resin and Vacuum Lines 
 Before the vacuum bag is closed, careful consideration must be taken in order to set up resin and vacuum lines Select and install your resin feed lines Resin will be fed from a standing source (usually a bucket.) The line for getting the resin into the laminate will have to be installed before closing the bag. Although the same tubing that is used for applying vacuum is fine for getting the resin to the bag, after the resin is being directed through the laminate there are some materials unique to VIP which can help direct the resin flow. 
 
-• EnkaFusion Filter Jacket (#1400) is used in nearly all VIP projects. This material will be used on top of the laminate and removed from the laminate when pulling the part from the mold. It will also provide the removable material which can be used for anchoring your T-fittings which will connect your resin and vacuum lines. EnkaFusion Filter Jacket is a 4” wide resin flow channel which is typically laid out over the length of the laminate. It is similar to the nylon matting except that it’s narrower and is contained within a fabric “sock.” The design of this “sock” holds resin until the entire 
-length is filled. At that point, resin begins to flow outward through the sock and into the 
-laminate, providing consistent flow rates across a long span. This style of EnkaFusion is 
-particularly useful for resin feed lines. When used as a surface media, be sure to place
-peel ply beneath the Filter Jacket. Otherwise, it will permanently attach itself to the 
-laminate. 
-• Spiral tubing (#1403) sometimes called spiral wrap, is a plastic ribbon that is coiled into a 
-tube shape. Due to its construction, air or resin can enter or leave the walls of the tube 
-throughout its entire length. This property makes spiral tubing ideal for in-bag vacuum 
-lines or resin feed lines. When used as a feed line, resin will quickly travel through the 
-tube, but simultaneously seep out along the way. This allows quick wet-out of a long 
-stretch within the laminate. Be sure to wrap spiral tubing in peel ply for easy removal. 
-This diagram shows the addition of EnkaFusion Filter Jacket, which will be used as a resin feed 
-line. 
+* [EnkaFusion Filter Jacket](#1400-filter-jacket) is used in nearly all VIP projects. This material will be used on top of the laminate and removed from the laminate when pulling the part from the mold. It will also provide the removable material which can be used for anchoring your T-fittings which will connect your resin and vacuum lines.
+* EnkaFusion Filter Jacket is a 4” wide resin flow channel which is typically laid out over the length of the laminate. It is similar to the nylon matting except that it’s narrower and is contained within a fabric “sock.” The design of this “sock” holds resin until the entire length is filled. At that point, resin begins to flow outward through the sock and into the laminate, providing consistent flow rates across a long span. This style of EnkaFusion is particularly useful for resin feed lines. When used as a surface media, be sure to place peel ply beneath the Filter Jacket. Otherwise, it will permanently attach itself to the laminate.
+* [Spiral tubing](#1403-Spiral Tubing) sometimes called spiral wrap, is a plastic ribbon that is coiled into a tube shape. Due to its construction, air or resin can enter or leave the walls of the tube throughout its entire length. This property makes spiral tubing ideal for in-bag vacuum lines or resin feed lines. When used as a feed line, resin will quickly travel through the tube, but simultaneously seep out along the way. This allows quick wet-out of a long stretch within the laminate. Be sure to wrap spiral tubing in peel ply for easy removal. 
+
+This diagram shows the addition of EnkaFusion Filter Jacket, which will be used as a resin feed line. 
 In addition to the feed line, a smaller piece of EnkaFusion Filter Jacket is placed on top as an 
 anchor for the T-Fitting which will be the connector for the resin feed line. It is necessary to lock 
 the T-Fitting into place to prevent shifting and ensure a steady flow rate. Cut a slit in the top layer 
@@ -276,7 +267,8 @@ This kit contains:
 * #893 Vacuum Tubing 5’pieces (x3),![VacuumTubing.jpg](./VacuumTubing.jpg)
 * #906-A T-Fittings (x6)  ![T-Fitting.jpg](./T-Fitting.jpg)
 * #1601 Zip Strips (x6) ![](./1601A.jpg)
-* 
+
+### 1400 Filter Jacket
 * #1400 Filter Jacket 18” (x3) ![EnkaFusionFilterJacketSmall.jpg](./EnkaFusionFilterJacketSmall.jpg)
 * #1400 Filter Jacket 5” (x3)
 
@@ -286,6 +278,7 @@ This kit contains:
 ### 1401 Nylon Matting
 1401 Nylon Matting 24”x13” Instruction Sheet, ![](./EnkaFusionNylonFlowMediaSmall.jpg)
 
+### 1403 Spiral Tubing
 * #1403 Spiral Tubing 5’ pieces (x3), ![](./SpiralTubingSmall.jpg)
 * #582 Peel Ply 5’x5” pieces (x3) ![](./NylonReleasePeelPly.jpg)
 * #582 Peel Ply 20”x5” pieces (x3) 
