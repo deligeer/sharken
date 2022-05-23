@@ -130,35 +130,28 @@ Before the vacuum bag is closed, careful consideration must be taken in order to
 * EnkaFusion Filter Jacket is a 4” wide resin flow channel which is typically laid out over the length of the laminate. It is similar to the nylon matting except that it’s narrower and is contained within a fabric “sock.” The design of this “sock” holds resin until the entire length is filled. At that point, resin begins to flow outward through the sock and into the laminate, providing consistent flow rates across a long span. This style of EnkaFusion is particularly useful for resin feed lines. When used as a surface media, be sure to place peel ply beneath the Filter Jacket. Otherwise, it will permanently attach itself to the laminate.
 * [Spiral tubing](#1403-spiral-tubing) sometimes called spiral wrap, is a plastic ribbon that is coiled into a tube shape. Due to its construction, air or resin can enter or leave the walls of the tube throughout its entire length. This property makes spiral tubing ideal for in-bag vacuum lines or resin feed lines. When used as a feed line, resin will quickly travel through the tube, but simultaneously seep out along the way. This allows quick wet-out of a long stretch within the laminate. Be sure to wrap spiral tubing in peel ply for easy removal. 
 
+![AddResinFeedLines.jpg](./AddResinFeedLines.jpg)
+
 This diagram shows the addition of EnkaFusion Filter Jacket, which will be used as a resin feed line. 
-In addition to the feed line, a smaller piece of EnkaFusion Filter Jacket is placed on top as an 
-anchor for the T-Fitting which will be the connector for the resin feed line. It is necessary to lock 
-the T-Fitting into place to prevent shifting and ensure a steady flow rate. Cut a slit in the top layer 
-for the fitting to poke through. Figure 1 illustrates the three pieces involved, while figure 2 shows 
-the finished sandwich. 
-Pg. 8 of 14 
-Select and install your vacuum lines
-In traditional vacuum bagging, a Breather/Bleeder material is typically used to both absorb excess 
-resin and drive vacuum throughout the laminate. Breather/Bleeder is typically not used in resin 
-infusion. 
-Instead, in VIP, the vacuum lines are extended within the sealed bag. Spiral tubing is ideal for 
-this purpose. In order to achieve complete infusion, resin must be pulled to all corners of the 
-laminate. Because the standard set-up infuses into the center of the laminate, spiral tubing would 
-usually be placed around the flange. Once again, spiral tubing should always be wrapped in 
-peel ply. 
-When using spiral tubing, it may have a tendency to straighten out or not stay where you want it. 
-The simplest way to counteract this is to use small pieces of sealant tape. Just ball it up, stick it 
-to the tubing, and then stick it on the mold. 
+
+In addition to the feed line, a smaller piece of EnkaFusion Filter Jacket is placed on top as an anchor for the T-Fitting which will be the connector for the resin feed line. It is necessary to lock the T-Fitting into place to prevent shifting and ensure a steady flow rate. Cut a slit in the top layer for the fitting to poke through. Figure 1 illustrates the three pieces involved, while figure 2 shows the finished sandwich. 
+
+![sandwich.jpg](./sandwich.jpg)
+
+### Select and install your vacuum lines
+In traditional vacuum bagging, a Breather/Bleeder material is typically used to both absorb excess resin and drive vacuum throughout the laminate. Breather/Bleeder is typically not used in resin infusion.
+
+Instead, in VIP, the vacuum lines are extended within the sealed bag. Spiral tubing is ideal for this purpose. In order to achieve complete infusion, resin must be pulled to all corners of the laminate. Because the standard set-up infuses into the center of the laminate, spiral tubing would usually be placed around the flange. Once again, **spiral tubing should always be wrapped in peel ply**.
+
+When using spiral tubing, it may have a tendency to straighten out or not stay where you want it. The simplest way to counteract this is to use small pieces of sealant tape. Just ball it up, stick it to the tubing, and then stick it on the mold. 
  
 ## Step 3 Vacuum Bag and Attach Your Resin Line 
 ### Build your vacuum bag 
-Once the dry materials are in place, it is time to build the vacuum bag. The bag should be tight, 
-but still allow plenty of room for all the materials including networks of tubing. Too much or too 
-little bag can result in resin pooling or improper infusion. 
+Once the dry materials are in place, it is time to build the vacuum bag. The bag should be tight, but still allow plenty of room for all the materials including networks of tubing. Too much or too little bag can result in resin pooling or improper infusion. 
 
 Once the bag itself is built, attach tubing for the resin and vacuum lines. Be very careful when making cuts through the bag for these tubes. It is frequently these connections that spring leaks. 
 
-Before the pump is switched on, it is important to clamp off the resin line. Because the vacuum is drawn before the introduction of resin, the resin tube will act as a temporary “leak” that must be sealed off. Simply clamp off this line by creasing the tube and attaching a #1605-A Flow Regulator to hold it in place. 
+Before the pump is switched on, it is important to clamp off the resin line. Because the vacuum is drawn before the introduction of resin, the resin tube will act as a temporary “leak” that must be sealed off. Simply clamp off this line by creasing the tube and attaching a [1605-A Flow Regulator](#1605-a-flow-regulator) to hold it in place. 
 
 ### Allow for prohibiting resin from entering the vacuum Resin Trap 
 One key piece of equipment that is important to understand is the #1500-A Resin Trap. A resin trap is an airtight container placed within the vacuum tubing circuit between the laminate and the pump to catch any excess resin before it can enter and destroy the vacuum pump. When set up properly, the vacuum tubing will flow out of the laminate and connect directly to the resin trap. A separate tube will then leave the resin trap and connect to the vacuum pump.
@@ -261,12 +254,13 @@ Additionally, you will be able to install your vacuum and resin lines and get so
 This kit contains: 
 
 * #505-A Resin Bucket 1 Gallon (x3)
-* #1605-A Flow Regulator (x2) , ![FlowRegulator.jpg](./FlowRegulator.jpg)
+
 * #512-B Resin Line Holder (x3) 
-* #1606-A Spring Clamp 
+
 * #893 Vacuum Tubing 5’pieces (x3),![VacuumTubing.jpg](./VacuumTubing.jpg)
 * #906-A T-Fittings (x6)  ![T-Fitting.jpg](./T-Fitting.jpg)
-* #1601 Zip Strips (x6) ![](./1601A.jpg)
+
+
 
 ### 1400 Filter Jacket
 * #1400 Filter Jacket 18” (x3) ![EnkaFusionFilterJacketSmall.jpg](./EnkaFusionFilterJacketSmall.jpg)
@@ -291,6 +285,15 @@ This kit contains:
 #1503-A Ultrasonic Leak Detector, ![](./UltrasonicLeakDetector.jpg)
 
 * #1504-A Stethoscope, ![](./Stethoscope.jpg)
+
+* #1601 Zip Strips (x6) ![](./1601A.jpg)
+
+### 1605-A Flow Regulator
+
+1605-A Flow Regulator (x2) , ![FlowRegulator.jpg](./FlowRegulator.jpg)
+
+* #1606-A Spring Clamp 
+
 * #126-A Spray Gun, ![](./0.6LiterGelCoatTouch-UpSprayGun.jpg)
 * #891-A Vacuum Connector ![](./VacuumConnector.jpg)
 
