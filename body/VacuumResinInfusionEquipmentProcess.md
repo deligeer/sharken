@@ -194,29 +194,19 @@ Once everything is in place and ready to go, mix up the resin. Double check that
 
 Once resin reaches the laminate, the resin feed line will quickly fill up. Once full, the resin will begin to expand outward into the reinforcement. The rate of infusion depends upon many variables, but the resin should be visibly moving. Allow this to continue until the entire laminate is saturated. 
 ### Clamp off resin line 
-Once the laminate is completely wet out, there is no need for further resin to enter. If the bucket were to be sucked dry, then destructive air bubbles would enter. To prevent this, the resin line should be clamped off once it’s no longer needed. This is accomplished the same way it was before resin was introduced; crease the tube and attach a Flow Regulator. While performing this 
-task, it is crucial that it be done carefully and without significant force that could potentially spring a new leak.
+Once the laminate is completely wet out, there is no need for further resin to enter. If the bucket were to be sucked dry, then destructive air bubbles would enter. To prevent this, the resin line should be clamped off once it’s no longer needed. This is accomplished the same way it was before resin was introduced; crease the tube and attach a Flow Regulator. While performing this task, it is crucial that it be done carefully and without significant force that could potentially spring a new leak.
 
-Once the resin line is clamped off, the infusion is complete. However, it is still not time to turn off the vacuum pump. Keep the pump running to maintain constant vacuum pressure until the resin has sufficiently gelled. Otherwise, air could be introduced prematurely. 
+Once the resin line is clamped off, the infusion is complete. However, it is still not time to turn off the vacuum pump. Keep the pump running to maintain constant vacuum pressure until the resin has sufficiently gelled. Otherwise, air could be introduced prematurely.
+
 ## Step 7 Experiment and Test for Improvement 
 ### Helpful Supplies for Vacuum Infusion 
-Like any lamination method, there are certain supplies for VIP that are not required but offer 
-significant advantages. These items can save time and help gather useful data for further 
-experimentation. 
+Like any lamination method, there are certain supplies for VIP that are not required but offer significant advantages. These items can save time and help gather useful data for further experimentation. 
 ### Thermal Gun 
-A useful piece of information during infusion is the resin temperature. The temperature tells you 
-when the resin is beginning to cure, when the laminate has achieved peak exotherm, and when 
-the laminate has returned to room temperature. 
-To determine the temperature, #1502-A Thermal Gun can be used. This simple device can be 
-pointed at an area and will instantly give a temperature reading. It is often useful to regularly 
-check a number of areas including the resin bucket, the resin inlet, and the outer portions of the 
-resin flow in order to keep tabs on its progress. 
+A useful piece of information during infusion is the resin temperature. The temperature tells you when the resin is beginning to cure, when the laminate has achieved peak exotherm, and when the laminate has returned to room temperature. 
+
+To determine the temperature, [#1502-A Thermal Gun](#1502-a-thermal-gun) can be used. This simple device can be pointed at an area and will instantly give a temperature reading. It is often useful to regularly check a number of areas including the resin bucket, the resin inlet, and the outer portions of the resin flow in order to keep tabs on its progress. 
 ### Stop Watch and Marker 
-While infusing, and especially when practicing with VIP, it is a good idea to monitor resin flow 
-rates and resin flow paths over time. This can easily be done with a simple stop watch and a 
-marker. Start the timer when resin is first introduced into the laminate. At regular intervals, mark 
-the bag with the resin’s current position. This piece of information can be especially helpful upon 
-further infusion attempts, determining if small changes in set-up have any noticeable effect. 
+While infusing, and especially when practicing with VIP, it is a good idea to monitor resin flow rates and resin flow paths over time. This can easily be done with a simple stop watch and a marker. Start the timer when resin is first introduced into the laminate. At regular intervals, mark the bag with the resin’s current position. This piece of information can be especially helpful upon further infusion attempts, determining if small changes in set-up have any noticeable effect. 
 ### Typical Variations in Set-up 
 With an understanding of basic theory and supplies, it is time to discuss variations of materials within the mold. Keep in mind there is no one correct way to do this; however, the general idea is the same regardless of arrangement choices. 
 
@@ -284,6 +274,10 @@ This kit contains:
 ### 1500-A Resin Trap
 #1500-A Resin Trap ![](./ResinTrapWithHalfInchFitting.jpg)
 
+### 1502-A Thermal Gun
+
+* #1502-A Thermal Gun
+
 ### 1503-A Ultrasonic Leak Detector
 
 #1503-A Ultrasonic Leak Detector, ![](./UltrasonicLeakDetector.jpg)
@@ -310,7 +304,7 @@ material lists:
 
 ### 77 Molding Resin
 
-[PolyesterMoldingResin77](./PolyesterMoldingResin77.jpg)
+![PolyesterMoldingResin77](./PolyesterMoldingResin77.jpg)
 
 #77 Molding Resin and #90 Isophthalic
 ### 90 Isophthalic Resin
