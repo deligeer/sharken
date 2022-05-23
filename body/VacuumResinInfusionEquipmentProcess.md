@@ -1,29 +1,27 @@
 # Vacuum Infusion - The Equipment and Process of Resin Infusion 
 ## Introduction 
-The Vacuum Infusion Process (VIP) is a technique that uses vacuum pressure to drive resin into a laminate. Materials are laid dry into the mold and the vacuum is applied before resin is 
-introduced. Once a complete vacuum is achieved, resin is literally sucked into the laminate via carefully placed tubing. This process is aided by an assortment of supplies and materials. 
-In a typical hand lay-up, reinforcements are laid into a mold and manually wet out using brushes, rollers, or through other means. An improvement on that method is to use a vacuum bag to suck 
-excess resin out of the laminate. Vacuum bagging greatly improves the fiber-to-resin ratio, and results in a stronger and lighter product. If you are unfamiliar with vacuum bagging, we 
-recommend reading our brochure, Vacuum Bagging Equipment and Techniques for Room-Temp 
-Applications, as VIP requires experience in this area and uses many of the same principles. 
-Vacuum infusion builds upon these principles, providing further improvements to the lamination 
-process. 
+The Vacuum Infusion Process (VIP) is a technique that uses vacuum pressure to drive resin into a laminate. Materials are laid dry into the mold and the vacuum is applied before resin is introduced. Once a complete vacuum is achieved, resin is literally sucked into the laminate via carefully placed tubing. This process is aided by an assortment of supplies and materials. 
+
+In a typical hand lay-up, reinforcements are laid into a mold and manually wet out using brushes, rollers, or through other means. An improvement on that method is to use a vacuum bag to suck excess resin out of the laminate. Vacuum bagging greatly improves the fiber-to-resin ratio, and results in a stronger and lighter product. If you are unfamiliar with vacuum bagging, we recommend reading our brochure, Vacuum Bagging Equipment and Techniques for Room-Temp Applications, as VIP requires experience in this area and uses many of the same principles. 
+
+Vacuum infusion builds upon these principles, providing further improvements to the lamination process. 
 ## Benefits of Vacuum Infusion 
 Vacuum infusion provides a number of improvements over traditionally vacuum bagged parts. 
+
 These benefits include: 
+
 • Better fiber-to-resin ratio 
 • Less wasted resin 
 • Very consistent resin usage 
 • Unlimited set-up time 
 • Cleaner 
-VIP offers a better fiber-to-resin ratio than vacuum bagging. A typical hand lay-up usually 
-results in excess of 100% fabric weight by resin. Resin alone is very brittle, so any excess will 
-actually weaken the part. Vacuum bagging can reduce this number significantly; however, it is still 
-not ideal and can lead to additional problems. 
+
+VIP offers a better fiber-to-resin ratio than vacuum bagging. A typical hand lay-up usually results in excess of 100% fabric weight by resin. Resin alone is very brittle, so any excess will actually weaken the part. Vacuum bagging can reduce this number significantly; however, it is still not ideal and can lead to additional problems. 
+
 While vacuum bagging certainly improves on the hand lay-up, there is still a hand lay-up involved. 
-Because of this, the laminate will always begin in an oversaturated state. Vacuum pressure will 
-remove much of the excess resin, but the amount removed still depends on a variety of variables 
-including reinforcement, resin, time factors, and others. 
+
+Because of this, the laminate will always begin in an oversaturated state. Vacuum pressure will remove much of the excess resin, but the amount removed still depends on a variety of variables including reinforcement, resin, time factors, and others. 
+
 Vacuum infusion takes a different approach, in that a vacuum is drawn while the materials are still 
 dry. From that point, resin is infused using vacuum pressure. Rather than starting with excess 
 and drawing resin out, VIP starts with none and pushes resin in. Ideally, any excess resin that is 
@@ -36,13 +34,10 @@ in resin content due to the human variable, VIP is remarkably consistent. Even w
 large product, resin usage will be predictably similar upon repeated attempts. This results in 
 less wasted resin, and more importantly, less wasted money. 
 
-Vacuum infusion provides another valuable benefit: time. A frequent problem that can arise 
-in vacuum bagging is the time factor. Many resins have a pot-life of about 30 minutes, though 
-there are certainly some (such as our System 2000 Epoxy) that offer work times of up to 2 hours. 
-Even so, that time limit is extremely critical in vacuum bagging applications. Large projects can 
-easily approach the 2 hour mark, and even small, seemingly simple projects can quickly turn 
-frantic when a pesky leak in the vacuum seal cannot be found. Also, depending on when the bag 
-is applied, the amount of resin removed can vary from part to part. 
+Vacuum infusion provides another valuable benefit: time. A frequent problem that can arise in vacuum bagging is the time factor. Many resins have a pot-life of about 30 minutes, though there are certainly some (such as our System 2000 Epoxy) that offer work times of up to 2 hours. 
+
+Even so, that time limit is extremely critical in vacuum bagging applications. Large projects can easily approach the 2 hour mark, and even small, seemingly simple projects can quickly turn frantic when a pesky leak in the vacuum seal cannot be found. Also, depending on when the bag is applied, the amount of resin removed can vary from part to part.
+
 Vacuum infusion, however, offers unlimited set-up time. Because the vacuum is applied while 
 reinforcements are still dry, there is no resin clock to work against. After the bag is applied, leaks 
 can be patiently sought out. If something is not sitting properly, simply release vacuum and 
@@ -58,36 +53,24 @@ equipment.
 ## Potential Pitfalls 
 Like any laminating process, VIP is not without its drawbacks. When attempting infusion for the 
 first time, it is important to keep the following ideas in mind. 
+
 • Complicated set-up 
 • Easy to ruin a part 
 • Trial and error 
-Though set-up is time-limit free, it is somewhat more complicated. Vacuum bagging requires the 
-placement of only the vacuum tubing. Vacuum infusion requires not only vacuum tubes but resin 
-inlets as well, not to mention in-bag extensions of these tubes. Placement of these vacuum and 
-resin lines varies from part to part, and there is no one way to set them up. These considerations 
-must be evaluated prior to lay-up, or else the part could be ruined. 
-This leads into the next pitfall; it is very easy to destroy a part. Typically, once infusion begins, 
-there is little that can be done to correct any errors. For example, if a leak were to occur, even 
-the smallest amount of air introduced could be potentially fatal to a part. It would probably result 
-in resin pooling, undersaturation, or even a complete stoppage of resin flow. Though there are 
-certainly some cases where problems can be corrected, it should not be expected. The best 
-protection from disaster is careful planning. 
-Due to the complexity and ease of error, VIP should be viewed as a trial-and-error process. 
-The best mindset to have when attempting vacuum infusion for the first time is that a few parts (or 
-more than a few) will be ruined before getting it right. The trick is to carefully document each 
-attempt in order to learn from each trial. Keep track of the resin flow rates. Determine where the 
-resin is reluctant to go and find a way to get it there. Even the smallest modifications can yield 
-drastically different results. Practice with small quantities and inexpensive materials before 
-undertaking full-scale projects. The key is learning from mistakes. This is especially the case 
-when working with larger projects requiring multiple vacuum and resin lines. In a manufacturing 
-environment, it is recommended that at least 6 months are set aside for testing and preparation. 
 
-## VIP Set-up and Equipment 
-When preparing to experiment with infusion, it is important to understand some general concepts 
-about how materials are used and arranged. Keep in mind that every project is unique and this 
-guide is not intended to provide the only available options. We will discuss some variations later. 
-First, the general sequence of events that comprises vacuum infusion is illustrated in the following 
-diagram.
+Though set-up is time-limit free, it is somewhat more complicated. Vacuum bagging requires the placement of only the vacuum tubing. Vacuum infusion requires not only vacuum tubes but resin inlets as well, not to mention in-bag extensions of these tubes. Placement of these vacuum and resin lines varies from part to part, and there is no one way to set them up. These considerations must be evaluated prior to lay-up, or else the part could be ruined. 
+
+This leads into the next pitfall; it is very easy to destroy a part. Typically, once infusion begins, there is little that can be done to correct any errors. For example, if a leak were to occur, even the smallest amount of air introduced could be potentially fatal to a part. It would probably result in resin pooling, undersaturation, or even a complete stoppage of resin flow. Though there are certainly some cases where problems can be corrected, it should not be expected. The best protection from disaster is careful planning.
+
+Due to the complexity and ease of error, VIP should be viewed as a trial-and-error process. 
+
+The best mindset to have when attempting vacuum infusion for the first time is that a few parts (or more than a few) will be ruined before getting it right. The trick is to carefully document each attempt in order to learn from each trial. Keep track of the resin flow rates. Determine where the resin is reluctant to go and find a way to get it there. Even the smallest modifications can yield drastically different results. Practice with small quantities and inexpensive materials before undertaking full-scale projects. The key is learning from mistakes. This is especially the case when working with larger projects requiring multiple vacuum and resin lines. In a manufacturing environment, it is recommended that at least 6 months are set aside for testing and preparation. 
+
+## VIP Set-up and Equipment
+
+When preparing to experiment with infusion, it is important to understand some general concepts about how materials are used and arranged. Keep in mind that every project is unique and this guide is not intended to provide the only available options. We will discuss some variations later. 
+
+First, the general sequence of events that comprises vacuum infusion is illustrated in the following diagram.
 
 ![processing.jpg](./processing.jpg)
 
@@ -220,70 +203,48 @@ Once the dry materials are in place, it is time to build the vacuum bag. The bag
 but still allow plenty of room for all the materials including networks of tubing. Too much or too 
 little bag can result in resin pooling or improper infusion. 
 
-Once the bag itself is built, attach tubing for the resin and vacuum lines. Be very careful when 
-making cuts through the bag for these tubes. It is frequently these connections that spring leaks. 
-Before the pump is switched on, it is important to clamp off the resin line. Because the 
-vacuum is drawn before the introduction of resin, the resin tube will act as a temporary “leak” that must be sealed off. Simply clamp off this line by creasing the tube and attaching a #1605-A Flow Regulator to hold it in place. 
+Once the bag itself is built, attach tubing for the resin and vacuum lines. Be very careful when making cuts through the bag for these tubes. It is frequently these connections that spring leaks. 
+
+Before the pump is switched on, it is important to clamp off the resin line. Because the vacuum is drawn before the introduction of resin, the resin tube will act as a temporary “leak” that must be sealed off. Simply clamp off this line by creasing the tube and attaching a #1605-A Flow Regulator to hold it in place. 
+
 ### Allow for prohibiting resin from entering the vacuum Resin Trap 
-One key piece of equipment that is important to understand is the #1500-A Resin Trap. A resin 
-trap is an airtight container placed within the vacuum tubing circuit between the laminate and the 
-pump to catch any excess resin before it can enter and destroy the vacuum pump. When set up 
-properly, the vacuum tubing will flow out of the laminate and connect directly to the resin trap. A 
-separate tube will then leave the resin trap and connect to the vacuum pump.
+One key piece of equipment that is important to understand is the #1500-A Resin Trap. A resin trap is an airtight container placed within the vacuum tubing circuit between the laminate and the pump to catch any excess resin before it can enter and destroy the vacuum pump. When set up properly, the vacuum tubing will flow out of the laminate and connect directly to the resin trap. A separate tube will then leave the resin trap and connect to the vacuum pump.
 
-During VIP, vacuum pressure is being used to draw resin into the laminate. In many cases, resin 
-will flow completely through portions of the laminate while still filling dry spots in another. This is 
-normal and is no cause for alarm except that resin will frequently enter the vacuum line while 
-continuing to infuse resin. 
+During VIP, vacuum pressure is being used to draw resin into the laminate. In many cases, resin will flow completely through portions of the laminate while still filling dry spots in another. This is normal and is no cause for alarm except that resin will frequently enter the vacuum line while continuing to infuse resin. 
 
-With a resin trap, all excess resin will be collected in the trap, while air is still allowed to flow back 
-to the pump. If the part is large and significant resin flow into the vacuum line is expected, any 
-number of resin traps may be placed in sequence. As soon as one is filled, the resin will overflow 
-into the next one. 
+With a resin trap, all excess resin will be collected in the trap, while air is still allowed to flow back to the pump. If the part is large and significant resin flow into the vacuum line is expected, any number of resin traps may be placed in sequence. As soon as one is filled, the resin will overflow into the next one. 
 
-Note: Before using a resin trap, wax the inside of the tank with mold release wax to ensure easy 
-removal of the hardened resin. 
+Note: Before using a resin trap, wax the inside of the tank with mold release wax to ensure easy removal of the hardened resin. 
 
 ## Step 4 Vacuum Pump 
 ### Attach the pump 
 Once all the components are in place, it is time to attach the vacuum pump itself. Because resin is infused through vacuum pressure, it is quite beneficial to have a stronger pump. In general, a stronger pump will help expedite infusion. 
 ### Ensure proper vacuum 
-Once attached, switch the vacuum on. As in any vacuum bagging application, leaks pose the biggest problem. Even the smallest leak can greatly hinder performance or even completely ruin a part. Because VIP offers unlimited time to seek out these leaks, considerable effort should be made to find them all. Even so, there are frequently small leaks that are seemingly impossible to 
-discover. There are some tools that can greatly aid this process. One handy tool is a #1503-A 
-Ultrasonic Leak Detector. This small handheld tool is designed to detect ultrasonic frequencies, 
-while simultaneously screening out audible noise. Wearing the supplied headphones, leaks are 
-easily heard, while an LED display indicates leak strength. Because audible noise is screened 
-out, this detector can even be used in a noisy shop environment.
+Once attached, switch the vacuum on. As in any vacuum bagging application, leaks pose the biggest problem. Even the smallest leak can greatly hinder performance or even completely ruin a part. Because VIP offers unlimited time to seek out these leaks, considerable effort should be made to find them all. Even so, there are frequently small leaks that are seemingly impossible to discover. There are some tools that can greatly aid this process. One handy tool is a [1503-A Ultrasonic Leak Detector](#1503-A Ultrasonic Leak Detector). This small handheld tool is designed to detect ultrasonic frequencies, while simultaneously screening out audible noise. Wearing the supplied headphones, leaks are easily heard, while an LED display indicates leak strength. Because audible noise is screened out, this detector can even be used in a noisy shop environment.
 
 For those on a tighter budget, a simple stethoscope can also be used to detect leaks. Though it  won’t provide the precision that an ultrasonic detector uses, a #1504-A Stethoscope will amplify leaks and provide a helpful aid at a minimal cost. 
 
 ## Step 5 Prepare for Infusion 
 ### Select your resin 
 Resin choice is another key aspect of VIP. There is a common misconception that a special “infusion resin” is required. This is simply not the case. Any resin can actually be used for infusion, though there are some general guidelines that should be considered when making a decision. One important piece of information that should be examined is the resin viscosity. 
+
 Typically, lower viscosity will aid infusion, as it allows easier permeation of the reinforcement. 
-This is not to say that higher viscosity resins will not work, but they may require more careful 
-planning, more resin lines, and more flow media.
-Vinyl Ester is the most frequently used resin for vacuum infusion. At a viscosity of 275 
-centepoise, our #1110 Vinyl Ester is very well suited for this process. In fact, this is the same 
-resin that is often called “infusion resin” by other vendors. 
-Polyester resins such as #77 Molding Resin and #90 Isophthalic provide a viscosity of about 475 
-centepoise and will also infuse quite readily. 
-System 2000 Epoxy offers a viscosity of 900-975 centepoise (depending on hardener choices), 
-and therefore will tend to infuse a bit slower. However, don’t let that be a deterrent. High quality 
-VIP parts were successfully created using Systems 2000 Epoxy and a variety of reinforcements. 
-Because this resin can have a longer pot life, slower infusion times are not always a problem. 
+
+This is not to say that higher viscosity resins will not work, but they may require more careful planning, more resin lines, and more flow media.
+
+Vinyl Ester is the most frequently used resin for vacuum infusion. At a viscosity of 275 centepoise, our #1110 Vinyl Ester is very well suited for this process. In fact, this is the same resin that is often called “infusion resin” by other vendors. 
+
+Polyester resins such as #77 Molding Resin and #90 Isophthalic provide a viscosity of about 475 centepoise and will also infuse quite readily. 
+
+System 2000 Epoxy offers a viscosity of 900-975 centepoise (depending on hardener choices), and therefore will tend to infuse a bit slower. However, don’t let that be a deterrent. High quality VIP parts were successfully created using Systems 2000 Epoxy and a variety of reinforcements. 
+Because this resin can have a longer pot life, slower infusion times are not always a problem.
+
 Set-up considerations may include more feed lines or additional flow media. 
+
 ### Resin Bucket Set-up 
-Because no brushes or rollers are used in the transfer of resin, some steps must be completed to ensure that the resin line 
-stays in the bucket, as any air entering the line could be fatal to a project. These tools include the bucket itself, a resin line 
-holder, zip-strips, and a spring clamp. The resin line holder is basically a length of rigid material that is attached to the 
-resin tubing via the zip-strips. Once attached, this ensures that the resin tubing stays fixed in a straight line. This 
-eliminates the tube’s natural tendency to twist and curl. It is also helpful to cut the end of the tubing at an angle. 
-Otherwise, the tube could potentially vacuum seal itself to the 
-base of the bucket, preventing the flow of resin. Once 
-attached to the holder, the line is clamped in place to the 
-bucket. The resulting assembly should ensure that the resin 
-line will stay exactly where it should be. 
+Because no brushes or rollers are used in the transfer of resin, some steps must be completed to ensure that the resin line stays in the bucket, as any air entering the line could be fatal to a project. These tools include the bucket itself, a resin line holder, zip-strips, and a spring clamp. The resin line holder is basically a length of rigid material that is attached to the resin tubing via the zip-strips. Once attached, this ensures that the resin tubing stays fixed in a straight line. This eliminates the tube’s natural tendency to twist and curl. It is also helpful to cut the end of the tubing at an angle.
+
+Otherwise, the tube could potentially vacuum seal itself to the base of the bucket, preventing the flow of resin. Once attached to the holder, the line is clamped in place to the bucket. The resulting assembly should ensure that the resin line will stay exactly where it should be. 
 ## Step 6 Resin Infusion 
 ### Catalyze resin and allow it to infuse 
 Once everything is in place and ready to go, mix up the resin. Double check that the resin bucket assembly is firmly in place so the tube will not leave the bucket. Once this is satisfactory, remove the flow regulator to unclamp the resin inlet. Resin should quickly be sucked through the tube and into the laminate. 
@@ -366,7 +327,10 @@ This kit contains:
 * #1409 Lantor Soric® 24”x16.37” 
 * #1401 Nylon Matting 24”x13” Instruction Sheet, ![](./EnkaFusionNylonFlowMediaSmall.jpg)
 
-* #1503-A Ultrasonic Leak Detector, ![](./UltrasonicLeakDetector.jpg)
+### 1503-A Ultrasonic Leak Detector
+
+#1503-A Ultrasonic Leak Detector, ![](./UltrasonicLeakDetector.jpg)
+
 * #1504-A Stethoscope, ![](./Stethoscope.jpg)
 * #126-A Spray Gun, ![](./0.6LiterGelCoatTouch-UpSprayGun.jpg)
 * #891-A Vacuum Connector ![](./VacuumConnector.jpg)
