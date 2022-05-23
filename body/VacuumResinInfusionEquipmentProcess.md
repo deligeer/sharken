@@ -154,7 +154,7 @@ Once the bag itself is built, attach tubing for the resin and vacuum lines. Be v
 Before the pump is switched on, it is important to clamp off the resin line. Because the vacuum is drawn before the introduction of resin, the resin tube will act as a temporary “leak” that must be sealed off. Simply clamp off this line by creasing the tube and attaching a [1605-A Flow Regulator](#1605-a-flow-regulator) to hold it in place. 
 
 ### Allow for prohibiting resin from entering the vacuum Resin Trap 
-One key piece of equipment that is important to understand is the #1500-A Resin Trap. A resin trap is an airtight container placed within the vacuum tubing circuit between the laminate and the pump to catch any excess resin before it can enter and destroy the vacuum pump. When set up properly, the vacuum tubing will flow out of the laminate and connect directly to the resin trap. A separate tube will then leave the resin trap and connect to the vacuum pump.
+One key piece of equipment that is important to understand is the [#1500-A Resin Trap](#1500-a-resin-trap). A resin trap is an airtight container placed within the vacuum tubing circuit between the laminate and the pump to catch any excess resin before it can enter and destroy the vacuum pump. When set up properly, the vacuum tubing will flow out of the laminate and connect directly to the resin trap. A separate tube will then leave the resin trap and connect to the vacuum pump.
 
 During VIP, vacuum pressure is being used to draw resin into the laminate. In many cases, resin will flow completely through portions of the laminate while still filling dry spots in another. This is normal and is no cause for alarm except that resin will frequently enter the vacuum line while continuing to infuse resin. 
 
@@ -279,6 +279,8 @@ This kit contains:
 
 * #1409 Lantor Soric® 24”x16.37” 
 
+### 1500-A Resin Trap
+#1500-A Resin Trap ![](./ResinTrapWithHalfInchFitting.jpg)
 
 ### 1503-A Ultrasonic Leak Detector
 
