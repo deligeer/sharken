@@ -22,41 +22,27 @@ While vacuum bagging certainly improves on the hand lay-up, there is still a han
 
 Because of this, the laminate will always begin in an oversaturated state. Vacuum pressure will remove much of the excess resin, but the amount removed still depends on a variety of variables including reinforcement, resin, time factors, and others. 
 
-Vacuum infusion takes a different approach, in that a vacuum is drawn while the materials are still 
-dry. From that point, resin is infused using vacuum pressure. Rather than starting with excess 
-and drawing resin out, VIP starts with none and pushes resin in. Ideally, any excess resin that is 
-introduced will eventually be sucked out into the vacuum line. As a result, only the minimum 
-amount of resin is introduced. This lowers weight, increases strength, and maximizes the 
-properties of fiber and resin. Parts constructed using VIP can approach prepreg levels of resin 
+Vacuum infusion takes a different approach, in that a vacuum is drawn while the materials are still dry. From that point, resin is infused using vacuum pressure. Rather than starting with excess and drawing resin out, VIP starts with none and pushes resin in. Ideally, any excess resin that is introduced will eventually be sucked out into the vacuum line. As a result, only the minimum amount of resin is introduced. This lowers weight, increases strength, and maximizes the properties of fiber and resin. Parts constructed using VIP can approach prepreg levels of resin 
 content. 
-Due to the nature of VIP, resin usage becomes very predictable. While a standard lay-up varies 
-in resin content due to the human variable, VIP is remarkably consistent. Even when creating a 
-large product, resin usage will be predictably similar upon repeated attempts. This results in 
-less wasted resin, and more importantly, less wasted money. 
+
+Due to the nature of VIP, resin usage becomes very predictable. While a standard lay-up varies in resin content due to the human variable, VIP is remarkably consistent. Even when creating a large product, resin usage will be predictably similar upon repeated attempts. This results in less wasted resin, and more importantly, less wasted money. 
 
 Vacuum infusion provides another valuable benefit: time. A frequent problem that can arise in vacuum bagging is the time factor. Many resins have a pot-life of about 30 minutes, though there are certainly some (such as our System 2000 Epoxy) that offer work times of up to 2 hours. 
 
 Even so, that time limit is extremely critical in vacuum bagging applications. Large projects can easily approach the 2 hour mark, and even small, seemingly simple projects can quickly turn frantic when a pesky leak in the vacuum seal cannot be found. Also, depending on when the bag is applied, the amount of resin removed can vary from part to part.
 
-Vacuum infusion, however, offers unlimited set-up time. Because the vacuum is applied while 
-reinforcements are still dry, there is no resin clock to work against. After the bag is applied, leaks 
-can be patiently sought out. If something is not sitting properly, simply release vacuum and 
-readjust. No time constraints are introduced until it is decided that it is time to infuse the resin. 
-Until that moment, changes can be made again and again. 
-Finally, vacuum infusion is a much cleaner process. There are no brushes or rollers, and 
-therefore no splashing or spattering. No one will be required to hover over an open mold, 
-saturating a laminate by hand, trying not to drip on himself. In addition, there are less resin fumes 
-to contend with. Because the only fumes radiate from the resin reservoir, they are somewhat 
-containable. VIP provides a cleaner, safer, and friendlier work environment, though it is still 
-important to work in a well ventilated area and wear a respirator and other appropriate safety 
-equipment. 
-## Potential Pitfalls 
-Like any laminating process, VIP is not without its drawbacks. When attempting infusion for the 
-first time, it is important to keep the following ideas in mind. 
+Vacuum infusion, however, offers unlimited set-up time. Because the vacuum is applied while reinforcements are still dry, there is no resin clock to work against. After the bag is applied, leaks can be patiently sought out. If something is not sitting properly, simply release vacuum and readjust. No time constraints are introduced until it is decided that it is time to infuse the resin. 
 
-• Complicated set-up 
-• Easy to ruin a part 
-• Trial and error 
+Until that moment, changes can be made again and again. 
+
+Finally, vacuum infusion is a much cleaner process. There are no brushes or rollers, and therefore no splashing or spattering. No one will be required to hover over an open mold, saturating a laminate by hand, trying not to drip on himself. In addition, there are less resin fumes to contend with. Because the only fumes radiate from the resin reservoir, they are somewhat containable. VIP provides a cleaner, safer, and friendlier work environment, though it is still important to work in a well ventilated area and wear a respirator and other appropriate safety equipment. 
+
+## Potential Pitfalls 
+Like any laminating process, VIP is not without its drawbacks. When attempting infusion for the first time, it is important to keep the following ideas in mind. 
+
+* Complicated set-up 
+* Easy to ruin a part 
+* Trial and error 
 
 Though set-up is time-limit free, it is somewhat more complicated. Vacuum bagging requires the placement of only the vacuum tubing. Vacuum infusion requires not only vacuum tubes but resin inlets as well, not to mention in-bag extensions of these tubes. Placement of these vacuum and resin lines varies from part to part, and there is no one way to set them up. These considerations must be evaluated prior to lay-up, or else the part could be ruined. 
 
@@ -74,14 +60,11 @@ First, the general sequence of events that comprises vacuum infusion is illustra
 
 ![processing.jpg](./processing.jpg)
 
-For the purpose of this brochure, we will be focusing on one general set-up idea with the notion 
-that resin will be infused into a center point in the laminate. From there, resin will be pulled 
-outward via vacuum pressure. The final arrangement of materials should look something like 
-this. 
+For the purpose of this brochure, we will be focusing on one general set-up idea with the notion that resin will be infused into a center point in the laminate. From there, resin will be pulled outward via vacuum pressure. The final arrangement of materials should look something like this. 
+
 Note: For the purposes of this diagram, the vacuum bag itself is not shown 
 
-With this final goal in mind, let’s take a closer, step-by-step look at what materials are used and 
-how to go about using them.
+With this final goal in mind, let’s take a closer, step-by-step look at what materials are used and how to go about using them.
 
 ### Step 1 The Mold 
 Prepare your mold 
@@ -116,7 +99,7 @@ Like any lamination process, a good quality mold is required for vacuum infusion
 ### Select your reinforcement 
 Choosing reinforcement is an important decision for any laminate, but there are additional considerations when choosing one for infusion. While all fabrics will potentially infuse, different materials and weave styles can severely alter resin flow rates. The following offers some general guidelines for choosing materials, though individual experiences may vary. 
 
-Fiberglass is the most frequently used reinforcement in vacuum infusion. Most fiberglass fabrics offer high permeability, allowing resin to easily flow through. In general, looser weaves tend to infuse better, as there is less crimping of strands.
+**Fiberglass** is the most frequently used reinforcement in vacuum infusion. Most fiberglass fabrics offer high permeability, allowing resin to easily flow through. In general, looser weaves tend to infuse better, as there is less crimping of strands.
 
 When using a non-woven mat, continuous strand mat will offer superior infusion over a chopped-strand. While both offer high permeability, the binder in chopped strand mat somewhat hinders resin flow. Continuous strand mat (#251) will avoid this problem. 
 
@@ -287,24 +270,24 @@ In figure 1, resin and vacuum lines are placed without the addition of any in-ba
 
 In figure 2, resin and vacuum lines are extended. Vacuum line extensions can be made with spiral tubing, while resin feed line extensions can use either spiral tubing or EnkaFusion Filter Jacket. In this example, resin will move very quickly through the gray areas. When resin is first infused, the feed line extension will fill very quickly. Once this line is full, resin will attempt to 
 reach the nearest possible vacuum line. Because the vacuum line has been extended as well, the nearest vacuum point will be directly across the laminate. As noted by the resin path arrows, the entire lay-up will be infused. 
-### General Reminders 
+## General Reminders 
 Regardless of any particular arrangement of materials, there are a few items that are important to note. 
-• Be sure to include a Resin trap in the vacuum line between the mold and the vacuum 
-pump if there is any possibility that resin can enter the vacuum line while still infusing. 
-• Any material that will be later removed (such as surface flow media or spiral tubing) 
-should be placed on peel ply. Otherwise, it will be infused into the part. 
-### A Common Variation 
-In the following example, spiral tubing is used for both the resin feed and the vacuum line. Resin will enter on one side and fill the length of the tubing very quickly. At that point, resin will begin to flow across the laminate. While this approach is simpler to set up, the resin will need to travel across a longer distance. Depending on what materials and equipment are used, this distance 
-becomes a significant factor. However, on the up-side, the inside surface texture of the finished 
-part will be consistent. 
+
+* Be sure to include a Resin trap in the vacuum line between the mold and the vacuum pump if there is any possibility that resin can enter the vacuum line while still infusing. 
+* Any material that will be later removed (such as surface flow media or spiral tubing) should be placed on peel ply. Otherwise, it will be infused into the part. 
+
+## A Common Variation 
+In the following example, spiral tubing is used for both the resin feed and the vacuum line. Resin will enter on one side and fill the length of the tubing very quickly. At that point, resin will begin to flow across the laminate. While this approach is simpler to set up, the resin will need to travel across a longer distance. Depending on what materials and equipment are used, this distance becomes a significant factor. However, on the up-side, the inside surface texture of the finished part will be consistent. 
 ## Larger Projects 
 Now that the theory of infusion is understood, it is very easy to expand on these concepts in order to apply them to larger projects. As resin travels away from the feed line, it will encounter more resistance, ultimately slowing down. To combat this, large projects will require multiple resin and vacuum lines. In general, resin lines should not be more than 30-36” apart under ideal conditions. However, when using less permeable materials or higher viscosity resins, this number may need to be reduced. It is important to experiment with the specific material set before attempting to create a large project. 
 ## Conclusion 
 Vacuum infusion can appear to be a daunting endeavor, but it doesn’t have to be. Experiment with different materials and arrangements, as small changes can create significantly different outcomes. Though the first few attempts may be unsuccessful, once the basics are learned, infusion will quickly become second nature. 
 ## A Place to Start 
 We created our #590-A Vacuum Infusion Trial Kit as a means of familiarizing someone with the materials that are unique to vacuum infusion. We strongly suggest significant experience with both vacuum bagging and room temperature molding before tackling resin infusion. 
+
 This kit contains enough material to build 3 infusion trial projects up to 24” x 13” each. After completing these 3 “practice” laminates you will be familiar with EnkaFusion Nylon Matting, Lantor Soric, EnkaFusion Filter Jacket and Divinymat Sandwich Core. You will be able to judge the differences in resin travel and conformability as suits your future infusion applications. 
 Additionally, you will be able to install your vacuum and resin lines and get some experience controlling your #resin bucket and resin flow. 
+
 This kit contains: 
 
 * #505-A Resin Bucket 1 Gallon (x3)
@@ -337,6 +320,8 @@ This kit contains:
 material lists:
 
 * vacuum bag 
+
+### 251(#251)
 * #251-A Continuous Strand Mat ![ContinuousStrandMatSmall](./ContinuousStrandMatSmall.jpg)
 
 ### 10 oz Fiberglass Fabric Style 750
