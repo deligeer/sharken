@@ -105,7 +105,7 @@ When using a non-woven mat, continuous strand mat will offer superior infusion o
 
 Knit fabrics are frequently used for infusion due to their construction. These fabrics are not woven, but rather are knit together to avoid crimping caused by weaves. The #293 Knit Fabric is 18 oz. fiberglass roving knit to a 1.5 oz. chopped strand mat. This material not only boosts resin flow, but also adds strength and bulk very quickly.
 
-or use [10 oz Fiberglass Fabric Style 750](### 10 oz Fiberglass Fabric Style 750)
+or use [10 oz Fiberglass Fabric Style 750](#10 oz Fiberglass Fabric Style 750)
 
 Carbon Fiber (Graphite) and Kevlar® reinforcements can also be used in vacuum infusion, though they tend to infuse more slowly. To counteract this, the addition of flow media was found to greatly increase infusion rates and create successful parts using both #1110 Vinyl Ester and #2000 Epoxy resins. It is a good idea to experiment with these materials beforehand in order to properly gauge flows rates.
 
