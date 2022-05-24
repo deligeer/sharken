@@ -216,18 +216,19 @@ This is not an everlasting solution, however. UV-radiation will spoil unprotecte
 
 
 Simbo resistance curves at 105 kg / 230 lbs total displacement
-	
+
+![](./res.gif)
 Rt (violet curve) = total resistance
+
 Rv (red curve) = viscous resistance (friction)
+
 Rw (blue curve) = wave forming resistance
+
 Rh (pale blue curve) = resistance created by transom stern
+
 Full speed scale = 4.0 m/s = 14.4 km/h = 9.0 mph = 7.8 knots
 
-
-
-Top of the page.
-Back to main page.
-Simbo Mk II
+## Simbo Mk II
 
 The looks of "Simbo" can be improved, with no additional trouble. Just build the ends slightly slanted. The bow transom slanting out, stern transom in. The only thing You have to do differently is to cut the side pieces in two, not with a straight cut, but with an inclined cut. That's all.
 
@@ -237,17 +238,10 @@ The black measurements are the ones You measure for actual measurements of "Simb
 
 The black lines are the ones You cut. The red lines are auxiliary lines, You draw the actual edges of the bottom using a batten, like shown above.
 
-
 And the same in metric.
-
 
 Here's the slanted end.hul file.
 
-
-
-
-Top of the page.
-Back to main page.
 Maiden voyage
 	
 Why am I kneeling, not sitting? Well... this is a "luxury version" of the "Simbo". A couple of beautiful fountains on the inside to entertain passengers...
@@ -255,7 +249,6 @@ Why am I kneeling, not sitting? Well... this is a "luxury version" of the "Simbo
 Lesson learned: fill ALL screw holes.
 
 But on the other hand, this also shows, that she is not tippy. If she were, I'd swim by now.
-
 	
 This is how much "Simbo" tolerates 200 lbs weight shift.
 
