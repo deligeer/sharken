@@ -2,7 +2,7 @@
 
 As simple as it can get
 
-![](./sim33.gif)
+![](./sim33.jpg)
 
 This is an easy start for boatbuilding. A very simple 7'4" x 2'8" boat, made out of simple materials, using a simple construction method and just the basic tools.
 
@@ -15,7 +15,7 @@ Here is the .hul file for those interested.
 	
 ### Material for the hull:
 
-![](./sim01.gif)
+![](./sim01.jpg)
 
 * One sheet of 12 mm (1/2") spruce or other light weight plywood.
 * A couple of left over strips of plywood to be used as butt blocks.
@@ -33,7 +33,7 @@ You can, of course, build "Simbo" out of 1/4" ply. But in that case she will def
 
 ### Material for a jig:
 
-![](./sim02.gif)
+![](./sim02.jpg)
 
 * Two lenghts of 2x4. 2 m (7 ft) is long enough, if You have longer lengths, don't cut unnecessarily, extra length doesn't hurt.
 * A couple of brick size blocks of 2x4.
@@ -51,7 +51,7 @@ I've been quilty for the same mistake over and over again. Trying to assemble so
 ### Tools:
 
 
-![](./sim03.gif)
+![](./sim03.jpg)
 
 * A hand saw.
 * A screwdriver (battery powered drill in this case, but a manual one will do, barely).
@@ -72,81 +72,81 @@ That's all, lets get to work!
 
 Mark and cut a 8" slice from one end of the plywood sheet.
 
-![](./sim04.gif)
+![](./sim04.jpg)
 
 Mark and cut the "Simbo" transoms out of the slice. The measurements from the edges are 2" - 21 " - 25". Don't do like I do: mark with a felt pen. I only do so to show the marks clearly on the photographs (and they don't show clearly :-(
 Instead, use as faint pencil marks as possible. You don't want them to show through the paint. Save the two "waste" triangles for later use.
 
-![](./sim05.gif)
+![](./sim05.jpg)
 	
 Mark both ends of the remaining plywood at 13.5" - 21" - 13.5". Mark the middle points of the long sides (44" - 44").
 
-![](./sim06.gif)
+![](./sim06.jpg)
 
 Mark the transom end height at the middle of one edge (one edge is enough) of the ply.
 
-![](./sim08.gif)
+![](./sim08.jpg)
 	
 Connect the points with straight lines.
 
-![](./sim09.gif)
+![](./sim09.jpg)
 
 Temporarily attach three drywall screws to the ply. Two at the outer ends of the lines, one in the middle. In such a way, that the distance from the batten tensioned between the screws to the intersection of the lines is 1".
 
-![](./sim10.gif)
+![](./sim10.jpg)
 	
 Draw a curve along the batten, not crossing the straight line at any point.
-![](./sim11.gif)
+![](./sim11.jpg)
 	
 Saw along the curve. A regular hand saw is fine in this, much better than an electric jig saw. A hand saw is faster and gives a smoother curve.
 
 Flip the sawn out side over the uncut edge of the ply. Draw a line along the cut curve, saw along the line.
-![](./sim12.gif)
+![](./sim12.jpg)
 	
 You now have the "Simbo" bottom ready. Cut the sides in the middle...
 
-![](./sim13.gif)
+![](./sim13.jpg)
 
 ...and rearrange the parts.
 
-![](./sim14.gif)
+![](./sim14.jpg)
 
 Using the bottom as a form, draw the same curvature as the bottom sides have to the side pieces, trying to minimise waste. Save the "waste" for later use.
 
-![](./sim15.gif)
+![](./sim15.jpg)
 
 Cut the side pieces to the correct curvature.
 
-![](./sim16.gif)
+![](./sim16.jpg)
 
 Screw 18 pieces of 2x2x2 blocks to the very edge of the bottom, at about 1' intervals, from the underside.
-![](./sim17.gif)
+![](./sim17.jpg)
 	
 It makes sense to assemble the jig at this point. The bottom will be out of the way and will get some pre stressing towards the final bend.
 
 So lay the lenghts of 2x4 parallel, about one foot apart, lay the bottom piece on top of them, and attach the middle of the bottom piece to the lengths of 2x4 using the two long screws and a piece of plank as a "washer".
-![](./sim18.gif)
+![](./sim18.jpg)
 	
 Bend the ends of the bottom up with two blocks of 2x4.
 
-![](./sim19.gif)
+![](./sim19.jpg)
 
 Screw the remaining 2x2x2 blocks to upper corners of both transoms.
-![](./sim23.gif)
+![](./sim23.jpg)
 	
 Screw the transoms to the blocks in the ends of the bottom.
-![](./sim24.gif)
+![](./sim24.jpg)
 	
 Join the side pieces using butt blocks. The blocks should be roughly 4" wide, and the height of the side. Cover the outer side of the seam with duct tape or plastic. Screw temporarily against a piece of plank.
 
 Glue pieces of ply 12" from the seam for rowlock attachment, if You are going to row the boat.
-![](./sim26.gif)
+![](./sim26.jpg)
 
 Screw the sides first to the upper transom corner blocks in one end of the boat.
 
 And then to the upper transom corner blocks in the other end.
 
-![](./sim27.gif)
+![](./sim27.jpg)
 
 Then proceed along the sides, alternating from side to side, one screw at the time. If You do one full side in a go You may end up with an asymmetric hull.
 
@@ -154,10 +154,10 @@ If the bottom curvature seems incorrect at some spot, wedge it using pieces of p
 
 If You didn't have the jig You'd be bending the bottom and both sides, all at the same time now. I think You'd despair.
 
-![](./sim28.gif)
+![](./sim28.jpg)
 	
 In case the day shines through the seam somewhere, seal the seam with duct tape. You will soon glue the seam from the outside, and You don't want the glue to run to the inside.
-![](./sim29.gif)
+![](./sim29.jpg)
 	
 This is the principle of the seam.
 
@@ -165,7 +165,7 @@ This is the principle of the seam.
 * The seam between the plies filled with thickened epoxy (red).
 * The seam covered with glass tape and epoxy (green).
 
-![](./sim01.gif)
+![](./sim01.jpg)
 
 Turn the boat over. Wet the seams using a small paint brush and unthickened epoxy.
 
@@ -175,7 +175,7 @@ Cover the seams with glass tape and wet the tape with unthickened epoxy.
 
 But don't cover the screw heads with epoxy. You'll remove the screws later, that's a lot easier without epoxy on them ;-)
 
-![](./sim30.gif)
+![](./sim30.jpg)
 
 That's it for today. Less than three hours of effective working time used and she begins to look like a boat.
 
@@ -184,7 +184,7 @@ You can't go on before the epoxy is hard. Better not rush it, so wait at least u
 What was the slim "waste" from side and bottom curvature used for, by the way?
 
 To light fire in my sauna stove :-)
-![](./sim22.gif)
+![](./sim22.jpg)
 
 The next day.
 
