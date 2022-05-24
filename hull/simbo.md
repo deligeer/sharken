@@ -2,7 +2,7 @@
 
 As simple as it can get
 
-! [](./sim33.gif)
+![](./sim33.gif)
 
 This is an easy start for boatbuilding. A very simple 7'4" x 2'8" boat, made out of simple materials, using a simple construction method and just the basic tools.
 
