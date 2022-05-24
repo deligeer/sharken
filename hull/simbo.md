@@ -2,20 +2,20 @@
 
 As simple as it can get
 
-![](./sim33.jpg)
+! [](./sim33.gif)
 
 This is an easy start for boatbuilding. A very simple 7'4" x 2'8" boat, made out of simple materials, using a simple construction method and just the basic tools.
 
 The design displacement is 230 lbs, that is, one person. The boat displaces about 900 lbs just before swamping, so there is room for more cargo at the cost of speed. But speed can't be the reason for building a boat like this :-)
 
 Here is the .hul file for those interested.
-![](./simbo.jpg)
+![](./simbo.gif)
 
 ## Material and tools needed
 	
 ### Material for the hull:
 
-![](./sim01.jpg)
+![](./sim01.gif)
 
 * One sheet of 12 mm (1/2") spruce or other light weight plywood.
 * A couple of left over strips of plywood to be used as butt blocks.
@@ -33,7 +33,7 @@ You can, of course, build "Simbo" out of 1/4" ply. But in that case she will def
 
 ### Material for a jig:
 
-![](./sim02.jpg)
+![](./sim02.gif)
 
 * Two lenghts of 2x4. 2 m (7 ft) is long enough, if You have longer lengths, don't cut unnecessarily, extra length doesn't hurt.
 * A couple of brick size blocks of 2x4.
@@ -49,6 +49,9 @@ None of these sizes are critical.
 I've been quilty for the same mistake over and over again. Trying to assemble something in the quick and dirty way. Trying and trying to avoid building anything that seems "extra", but that would help doing the job properly and in no time. Lesson learnt: Build the jig. This is a simple jig, building it only takes a minute.
 
 ### Tools:
+
+
+![](./sim03.gif)
 
 * A hand saw.
 * A screwdriver (battery powered drill in this case, but a manual one will do, barely).
@@ -66,89 +69,104 @@ I've been quilty for the same mistake over and over again. Trying to assemble so
 That's all, lets get to work!
 
 ## Building "Simbo"
-	
+
 Mark and cut a 8" slice from one end of the plywood sheet.
 
-	
+![](./sim04.gif)
+
 Mark and cut the "Simbo" transoms out of the slice. The measurements from the edges are 2" - 21 " - 25". Don't do like I do: mark with a felt pen. I only do so to show the marks clearly on the photographs (and they don't show clearly :-(
 Instead, use as faint pencil marks as possible. You don't want them to show through the paint. Save the two "waste" triangles for later use.
 
+![](./sim05.gif)
 	
-Mark both ends of the remaining plywood at 13.5" - 21" - 13.5".
-Mark the middle points of the long sides (44" - 44").
+Mark both ends of the remaining plywood at 13.5" - 21" - 13.5". Mark the middle points of the long sides (44" - 44").
 
-	
+![](./sim06.gif)
+
 Mark the transom end height at the middle of one edge (one edge is enough) of the ply.
 
+![](./sim08.gif)
 	
 Connect the points with straight lines.
 
-	
+![](./sim09.gif)
+
 Temporarily attach three drywall screws to the ply. Two at the outer ends of the lines, one in the middle. In such a way, that the distance from the batten tensioned between the screws to the intersection of the lines is 1".
 
+![](./sim10.gif)
 	
 Draw a curve along the batten, not crossing the straight line at any point.
-
+![](./sim11.gif)
 	
 Saw along the curve. A regular hand saw is fine in this, much better than an electric jig saw. A hand saw is faster and gives a smoother curve.
 
 Flip the sawn out side over the uncut edge of the ply. Draw a line along the cut curve, saw along the line.
-
+![](./sim12.gif)
 	
 You now have the "Simbo" bottom ready. Cut the sides in the middle...
 
-	
+![](./sim13.gif)
+
 ...and rearrange the parts.
 
-	
+![](./sim14.gif)
+
 Using the bottom as a form, draw the same curvature as the bottom sides have to the side pieces, trying to minimise waste. Save the "waste" for later use.
 
-	
+![](./sim15.gif)
+
 Cut the side pieces to the correct curvature.
 
-	
-Screw 18 pieces of 2x2x2 blocks to the very edge of the bottom, at about 1' intervals, from the underside.
+![](./sim16.gif)
 
+Screw 18 pieces of 2x2x2 blocks to the very edge of the bottom, at about 1' intervals, from the underside.
+![](./sim17.gif)
 	
 It makes sense to assemble the jig at this point. The bottom will be out of the way and will get some pre stressing towards the final bend.
-So lay the lenghts of 2x4 parallel, about one foot apart, lay the bottom piece on top of them, and attach the middle of the bottom piece to the lengths of 2x4 using the two long screws and a piece of plank as a "washer".
 
+So lay the lenghts of 2x4 parallel, about one foot apart, lay the bottom piece on top of them, and attach the middle of the bottom piece to the lengths of 2x4 using the two long screws and a piece of plank as a "washer".
+![](./sim18.gif)
 	
 Bend the ends of the bottom up with two blocks of 2x4.
 
-	
-Screw the remaining 2x2x2 blocks to upper corners of both transoms.
+![](./sim19.gif)
 
+Screw the remaining 2x2x2 blocks to upper corners of both transoms.
+![](./sim23.gif)
 	
 Screw the transoms to the blocks in the ends of the bottom.
-
+![](./sim24.gif)
 	
 Join the side pieces using butt blocks. The blocks should be roughly 4" wide, and the height of the side. Cover the outer side of the seam with duct tape or plastic. Screw temporarily against a piece of plank.
 
 Glue pieces of ply 12" from the seam for rowlock attachment, if You are going to row the boat.
+![](./sim26.gif)
 
-	
 Screw the sides first to the upper transom corner blocks in one end of the boat.
 
 And then to the upper transom corner blocks in the other end.
 
-	
+![](./sim27.gif)
+
 Then proceed along the sides, alternating from side to side, one screw at the time. If You do one full side in a go You may end up with an asymmetric hull.
 
 If the bottom curvature seems incorrect at some spot, wedge it using pieces of plank between the 2x4 jig and the bottom ply.
 
 If You didn't have the jig You'd be bending the bottom and both sides, all at the same time now. I think You'd despair.
 
+![](./sim28.gif)
 	
 In case the day shines through the seam somewhere, seal the seam with duct tape. You will soon glue the seam from the outside, and You don't want the glue to run to the inside.
-
+![](./sim29.gif)
 	
 This is the principle of the seam.
 
-The bottom and side (yellow) held together with blocks and drywall screws.
-The seam between the plies filled with thickened epoxy (red).
-The seam covered with glass tape and epoxy (green).
-	
+* The bottom and side (yellow) held together with blocks and drywall screws.
+* The seam between the plies filled with thickened epoxy (red).
+* The seam covered with glass tape and epoxy (green).
+
+![](./sim01.gif)
+
 Turn the boat over. Wet the seams using a small paint brush and unthickened epoxy.
 
 Then fill the seams using thickened epoxy (peanut butter consistency).
@@ -157,14 +175,16 @@ Cover the seams with glass tape and wet the tape with unthickened epoxy.
 
 But don't cover the screw heads with epoxy. You'll remove the screws later, that's a lot easier without epoxy on them ;-)
 
+![](./sim30.gif)
+
 That's it for today. Less than three hours of effective working time used and she begins to look like a boat.
 
 You can't go on before the epoxy is hard. Better not rush it, so wait at least until the next day.
 
-	
 What was the slim "waste" from side and bottom curvature used for, by the way?
 
 To light fire in my sauna stove :-)
+![](./sim22.gif)
 
 The next day.
 
@@ -181,12 +201,13 @@ Glue the "waste triangles" from transoms to opposite corners of the hull to stif
 
 Wet the inner seams with unthickened epoxy, then apply a bead of thickened epoxy to them. And glass tape, like on the outside.
 
-	
 Now the seam should look like this:
 
-The blocks and the screws have been removed.
-Thickened epoxy bead on the inside (brown).
-Covered with glass tape and epoxy (blue).
+* The blocks and the screws have been removed.
+* Thickened epoxy bead on the inside (brown).
+* Covered with glass tape and epoxy (blue).
+![](./sim02.gif)
+
 The boat ready, but without paint, in less than five hours of effective working time.
 
 Depending on whether You are going to paint the hull, let the epoxy cure. I'm going to treat the hull with linseed oil, so I just go on with two coats of oil.
