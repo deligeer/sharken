@@ -16,7 +16,7 @@ coroplast boat
 
 I pre-scored the coroplast using a heat gun (carefully because it can melt the plastic), and using a dull wheel I had to repair window screening.
 
-![wheel-heat-gun](./wheel-heat-gun.jgp)
+![wheel-heat-gun](./wheel-heat-gun.jpg)
 
 heat gun and wheel scoring toolcloseup of scores
 
