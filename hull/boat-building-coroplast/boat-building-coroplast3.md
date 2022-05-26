@@ -1,40 +1,54 @@
 # Bracing, Making Floor, and Stiffening the Boat
+
 PART 1: The boat and making a model What am I building?
+
 PART 2: Transfering the design Onto the Coroplast
+
 PART 3: Folding the coroplast sheet
+
 This Page is PART 4: Bracing, Making Floor, and Stiffening the Boat
+
 PART 5: Finishing and Launching
+
 After marking and folding the plastic sheet and checking that everything will fold up tidily, I'm now ready to add some structure. The designer has chosen to do this by adding thwarts, a floor and some bracing.
 
-coroplast boat
+![coroplast boat](./coroplast-folding-boat-thwarts.jpg)
+
 There are 2 thwarts which get bolted in when the boat is to be used. They are not the same length, the bow thwart is narrower than the stern. Here I have taped them in to check that they fit. Ken Simpson suggests 1x2 but I was cutting down a 2x4 so my thwarts are slightly thicker and not so wide.
 
 
-coroplast boat
+![coroplast boat](./coroplast-folding-boat-thwart.jpg)
+
 Seen from the back the bow is narrower than the stern. The floor gets a plywood piece to help reinforce it.
 
 Ken Simpson suggests 3/8 thick but I have a sheet 1/4 that I will try. It's not perfect but I have it and I want to use it. I think I can add a small reinforcing lath along the length to help strengthen it. (Note: 1/4 was not thick enough particularly since it was not a high quality ply in the first place. Use 3/8 if you can.)
 
 I boiled a sample of the plywood to check for water damage and it has survived with no problems.
 
+![t-nut](./t-nut.jpg)
+
+![hole](./hole.jpg)
+
+![epoxied](epoxied.jpg)
 
 T nut used in thwartcloseup of holeT-nut epoxied in hole
 Close up of the T nut used to attach the thwart to the boat. The thwart gets a hole and the t-nut is tapped in. I've covered everything in epoxy. I'm using cheap 5 minute epoxy from the dollar store.
 
 This allows the bolt to be tightened into end grain and removed countless times.
 
+![conduit used for bracing](./conduit.jpg)
 
-conduit used for bracing
 Plastic electrical conduit is used to brace the side edge. I had a dowel which works very well to reinforce the ends where the conduit gets drilled though and bolted onto the end of the thwarts and through the hull. The dowel keeps the conduit from being crushed when the nut is tightened. I expect that since it is plugged at both ends it will float too.
 
 
-coroplast boat
+![coroplast boat](./coroplast-folding-boat2.jpg)
+
 On the Boat that Ken Built you can clearly see the conduit along about 4 feet on the side of the boat. Without some stiffening the sides would be too floppy.
 
 I think wood slats could be used instead of conduit.
 
 
-handlesbolt in handleHandles and bolt in thwart
+![handlesbolt](./bolt-handle.jpg)  in handleHandles and bolt in thwart
 4 handles are made of wood with an indentation drilled in. The bolt gets epoxied into the handle and this makes it easier to turn. The photo on the right is the bolt attached to its handle screwed into the end of the thwart. This will hold the reinforcing conduit attached to the boat and also bolt the thwart in place.
 
 All the woodden parts will be painted and sealed.
