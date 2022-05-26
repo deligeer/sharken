@@ -21,16 +21,21 @@ I had run across Ken Simpson's Webpage and he offered a one sheet folding coropl
 If this boat turns out to be reasonably usable, I will fold it and keep it in the Tanzer as a safe conditions tender. I sometimes go to the beach and anchor off shore. It would be useful just to have a handy boat and not have to tow my tender.
 
 coroplast boat
+![coroplast-folding-boat](./coroplast-folding-boat.jpg)
+
 The next time I was in the hardware shop I noticed a sheet of Coroplast!! I checked out the suggested tape and calculated that the project would cost me less than 60 dollars Canadian including taxes. I had a quarter sheet of plywood in the basement already and bits of wood and hardware.
 
-
 coroplast boatfolding seat
+![coroplast-folding-boat](./coroplast-folding-boat2.jpg)
+![](./folding-seat.jpg)
+
 The boat is essentially one sheet of plastic folded up with a couple of thwarts and side supports. He suggests using a folding seat, (free plans). On his prototype he has an elegant cowl front and back but that is not necessary. There is a plywood floor to help distribute the weight. This is where the majority of the weight of the boat comes from. The whole boat and seat should come to less than 20 pounds.
 
 I'm building this in full knowledge that it is an experimental minimalist boat and that it is not designed to run rapids! I think it would be a useful accessory to keep in the Keel boat for when I anchor off the island to go swimming on a warm day. Might get my towel and my lunch to shore and back dry. I will modify only one thing. Instead of cutting out a part and joining the 2 edges to make the front and back seams, I will fold them in. In this way if the tape lets go, then the boat will still be solid and not have a seam fail. There is my paranoia. Because the coroplast has air filled chambers running the length of the sheet and they are sealed with tape, the boat has build in buoyancy.
 
-Part 1 Make a Model of the Little Boat
+## Part 1 Make a Model of the Little Boat
 boatbuilding project model boat
+![](./printed-plan-boatbuilding.jpg)
 I downloaded Ken's plans and printed the layout page. I checked that it was to scale and it was close enough for my purpose. I printed it on an old file folder.
 
 If you look at the 4 corners you can see darker triangles that are marked to be cut. I will instead make a fold and tuck the inside.
