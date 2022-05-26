@@ -48,38 +48,53 @@ On the Boat that Ken Built you can clearly see the conduit along about 4 feet on
 I think wood slats could be used instead of conduit.
 
 
+![handles](./handles.jpg)
+
 ![handlesbolt](./bolt-handle.jpg)  in handleHandles and bolt in thwart
+
+![in-thwart](./in-thwart.jpg)
+
 4 handles are made of wood with an indentation drilled in. The bolt gets epoxied into the handle and this makes it easier to turn. The photo on the right is the bolt attached to its handle screwed into the end of the thwart. This will hold the reinforcing conduit attached to the boat and also bolt the thwart in place.
 
 All the woodden parts will be painted and sealed.
 
+![plywood boat floor](./plywood.jpg)
 
-plywood boat floor
 A quarter sheet of plywood gets sanded and corners rounded. This will be the floor. Since I am using a quarter inch thick plastic sheet it is not very rigid and cannot support a person without buckling. The plywood distributes the weight on the whole boat floor. This is good quality ply with 5 plies and it is quite stiff. I will have to be careful when I step in not to damage it.
 
 When the boat is folded, the plywood floor fits inside the folded sides. The folded boat is 2 feet x 4 and about 4 inches thick.
 
 
+![test-fold](./test-fold.jpg)
 
 testing the foldseam stiffening
+
+![stiffening](./stiffening.jpg)
+
 After starting to tape the various parts together I tested the fold to make sure it went down as flat as possible. It's almost miraculous to see the boat fold up flat.
 
 Several strips of thin wood add some stiffness to the bow and transom. They are thin strips of the same 2x4 I cut to make the thwarts. Everything gets a coat of varnish then the strips get taped in the seams. I added a bit of PL premium. I know it is not a great glue for coroplast but I would be satisfied with a weak bond supplemented with the tape. The strips are thinner than 1/4 inch and weight very little.
 
-stiffening strips taped inassembled boat
-close up of stiffening
+![stiffening-strips-for-folding-boat](./stiffening-strips-for-folding-boat.jpg)
+stiffening strips taped inassembled boat close up of stiffening
+![folding-boat-assembled](./folding-boat-assembed.jpg)
+
 I drilled the side supports made from conduit and screwed then on using the bolts with handles prepared earlier. The boat goes together well but is a bit floppy yet. At this point If I place the floor in the bottom I would not have any trouble floating and paddling around. It's still way too cold to try though!
 
+![testing-fit](./testing-fit.jpg)
 
 Only one more piece needs to be added. There are little pieces of coroplast that get attached to the thwart and help keep the sides from moving. This is next. Ken Simpson showed his boat with attractive cloth cowlings fore and aft and I might put this together as well.
 
 PART 1: The boat and making a model What am I building?
+
 PART 2: Transfering the design Onto the Coroplast
+
 PART 3: Folding the coroplast sheet
+
 This page is PART 4: Bracing, Making Floor, and Stiffening the Boat
+
 PART 5: Finishing and Launching while the peanut gallery looks on.
 
-HomeMy BoatsBoatbuilding Links & Resources from my Website
 I try to be accurate and check my information, but mistakes happen. If you decide to build a coroplast boat remember its an experimental boat and you need to use it in safe water. Wear your PDF and have fun.
 
 email me if you find mistakes, I'll fix them and we'll all benefit: Christine
