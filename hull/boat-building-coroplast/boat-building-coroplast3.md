@@ -98,3 +98,5 @@ PART 5: Finishing and Launching while the peanut gallery looks on.
 I try to be accurate and check my information, but mistakes happen. If you decide to build a coroplast boat remember its an experimental boat and you need to use it in safe water. Wear your PDF and have fun.
 
 email me if you find mistakes, I'll fix them and we'll all benefit: Christine
+
+https://www.christinedemerchant.com/boat-building-coroplast3.html
