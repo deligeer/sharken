@@ -589,30 +589,31 @@ Image Notes
 5. Velcro closure for the top opening
 
 ![MakeAttachBattenPockets3](./MakeAttachBattenPockets3.jpg)
+
 Image Notes
 1. Unlike the sails seams, I sewed over the edge of the reinforcement patches to keep the batten from snagging on them.
 
 ![MakeAttachBattenPockets](./MakeAttachBattenPockets4.jpg)
+
 Image Notes
 1. All three pockets assembled, applied with sticky tape, and ready to be put on to the sail
 
 ![MakeAttachBattenPockets](./MakeAttachBattenPockets5.jpg)
+
 Image Notes
 1. Oversew by hand from the bottom of the pocket to the top
 
 ![MakeAttachBattenPockets](./MakeAttachBattenPockets6.jpg)
+
 Image Notes
 1. Oversew back down to the bottom using the same holes.
 
 ![MakeAttachBattenPockets](./MakeAttachBattenPockets7.jpg)
+
 Image Notes
 1. Handsewn reinforcement for the forward edge of the batten opening.
 
 # Step 20: Attach the Headboard
-
-![AttachHeadboard-1](AttachHeadboard-1.jpg)
-![AttachHeadboard-2](AttachHeadboard-2.jpg)
-![AttachHeadboard-3](AttachHeadboard-3.jpg)
 
 Place the headboard onto the sail, and trace all the holes. Use a circle cutter and a deadblow hammer to cut the hole for the halyard. If attaching the headboard with rivets, use a small hole cutter to cut the rivet holes. If handsewing, use an awl or small nail coated in wax to pre-poke sewing holes.
 
@@ -622,19 +623,19 @@ As I mentioned, I pre-poked all the holes with an awl.
 
 Next, I made a piece of super-heavy sewing twine. You can buy heavy seizing twine, but it's easy and cheap to make your own. Take a piece of 1/2" three strand filament polyester line, and break it down into its three strands. Each strand can be broken down into its piled yarns. Each of those plied yarns can be broken down into a single yarn, and that's what we use to sew the headboard on with! Wax it very well with beeswax (my local Ace hardware sells beeswax chunks for very reasonably), put it in a big needle, and use your sewing palm. Go around the headboard as many times as you can with the length of twine you've got. 2-4 times seems like a good amount.
 
+![AttachHeadboard-1](AttachHeadboard-1.jpg)
+
 Image Notes
 1. If you are attaching the headboard with rivets, do not place a rivet here. You will use this hole to seize on a sail slide
 
+
+![AttachHeadboard-2](AttachHeadboard-2.jpg)
+
+![AttachHeadboard-3](AttachHeadboard-3.jpg)
 Image Notes
 1. Waxing a single-yarn for sewing on the headboard
 
 # Step 21: Install Grommets
-
-![gromment-kit](./gromment-kit.jpg)
-![gromment-couple](./gromment-couple.jpg)
-![gromment-pair](./gromment-pair.jpg)
-![gromment-hole-mark](./gromment-hole-mark.jpg)
-![gromment-hole](./gromment-hole.jpg)
 
 The track slides (or laces, robands, hoops, or whatever else you're using to attach the sail to the mast) are attached to grommets set in the luff. I believe the standard spacing for these is 18", but this is a little sail, so I decided to go with 16" spacing. This looks a little more proportionate on a small sail and is convenient to measure with a tape measure.
 
@@ -648,17 +649,33 @@ Next, I used a grommet setter to install spur grommets in the holes. I used #0 s
 
 When you use a hole cutter and a grommet setter, it's nice to use the right type of hammer. A heavy mallet or a deadblow hammer will work much better than a regular claw hammer, which tends to bounce off the cutter or grommet setter rather than transfer the force into the tool. Also, a stump makes a really excellent surface to do this on.
 
+
+![gromment-pair](./gromment-pair.jpg)
+
 Image Notes
 
 1. Spur grommets have little metal teeth that bite into the cloth and interlock with a lip on the male part of the grommet. Much stronger than hardware store grommets
+
+![gromment-kit](./gromment-kit.jpg)
+
 Image Notes
 1. This hole cutter has interchangeable cutting heads, so you don't have to buy an entire new tool for each diameter hole you want to cut
+
+![gromment-hole-mark](./gromment-hole-mark.jpg)
 
 Image Notes
 1. Marking on the luff for the center of the hole
 
+![gromment-couple](./gromment-couple.jpg)
+
 Image Notes
+
 1. Grommet setter for the #0 grommets. Give these a good wipe down before using them, otherwise that black coating will get on your hands and the sail
+
+![gromment-hole](./gromment-hole.jpg)
+
+![gromment-process](./gromment-process.jpg)
+
 
 # Step 22: Seize the Sail Slides
 
