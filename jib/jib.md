@@ -562,7 +562,7 @@ The key to this step is to use copious amounts of double-sided tape. Otherwise y
 
 My batten pockets have an opening at the top rear, which is held shut with velcro. The opening is a little longer than 1/4 the length of the batten, allowing the battens to be slid in with mild difficulty. The good news is, that they won't come flying out when you're sailing.
 
-I made the pockets out of 2" wide, 3.8oz Dacron tape, and made the pockets in such a way that there is is double-thickness on both ends.
+I made the pockets out of 2"(5.08cm) wide, 3.8oz Dacron tape, and made the pockets in such a way that there is is double-thickness on both ends.
 
 I wholeheartedly recommend mocking up the batten pockets with paper first, then making a quick full size mockup with Dacron tape to work out all the kinks before making the real thing.
 
@@ -574,28 +574,37 @@ The leech ends of the batten pockets are handsewn with heavy twine. Start at the
 
 I also made a small hand-sewn reinforcement on the forward end of the pocket opening, as that will receive a lot of strain when battens are inserted.
 
+![MakeAttachBattenPockets1](./MakeAttachBattenPockets1.jpg)
 Image Notes
+
 1. Paper mockup
 
+![MakeAttachBattenPockets2](./MakeAttachBattenPockets2.jpg)
 Image Notes
-1. 2" Dacron tape
+
+1. 2" (5.08cm)Dacron tape
 2. Reinforcement for the forward end of the pocket
 3. Folded reinforcement for the after end of the pocket
 4. Velcro closure for the top opening
 5. Velcro closure for the top opening
 
+![MakeAttachBattenPockets3](./MakeAttachBattenPockets3.jpg)
 Image Notes
 1. Unlike the sails seams, I sewed over the edge of the reinforcement patches to keep the batten from snagging on them.
 
+![MakeAttachBattenPockets](./MakeAttachBattenPockets4.jpg)
 Image Notes
 1. All three pockets assembled, applied with sticky tape, and ready to be put on to the sail
 
+![MakeAttachBattenPockets](./MakeAttachBattenPockets5.jpg)
 Image Notes
 1. Oversew by hand from the bottom of the pocket to the top
 
+![MakeAttachBattenPockets](./MakeAttachBattenPockets6.jpg)
 Image Notes
 1. Oversew back down to the bottom using the same holes.
 
+![MakeAttachBattenPockets](./MakeAttachBattenPockets7.jpg)
 Image Notes
 1. Handsewn reinforcement for the forward edge of the batten opening.
 
@@ -681,3 +690,8 @@ I have rigged and sailed the Rookie, but have yet to take any photos! I know rig
 
 # Reference:
 [http://www.instructables.com/id/Make-a-Dacron-Sail/](http://www.instructables.com/id/Make-a-Dacron-Sail/)
+
+# material list：
+
+## Dacron tape
+2" (5.08cm) Dacron tape ![](./
