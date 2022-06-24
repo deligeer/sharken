@@ -8,6 +8,14 @@ paddle type 2:
 
 ![](./leave.jpg)
 
+![](./leaveface.jpg)
+
 ![](./lock.jpg)
+
+![](./color.jpg)
+
+![](./stick.jpg)
+
+![](./assembly.jpg)
 
 price: 60 RMB
