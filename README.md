@@ -1,6 +1,8 @@
 # sharken
 boat project manager
 
+sharken boat with bluetooth
+
 ## objective 
 
 ### single sailing boat for race
@@ -22,3 +24,8 @@ for injection and rotation mold creation
 mast cration methods and solutions
 ## [jib](./jib/jib.md)
 jib creation method
+
+## SAST Tools
+
+[PVS-Studio](https://pvs-studio.com/en/pvs-studio/?utm_source=website&utm_medium=github&utm_campaign=open_source) - static analyzer for C, C++, C#, and Java code.
+
